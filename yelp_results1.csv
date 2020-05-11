@@ -1,0 +1,989 @@
+,State,City,name,cat,lat,lon,price,rating,review
+0,al, montgomery,Spa Elia,Massage,32.34219,-86.16935,$$,5.0,16.0
+1,al, montgomery,Pearl Massage,Massage Therapy,32.3327505,-86.1804451,0,4.5,11.0
+2,al, montgomery,Hands On Healing,Massage,32.3389123,-86.1943815,$$,5.0,5.0
+3,al, montgomery,Natural Healing Acupressure & Massage Therapy,Massage,32.3813204,-86.1793873,$$,4.5,16.0
+4,al, montgomery,Sophia European Day Spa & Salon,Nail Salons,32.351923,-86.290809,$$,5.0,5.0
+5,al, montgomery,Total Freedom Wellness Spa,Massage,32.4581146240234,-86.4196701049805,$$,5.0,8.0
+6,al, montgomery,Lake George Massage and Day Spa,Massage Therapy,43.39171,-73.70555,$,5.0,2.0
+7,al, montgomery,Sunny Massage,Massage Therapy,32.3287010192871,-86.2304229736328,0,5.0,1.0
+8,al, montgomery,Amplify Salon and Spa,Hair Salons,32.35902,-86.29854,$$,4.0,28.0
+9,al, montgomery,Midtown Massage,Massage,32.355999,-86.2643814,0,5.0,1.0
+10,al, montgomery,Vital Beauty Bar,Hair Salons,32.37709,-86.31453,$$,4.5,9.0
+11,al, montgomery,Indulgence Salon & Spa,Hair Salons,32.459998,-86.475452,$$,4.0,10.0
+12,al, montgomery,"Nails, Lash, & Threading",Day Spas,32.3813262,-86.2728325,0,5.0,1.0
+13,al, montgomery,Smart Skin Med Spa & Salon,Day Spas,32.4827002712441,-86.4283176627044,$$,4.0,5.0
+14,al, montgomery,Bella,Skin Care,32.33993,-86.17263,0,5.0,2.0
+15,al, montgomery,Gwen's A Southern Spa,Massage,32.3637542724609,-86.2822570800781,0,5.0,1.0
+16,al, montgomery,Pink and White Nail Lounge,Nail Salons,32.3396896293187,-86.1720303560975,$$,4.5,23.0
+17,al, montgomery,Mind & Body Holistic Spa,Massage,32.3515558987856,-86.2911929190159,$$,5.0,3.0
+18,al, montgomery,MetroFitness,Gyms,32.3409271240234,-86.1741485595703,0,5.0,1.0
+19,al, montgomery,AMS Studios,Massage Therapy,32.4598755,-86.4718913,$$,5.0,1.0
+0,al, mobile,Elements Massage - Mobile,Massage,30.6843014,-88.2020656993647,$$,4.5,15.0
+1,al, mobile,Mountain Massage & Day Spa,Day Spas,30.5232849,-87.8831832,$$,5.0,11.0
+2,al, mobile,Spa Blue,Day Spas,30.522268,-87.902258,$$,5.0,8.0
+3,al, mobile,Bliss Salon & Day Spa,Hair Salons,30.6956494355808,-88.1468349695206,$$,4.5,10.0
+4,al, mobile,Delatorre Day Spa,Day Spas,30.5246259,-87.8649446,$$,4.5,7.0
+5,al, mobile,Nouveau On Dauphin,Skin Care,30.68694,-88.10006,$$,4.0,16.0
+6,al, mobile,Spa Tea Da,Party & Event Planning,30.640094,-88.138478,0,5.0,2.0
+7,al, mobile,Massage Wellness,Reflexology,30.67692,-88.11781,0,4.5,7.0
+8,al, mobile,pure life massage and foot care,Massage,30.67346,-88.1904151,0,5.0,5.0
+9,al, mobile,Harlow Salon,Makeup Artists,30.6876938045025,-88.0607052147388,$$$,5.0,3.0
+10,al, mobile,Recovery Room,IV Hydration,30.67733,-88.14909167,0,5.0,1.0
+11,al, mobile,Therapeutic Arts Massage and Bodywork,Massage,30.6607887,-88.2102304,$$,5.0,4.0
+12,al, mobile,Island Day Spa,Day Spas,30.67728,-88.1480091,$$,3.5,13.0
+13,al, mobile,Greater Mobile Laser & Aesthetic Center,Medical Spas,30.69763,-88.143664,0,5.0,1.0
+14,al, mobile,Spring Nails & Spa,Nail Salons,30.6756505409181,-88.0911301510979,$$,5.0,8.0
+15,al, mobile,Old Shell Nail & Spa,Nail Salons,30.6963632982519,-88.1450862413464,$$,4.0,8.0
+16,al, mobile,Wax'd Day Spa,Waxing,30.65111,-88.14583,$$,3.5,15.0
+17,al, mobile,Fountain of Youth,Medical Spas,30.671592,-87.906205,0,4.0,5.0
+18,al, mobile,Alabama Healing Arts,Massage Therapy,30.6408199,-88.1886707246,0,5.0,2.0
+19,al, mobile,Salon West 54 Hundred,Hair Salons,30.64746,-88.16521,$$,5.0,15.0
+0,al, tuscaloosa,Spa Belle La Vie,Day Spas,33.26122,-87.50984,$$,3.5,7.0
+1,al, tuscaloosa,Nancy Taylor Skin Therapy & Day Spa,Day Spas,33.22957,-87.5329299,$$$,3.5,18.0
+2,al, tuscaloosa,Chancee's Wellness Spa,Massage Therapy,33.1881,-87.526192,0,3.5,6.0
+3,al, tuscaloosa,Hydralive Therapy,IV Hydration,33.2083685,-87.5650569,0,4.5,6.0
+4,al, tuscaloosa,Tuscaloosa MedSpa,Medical Spas,33.1979751586914,-87.5141372680664,0,5.0,2.0
+5,al, tuscaloosa,Professional Massage Therapy,Massage Therapy,33.20024,-87.56482,0,5.0,3.0
+6,al, tuscaloosa,Nova Vita Massage Therapy Clinic,Reiki,33.18813,-87.53304,0,5.0,3.0
+7,al, tuscaloosa,Gilda's Salon & Day Spa,Day Spas,33.1975517,-87.5356244,$$,3.5,17.0
+8,al, tuscaloosa,Massaged Life & Wellness Academy,Massage Therapy,33.19137,-87.492138,0,5.0,1.0
+9,al, tuscaloosa,Relax Magic,Massage,33.193904,-87.523826,0,3.5,3.0
+10,al, tuscaloosa,Bellagio Nails Spa,Nail Salons,33.2178505,-87.5585386,$$,3.5,39.0
+11,al, tuscaloosa,A Grayceful Touch Massage,Massage Therapy,33.117245,-87.552931,$$,5.0,3.0
+12,al, tuscaloosa,The Recovery Room - Cryo RTR and JW OMT,Massage Therapy,33.2339195,-87.5358379,0,5.0,1.0
+13,al, tuscaloosa,B.A.B.Y. Nail Spa,Nail Salons,33.23652,-87.54996,$$,3.5,37.0
+14,al, tuscaloosa,Glam Salon & Blow Dry Bar,Hair Salons,33.2117,-87.56076,0,4.5,4.0
+15,al, tuscaloosa,Happiness Nails & Spa,Nail Salons,33.236526030978,-87.5682043798315,$,3.5,8.0
+16,al, tuscaloosa,Dustin Wright,Massage Therapy,33.18448,-87.52542,0,5.0,1.0
+17,al, tuscaloosa,Image Makers,Nail Salons,33.2087163,-87.5711674,$$,5.0,6.0
+18,al, tuscaloosa,Salon Serenity,Hair Salons,33.262909,-87.516316,$$$$,2.5,7.0
+19,al, tuscaloosa,New Creations Salon,Nail Salons,33.2313194274902,-87.5341110229492,$$,4.5,23.0
+0,ca, los angeles,Spa LA,Day Spas,34.06146,-118.299043,0,4.5,279.0
+1,ca, los angeles,Wi Spa,Day Spas,34.0607837764788,-118.282635058861,$$,3.5,3075.0
+2,ca, los angeles,Hugh Spa,Day Spas,34.0507202,-118.2921715,$$,4.5,1075.0
+3,ca, los angeles,Spa Palace,Day Spas,34.0560864465747,-118.269035971689,$$,3.5,1388.0
+4,ca, los angeles,Tomoko Japanese Spa,Massage,34.0661475,-118.399275,$$$$,5.0,261.0
+5,ca, los angeles,Hideko Spa,Massage,34.0433206397985,-118.468689210713,$$,4.5,98.0
+6,ca, los angeles,Blossom Spa Hollywood,Day Spas,34.0959426,-118.3384756,$$,4.5,532.0
+7,ca, los angeles,Larchmont Sanctuary Spa,Day Spas,34.07713,-118.32399,$$,4.5,124.0
+8,ca, los angeles,The Raven Spa,Massage,34.10809,-118.26842,$$,4.0,419.0
+9,ca, los angeles,Dtox Day Spa,Day Spas,34.123084,-118.268697,$$$,4.5,354.0
+10,ca, los angeles,Ole Henriksen Face & Body Spa,Skin Care,34.0921090563275,-118.379567758058,$$$,4.5,238.0
+11,ca, los angeles,"The Ritz-Carlton Spa, Los Angeles",Massage,34.0452863053836,-118.266664110867,$$$,4.0,95.0
+12,ca, los angeles,rA Organic Spa,Day Spas,34.1811462,-118.309344,$$$,4.5,547.0
+13,ca, los angeles,V Spa Korean JimJilBang,Day Spas,34.112824,-118.150172,$$,4.5,42.0
+14,ca, los angeles,RB Day Spa,Day Spas,33.93098,-118.21128,$$,4.5,93.0
+15,ca, los angeles,Trilogy Spa,Day Spas,33.886101,-118.408424,$$,4.0,313.0
+16,ca, los angeles,Desuar Spa,Massage,34.0476902,-118.2505584,$$,4.5,248.0
+17,ca, los angeles,Crystal Spa,Day Spas,34.0630683898926,-118.298408508301,$$,3.5,457.0
+18,ca, los angeles,Hotel Bel-Air Spa,Day Spas,34.08655,-118.44643,$$$$,4.5,15.0
+19,ca, los angeles,Raya Spa,Skin Care,34.08115,-118.37687,$$,4.0,569.0
+0,ca, san diego,Eco Chateau-Mission Valley,Day Spas,32.7698334365993,-117.133269309997,$$,4.5,391.0
+1,ca, san diego,Urban Calm,Skin Care,32.71304,-117.15679,$$,5.0,165.0
+2,ca, san diego,Girl on the Go Wellness Spa,Skin Care,32.714355,-117.140584,$$,5.0,302.0
+3,ca, san diego,Alleviating Whispering Waters Day Spa,Day Spas,32.722149,-117.1596224,$$,4.5,184.0
+4,ca, san diego,Spa Kingston,Day Spas,32.7287,-117.16055,$$$,4.5,400.0
+5,ca, san diego,Cascade Spa,Massage,32.7476448,-117.1605705,$$,4.5,670.0
+6,ca, san diego,Therapie Day Spa,Skin Care,32.75171,-117.24658,$$,5.0,303.0
+7,ca, san diego,The Hidden Spa,Massage,32.74709,-117.24993,$$,4.5,649.0
+8,ca, san diego,Zen Sanctuary,Acupuncture,32.7631911635399,-117.105093374848,$$,5.0,216.0
+9,ca, san diego,The Catamaran Spa,Day Spas,32.7892965624855,-117.252607859386,$$$,4.5,139.0
+10,ca, san diego,White Rabbit Day Spa,Skin Care,32.76352,-117.1241,$$,5.0,122.0
+11,ca, san diego,Aqua Day Spa,Day Spas,32.8249517137764,-117.154255913894,$$,4.0,401.0
+12,ca, san diego,Massage Heights Rancho Penasquitos,Skin Care,32.957563,-117.125293,$$,5.0,391.0
+13,ca, san diego,La Vie Day Spa,Massage,32.83973,-117.27891,$,5.0,64.0
+14,ca, san diego,Fairmont Grand Del Mar Resort & Spa,Day Spas,32.9380621826682,-117.197974884131,$$$$,4.5,135.0
+15,ca, san diego,Rainwater Spa,Massage,32.992981,-117.0714,$$,4.5,240.0
+16,ca, san diego,EnviouSkin,Day Spas,32.7622214,-117.1464866,$$,4.5,530.0
+17,ca, san diego,New Image Skin Care & Spa,Skin Care,32.83462,-117.17449,$$,4.5,189.0
+18,ca, san diego,Spa Pendry,Day Spas,32.7093796,-117.1594658,$$$,4.5,47.0
+19,ca, san diego,La Jolla Cove Salon & Spa,Nail Salons,32.8481102,-117.2744904,$$,5.0,85.0
+0,ca, san francisco,Kabuki Springs & Spa,Day Spas,37.7847114,-122.4324242,$$,4.0,1163.0
+1,ca, san francisco,SenSpa,Massage,37.8024805337191,-122.451260313392,$$$,4.5,301.0
+2,ca, san francisco,Spa Vitale,Day Spas,37.79383,-122.3934,$$$,4.5,123.0
+3,ca, san francisco,Imperial Spa,Day Spas,37.783973,-122.433985,$$,4.0,705.0
+4,ca, san francisco,Pearl Spa & Sauna,Day Spas,37.7856868,-122.4290763,$$,5.0,765.0
+5,ca, san francisco,Qua The Spa at SOMA GRAND,Massage,37.77844,-122.41232,$$,4.0,290.0
+6,ca, san francisco,Luminous Day Spa,Day Spas,37.65517,-122.40871,$$,4.5,297.0
+7,ca, san francisco,Earthbody,Massage,37.7761231031466,-122.42604817574,$$$,4.5,504.0
+8,ca, san francisco,Spa J'Adore,Day Spas,37.78831,-122.40983,$$,4.0,497.0
+9,ca, san francisco,Nob Hill Spa,Day Spas,37.7914644,-122.4121171,$$$,4.0,502.0
+10,ca, san francisco,Studio Soothe,Massage,37.7736784,-122.4473901,$$,5.0,297.0
+11,ca, san francisco,Cocoon Urban Day Spa,Massage,37.7868162,-122.3942574,$$$,4.0,862.0
+12,ca, san francisco,Onsen Bath,Saunas,37.78387,-122.41539,$$,4.0,151.0
+13,ca, san francisco,Royal Thai Spa,Day Spas,37.8059549436272,-122.41785270333,$$,4.5,491.0
+14,ca, san francisco,Cavallo Point Healing Arts Center & Spa,Day Spas,37.83767,-122.47942,$$$,3.5,155.0
+15,ca, san francisco,Spa Radiance,Skin Care,37.79734,-122.43583,$$$,4.0,331.0
+16,ca, san francisco,Almonte Spa,Massage,37.8877638348019,-122.526482385178,$$,4.5,127.0
+17,ca, san francisco,Nomi Day Spa,Day Spas,37.75425,-122.39114,$$,4.5,54.0
+18,ca, san francisco,International Orange Spa,Day Spas,37.7885784,-122.4336786,$$$,4.0,534.0
+19,ca, san francisco,Zen Day Spa,Day Spas,37.771447508572,-122.43495938075,$$,4.0,232.0
+0,ca, fresno,La Peau Spa,Skin Care,36.8517,-119.80647,$$,5.0,143.0
+1,ca, fresno,Muses Day Spa,Day Spas,36.859628,-119.757375,$$$,4.5,112.0
+2,ca, fresno,True REST Float Spa,Float Spa,36.8725186,-119.7646599,0,5.0,25.0
+3,ca, fresno,Sheer Bliss,Skin Care,36.76782,-119.80394,$$,4.5,95.0
+4,ca, fresno,Estancia Day Spa & Salon,Day Spas,36.8523549,-119.7309348,$$,4.5,62.0
+5,ca, fresno,Amenities Aveda Spa & Salon,Day Spas,36.809302,-119.807636,$$,4.0,88.0
+6,ca, fresno,Chaimontree & Flores Spa,Skin Care,36.791002,-119.7821808,0,4.5,18.0
+7,ca, fresno,Thai Day Spa,Massage,36.80736,-119.84753,$$,4.5,95.0
+8,ca, fresno,Organisch Spa,Day Spas,36.823559,-119.8258523,$$,4.5,9.0
+9,ca, fresno,The Spa,Massage,36.807267,-119.708788,$$,5.0,2.0
+10,ca, fresno,The Spa & Hungry Hair Salon,Skin Care,36.8086449,-119.805984,$$$,3.5,96.0
+11,ca, fresno,Mind Body & Massage Spa,Day Spas,36.8214507333359,-119.772625722684,$$,4.5,14.0
+12,ca, fresno,Luxe Salon & Spa,Skin Care,36.87213,-119.76543,$$$,4.5,20.0
+13,ca, fresno,Royal Thai Massage,Massage Therapy,36.810558,-119.7136456,0,5.0,1.0
+14,ca, fresno,Therapeutic Mobile Massage By Jenn Guerra,Massage Therapy,36.90783,-119.74999,0,5.0,73.0
+15,ca, fresno,Bloom Healing Arts,Massage,36.8098182678223,-119.776611328125,$$,5.0,36.0
+16,ca, fresno,Green Lily Massage,Massage Therapy,36.79311,-119.72859,0,5.0,1.0
+17,ca, fresno,Suriyo Thai Massge,Massage Therapy,36.85139,-119.80354,0,5.0,28.0
+18,ca, fresno,Preen,Hair Salons,36.84525,-119.805855,$$$,4.0,73.0
+19,ca, fresno,Relaxing Foot Spa,Massage Therapy,36.838154,-119.82766,0,5.0,18.0
+0,ca, sacramento,Asha Urban Baths,Day Spas,38.5582066850206,-121.477445523259,$$,4.5,215.0
+1,ca, sacramento,Emperia Wellness & Spa,Day Spas,38.5782001912594,-121.491319164634,$$$,4.5,44.0
+2,ca, sacramento,The Honey Throne,Day Spas,38.5860737,-121.4011189,$$,5.0,45.0
+3,ca, sacramento,Serenity Spa,Day Spas,38.74298,-121.22823,$$,4.5,226.0
+4,ca, sacramento,Spa LaLe,Massage,38.5341328007141,-121.518682000251,$$,4.0,67.0
+5,ca, sacramento,Blue Tangerine Spa,Day Spas,38.57482,-121.43488,$$,5.0,26.0
+6,ca, sacramento,Sacramento Massage Studio,Massage,38.5758113600872,-121.475622881012,$$,5.0,168.0
+7,ca, sacramento,FloatAway Spas,Float Spa,38.59945,-121.41425,0,5.0,99.0
+8,ca, sacramento,Heavenly Salt Therapy,Halotherapy,38.56754,-121.463697,$$,4.0,30.0
+9,ca, sacramento,Destination Aesthetics,Medical Spas,38.56562,-121.41913,$$$,4.5,280.0
+10,ca, sacramento,Esthetics by Jeanette,Day Spas,38.60635,-121.38153,$$,4.5,226.0
+11,ca, sacramento,The Spa Simply Skin,Skin Care,38.644453,-121.148091,$$,4.5,233.0
+12,ca, sacramento,Arden Hills Athletic & Social Club,Day Spas,38.5880399310225,-121.355195066132,$$$,3.5,366.0
+13,ca, sacramento,Now +  Zen Acupuncture,Acupuncture,38.574803,-121.46565083,0,5.0,2.0
+14,ca, sacramento,All Seasons Day Spa,Day Spas,38.56879,-121.4717,$$,5.0,15.0
+15,ca, sacramento,Spa At Thunder Valley,Massage,38.8403761486615,-121.313781738281,$$,3.5,114.0
+16,ca, sacramento,Happy Day Spa,Day Spas,38.50111,-121.431,$$,3.5,402.0
+17,ca, sacramento,Dolce Vita Day Spa,Day Spas,38.7228233,-121.2080366,$$$,4.0,73.0
+18,ca, sacramento,Le Blanc Day Spa,Skin Care,38.6428093,-121.518919,$$,4.5,54.0
+19,ca, sacramento,Spa De Beauté,Day Spas,38.5105340927839,-121.541649475694,$$,5.0,24.0
+0,ca, riverside,The Spa At Canyon Crest,Day Spas,33.956924,-117.332212,$$,4.5,69.0
+1,ca, riverside,Kelly's Spa,Day Spas,33.9832025258605,-117.373037921735,$$$,4.0,227.0
+2,ca, riverside,The Lux Day Spa,Day Spas,33.94586,-117.40269,$$,4.5,65.0
+3,ca, riverside,Massage Trilogy - Riverside,Skin Care,33.9561158417644,-117.329961253568,$$,4.5,71.0
+4,ca, riverside,Skin Spa,Day Spas,33.94273,-117.39279,$$,5.0,51.0
+5,ca, riverside,Salt Oasis,Medical Spas,34.107327,-117.54393,$$,5.0,139.0
+6,ca, riverside,Healing Ways Spa,Day Spas,33.9491,-117.39713,$$,5.0,15.0
+7,ca, riverside,Spa of the Pines,Massage Therapy,34.25165,-117.19234,0,4.5,6.0
+8,ca, riverside,Serenity Thai Massage,Massage,33.9497903,-117.397304,$$,4.5,124.0
+9,ca, riverside,7 and Rose Nail Salon & Spa,Nail Salons,33.94564,-117.410191,$$,4.5,229.0
+10,ca, riverside,Time 2 Relax Day Spa,Day Spas,33.93893,-117.549148,$$,4.5,70.0
+11,ca, riverside,Float State,Float Spa,33.813241,-117.508102,$$,5.0,80.0
+12,ca, riverside,Massage Green Spa,Massage Therapy,33.9603145,-117.3923368,$$,4.0,146.0
+13,ca, riverside,Derma Spa,Day Spas,33.91871,-117.44537,$$,4.5,46.0
+14,ca, riverside,European Skin Care & Holistic Center,Skin Care,33.94303,-117.40574,$$,4.5,52.0
+15,ca, riverside,Harvard Garden Day Spa,Skin Care,34.1063349263159,-117.716635693091,$$,4.5,103.0
+16,ca, riverside,Simmer Down Day Spa,Skin Care,33.9614497513579,-117.391218356788,$$,5.0,31.0
+17,ca, riverside,Veronica Margo Spa,Day Spas,33.93564,-117.27444,0,5.0,4.0
+18,ca, riverside,International Day Spa,Day Spas,34.0513381958008,-117.179168701172,$$,4.5,108.0
+19,ca, riverside,Pure Daily Bliss Day Spa,Skin Care,33.8989859431682,-117.542822679098,$$,4.0,268.0
+0,ca, san bernardino,Spa of the Pines,Massage Therapy,34.25165,-117.19234,0,4.5,6.0
+1,ca, san bernardino,Sunny Day Spa,Day Spas,34.089328,-117.295085,$,4.0,85.0
+2,ca, san bernardino,International Day Spa,Day Spas,34.0513381958008,-117.179168701172,$$,4.5,108.0
+3,ca, san bernardino,Blue Ocean Massage,Massage,34.175145,-117.330406,0,5.0,1.0
+4,ca, san bernardino,Del Rosa Massage,Massage,34.14546,-117.25282,$$,4.0,48.0
+5,ca, san bernardino,Kelly's Spa,Day Spas,33.9832025258605,-117.373037921735,$$$,4.0,227.0
+6,ca, san bernardino,Bellissima Aveda Spa,Massage,34.0567,-117.17968,$$,4.5,45.0
+7,ca, san bernardino,Mountain Massage Therapy,Massage Therapy,34.26615,-117.168723,0,5.0,12.0
+8,ca, san bernardino,Redlands Cryo Spa,Day Spas,34.0686912536621,-117.206192016602,$$,4.5,36.0
+9,ca, san bernardino,Cloud 9 Medi Spa,Medical Spas,34.06868,-117.217,$$,4.5,71.0
+10,ca, san bernardino,Pure Daily Bliss Day Spa,Skin Care,33.8989859431682,-117.542822679098,$$,4.0,268.0
+11,ca, san bernardino,Nonaca Healing,Reiki,34.2510766,-117.1896306,0,5.0,13.0
+12,ca, san bernardino,Metropolitan Oasis Medical Aesthetic Center and Spa,Medical Spas,34.136302,-117.299489,$$,3.5,18.0
+13,ca, san bernardino,Blue Jay Day Spa,Day Spas,34.2460499,-117.21007,$$,4.5,16.0
+14,ca, san bernardino,Laura's Wellness Spa Facial & Body Care,Skin Care,34.05624,-117.1889,$$,4.5,14.0
+15,ca, san bernardino,Arbor Vitae Life Spa,Skin Care,34.05663,-117.17476,$,5.0,36.0
+16,ca, san bernardino,Trendsetter Salon & Day Spa,Nail Salons,34.107909,-117.194551,$$,4.5,190.0
+17,ca, san bernardino,Hospitality Skin Spa & Aesthetics,Day Spas,34.0626032,-117.2171317,$$,4.5,39.0
+18,ca, san bernardino,Elizabeth's Natural Wellness & Beauty,Massage Therapy,34.065451,-117.285886,0,4.5,10.0
+19,ca, san bernardino,Ancient Thai Massage,Massage,34.0657,-117.18285,$$,4.5,144.0
+0,ca, orange,The Gardens Wellness Spa,Skin Care,33.8090051,-117.8442299,$$,4.5,313.0
+1,ca, orange,Bodycentre Wellness Suites,Day Spas,33.8359819317668,-117.837563292625,$$,4.5,180.0
+2,ca, orange,Facial Cafe,Skin Care,33.8227881,-117.8354609,$$,4.5,118.0
+3,ca, orange,Awaken Float Lounge,Massage Therapy,33.8350949,-117.8371919,0,5.0,137.0
+4,ca, orange,Montanya Spa,Day Spas,33.76232,-117.8684,$$,4.5,108.0
+5,ca, orange,Burke Williams Day Spa,Skin Care,33.78324,-117.89294,$$$,4.0,592.0
+6,ca, orange,Spa Aesthetica,Laser Hair Removal,33.781357,-117.868369,$$,4.5,139.0
+7,ca, orange,Massage Circle,Massage,33.80878,-117.83614,$,4.0,205.0
+8,ca, orange,Club Skin Gym,Skin Care,33.814161,-117.8216457,0,5.0,84.0
+9,ca, orange,Spatacular,Massage,33.7887328949148,-117.815660915344,$$,4.0,76.0
+10,ca, orange,Skinsations Spa,Skin Care,33.7615001,-117.8293649,$$$,4.0,102.0
+11,ca, orange,Le Petit Skin,Skin Care,33.775613,-117.8654174,$$,4.5,119.0
+12,ca, orange,Petite Spa,Day Spas,33.7877651,-117.8713504,$$,4.0,4.0
+13,ca, orange,Body Therapy Center,Massage,33.78816,-117.84172,$,4.5,131.0
+14,ca, orange,Orange Day Spa,Massage,33.79047,-117.835224,$$,4.0,16.0
+15,ca, orange,Nature Spa & Massage,Massage,33.7952133,-117.8355451,0,4.0,22.0
+16,ca, orange,BodyCentre Fullerton,Massage,33.87059,-117.9346,$$,4.5,537.0
+17,ca, orange,Tokyo Shiatsu,Massage Therapy,33.8207839266629,-117.836929538098,0,4.5,190.0
+18,ca, orange,Bodycentre Wellness Suites,Day Spas,33.853974,-117.815197,$$,4.5,246.0
+19,ca, orange,Zianna Day Spa,Massage,33.8519794993847,-117.792447030094,$$,4.5,56.0
+0,ca, santa clara,Saigon Spa,Day Spas,37.323756,-121.981038,$$,4.0,165.0
+1,ca, santa clara,Green Healthy Massage,Massage,37.3753062,-121.9600578,$,4.0,257.0
+2,ca, santa clara,TrioSpa,Massage,37.344389,-121.930479,$$,4.5,267.0
+3,ca, santa clara,Silver Sea Day Spa,Day Spas,37.310378,-121.917427,$$,4.5,315.0
+4,ca, santa clara,Family Medical Health Center,Day Spas,37.32473,-121.96938,$$,3.5,147.0
+5,ca, santa clara,Touch To Heal Spa,Massage,37.285765,-121.950075,$$,4.5,106.0
+6,ca, santa clara,OrangeTwist - Santa Clara,Medical Spas,37.3822151,-121.9755475,$$$,4.0,42.0
+7,ca, santa clara,Verde Touch,Massage,37.39514,-122.10374,$$,5.0,155.0
+8,ca, santa clara,Slice of Heaven Day Spa,Day Spas,37.31165,-121.90376,$$,5.0,96.0
+9,ca, santa clara,Ritual Day Spa,Day Spas,37.2872798144817,-121.943513453007,$$,4.5,95.0
+10,ca, santa clara,Day Dream Therapy,Saunas,37.32641,-121.91538,0,5.0,226.0
+11,ca, santa clara,Plearn Massage Center,Reflexology,37.38287,-121.99508,0,4.5,26.0
+12,ca, santa clara,Rose Garden Foot Spa,Massage,37.3528519,-121.9872284,$$,4.5,12.0
+13,ca, santa clara,Amazing Foot Spa,Massage,37.351826338431,-121.982098803821,$,4.0,283.0
+14,ca, santa clara,Dynasty Health Spa,Massage,37.3521751,-121.9745598,$,3.5,224.0
+15,ca, santa clara,Vive la Vie Massage,Reflexology,37.33929,-121.97768,$$,3.5,133.0
+16,ca, santa clara,Sachs Day Spa,Massage,37.3039712,-121.8978854,$$,4.5,91.0
+17,ca, santa clara,Sol Tan Salon,Spray Tanning,37.29737,-121.91407,$$,5.0,134.0
+18,ca, santa clara,Elements Massage - Sunnyvale,Massage Therapy,37.368167,-122.0357171,$$,4.5,143.0
+19,ca, santa clara,Oasis Thai Spa,Massage Therapy,37.283,-121.93253,0,5.0,70.0
+0,ca, ventura,Coastal Skin Care,Day Spas,34.281958,-119.294364,$$,5.0,83.0
+1,ca, ventura,Twin Palms Health and Beauty,Skin Care,34.275635,-119.2569311,$$,5.0,50.0
+2,ca, ventura,Orange Health Spa,Massage Therapy,34.2485311,-119.1956117,$,4.5,54.0
+3,ca, ventura,Plush Med Spa,Medical Spas,34.2169928,-119.0423428,$$,4.5,57.0
+4,ca, ventura,Vie the Spa,Day Spas,34.2191828,-119.0425832,$$,4.5,39.0
+5,ca, ventura,Pure Skin Wellness Spa,Skin Care,34.256733,-119.233244,$$,5.0,11.0
+6,ca, ventura,The Sauna Studio,Massage,34.27329,-119.249,$$,5.0,23.0
+7,ca, ventura,Ventura Float Center,Massage,34.2544860839844,-119.218551635742,$$,4.5,20.0
+8,ca, ventura,Ventura Skin Care,Skin Care,34.2601609,-119.236956,$$,5.0,11.0
+9,ca, ventura,Embassy Suites Mandalay Beach Resort Spa,Day Spas,34.1787195423371,-119.235485572892,$$$$,4.5,7.0
+10,ca, ventura,Sweet Surrender Day Spa,Day Spas,34.279036,-119.2754644,$$,4.5,12.0
+11,ca, ventura,Embody Wellness,Massage,34.2603547,-119.2421889,$$,5.0,57.0
+12,ca, ventura,Beauty Lounge Medspa + Wellness,Day Spas,34.2164404,-119.0371104,$$,5.0,47.0
+13,ca, ventura,Haven,Massage,34.28173,-119.2965,0,4.5,14.0
+14,ca, ventura,Relax'N Spa Massage,Massage Therapy,34.27726,-119.21208,0,4.0,55.0
+15,ca, ventura,The Zen Stop,Massage,34.2795000714043,-119.289822020068,$$,4.5,13.0
+16,ca, ventura,Kathrine Heinzman Skin & Body Care Centre,Day Spas,34.26884,-119.245916,$$,5.0,6.0
+17,ca, ventura,A Secret Place Salon & Day Spa,Skin Care,34.278155,-119.271784,$$,4.5,62.0
+18,ca, ventura,Sun Spa & Massage,Massage,34.2627352105782,-119.238109179099,$,4.0,57.0
+19,ca, ventura,Ventura Chiropractic,Chiropractors,34.2610428,-119.2137754,0,5.0,36.0
+0,ca, san mateo,Kanna Spa,Massage,37.54643,-122.3118,$$,4.5,284.0
+1,ca, san mateo,Water Lounge Spa,Day Spas,37.54404,-122.30561,$$,3.5,524.0
+2,ca, san mateo,Spa Muku,Day Spas,37.53113,-122.2886,$,4.0,58.0
+3,ca, san mateo,AvantGard Spa,Skin Care,37.498779296875,-122.251319885254,$$$,4.5,243.0
+4,ca, san mateo,Les Amis - Salon et Spa,Hair Salons,37.5200863,-122.3375582,$$,5.0,278.0
+5,ca, san mateo,The Estheticians,Massage,37.571,-122.33172,$$,4.5,220.0
+6,ca, san mateo,Elements Massage - San Mateo,Massage,37.5631871,-122.3242473,$$,4.5,143.0
+7,ca, san mateo,Bua Thai Wellness Center,Massage,37.5297322,-122.290925,$$,4.5,231.0
+8,ca, san mateo,Glow Skin & Body,Skin Care,37.55485,-122.31092,$$,4.5,219.0
+9,ca, san mateo,Ananya Thai Massage Wellness and Spa,Massage Therapy,37.5439246,-122.3061872,0,4.0,141.0
+10,ca, san mateo,Y Salon & Spa,Hair Salons,37.56462,-122.3242372,$$,5.0,191.0
+11,ca, san mateo,Rebeccana Day Spa,Day Spas,37.49891,-122.25185,$$,5.0,61.0
+12,ca, san mateo,Oceanic Foot Spa,Massage,37.5450117,-122.2706453,$,4.0,552.0
+13,ca, san mateo,Izumi Spa,Massage Therapy,37.531213,-122.291564,0,4.0,71.0
+14,ca, san mateo,Shamrock Day Spa,Massage,37.56725,-122.32543,$$,4.0,68.0
+15,ca, san mateo,La Estetica Wellness Spa,Day Spas,37.5728171,-122.3330663,$$,5.0,43.0
+16,ca, san mateo,Sanctuary Spa At Bay Club Redwood Shores,Skin Care,37.5191116333008,-122.251182556152,$$$,4.5,30.0
+17,ca, san mateo,NB Beauty,Hair Removal,37.5721,-122.33288,$$,5.0,152.0
+18,ca, san mateo,MODA Eco Spa & Wellness,Skin Care,37.58003,-122.3466,$$,5.0,110.0
+19,ca, san mateo,Pannawich Advanced Thai Massage,Massage,37.5533258,-122.3158773,$$,5.0,136.0
+0,co, denver,5 Star Salt Caves,Day Spas,39.7034878,-104.9801648,$$,4.5,140.0
+1,co, denver,Indulgences Day Spa,Massage,39.773165,-105.024865,$$,4.5,298.0
+2,co, denver,The Woodhouse Day Spa - Denver,Day Spas,39.7435638312992,-104.975012453332,$$$,4.0,185.0
+3,co, denver,Lake Steam Baths,Reflexology,39.74017214,-105.03418433,0,4.5,91.0
+4,co, denver,Eden Spa,Day Spas,39.73362,-104.98845,$$,4.5,120.0
+5,co, denver,Botanica Wellness Sanctuary,Acupuncture,39.74456,-104.96365,$$,5.0,100.0
+6,co, denver,Red Rocks Spa,Skin Care,39.68347,-104.880468,$$,4.0,21.0
+7,co, denver,The Woodhouse Day Spa - Littleton,Day Spas,39.5654269520457,-105.0013654,$$,4.5,64.0
+8,co, denver,Denver Four Seasons Hotel Spa,Hair Salons,39.746699,-104.998012,$$$,4.0,119.0
+9,co, denver,Oasis,Massage,39.74278,-104.9539099,$$,4.5,22.0
+10,co, denver,Revive Colorado,IV Hydration,39.749929,-104.886758,0,4.5,20.0
+11,co, denver,Izba Spa,Hydrotherapy,39.73925,-104.96013,$$,4.5,69.0
+12,co, denver,E5 Day Spa,Massage Therapy,39.6957149,-104.8943108,$$,5.0,27.0
+13,co, denver,The Woodhouse Day Spa - Streets at SouthGlenn,Day Spas,39.5909882915325,-104.962224222198,$$$,4.5,61.0
+14,co, denver,Peace of Mind Massage,Massage Therapy,39.693868,-104.980685,0,5.0,168.0
+15,co, denver,The Woodhouse Day Spa - Golden,Day Spas,39.7581134,-105.227592,$$,4.5,26.0
+16,co, denver,Five Wellbeing Studio and Spa,Day Spas,39.61511,-105.016964,$$,5.0,31.0
+17,co, denver,Body Massage Wellness Spa,Massage,39.74462,-104.990665,$$,4.0,130.0
+18,co, denver,"The Ritz-Carlton Spa, Denver",Day Spas,39.7496615657703,-104.991737902164,$$$,4.0,39.0
+19,co, denver,The Dragontree Spa,Day Spas,40.019137,-105.275413,$$,4.5,101.0
+0,co, pueblo,Orange Skye,Day Spas,38.2726231,-104.6074881,$$,4.0,4.0
+1,co, pueblo,Intuitive Science Holistic Massage Center,Massage Therapy,38.28665,-104.58571,0,5.0,3.0
+2,co, pueblo,Alter Image Salon,Hair Salons,38.2701246,-104.6085749,$$,5.0,11.0
+3,co, pueblo,Full Body Wellness,Acupuncture,38.2717699,-104.6138,0,5.0,1.0
+4,co, pueblo,Tracy's Place,Hair Salons,38.2325744628906,-104.660842895508,$,5.0,3.0
+5,co, pueblo,Root Republic Salon & Microspa,Hair Salons,38.251374,-104.606322,0,4.5,12.0
+6,co, pueblo,Studio127 Salon & DaySpa,Nail Salons,38.319938659668,-104.621002197266,0,3.5,3.0
+7,co, pueblo,Headlines West,Hair Salons,38.337966,-104.73981,0,5.0,4.0
+8,co, pueblo,Renew Medical Spa,Medical Spas,38.264786,-104.6134968,0,5.0,1.0
+9,co, pueblo,Green Spa,Massage,38.3090674,-104.5987049,$$$$,1.0,1.0
+10,co, pueblo,Bliss Nails,Nail Salons,38.337966,-104.73981,0,5.0,4.0
+11,co, pueblo,Euphoria Salon,Cosmetics & Beauty Supply,38.2717699,-104.6138,0,3.5,3.0
+12,co, pueblo,On The Edge Barber & Styling,Hair Salons,38.31988,-104.62246,0,5.0,1.0
+13,co, pueblo,Pure Harmony,Skin Care,38.332115,-104.742683,0,5.0,1.0
+14,co, pueblo,Chinese Massage,Massage Therapy,38.304128,-104.608489,0,1.5,3.0
+15,co, pueblo,Headlines,Permanent Makeup,38.259079,-104.6175232,$$,4.0,12.0
+16,co, pueblo,Stylz On The Riverwalk,Hair Salons,38.2654,-104.61283,$$,3.5,8.0
+17,co, pueblo,Colorado Massage,Massage Therapy,38.266866,-104.626358,0,2.5,3.0
+18,co, pueblo,Jalyn Styles Salon,Hair Salons,38.382578,-104.690904,$$,5.0,1.0
+19,co, pueblo,Pueblo Nails and Spa,Nail Salons,38.312385,-104.613924,$$$,2.5,21.0
+0,ct, new haven,Elm City Wellness,Skin Care,41.321651,-72.9122561,$$,5.0,111.0
+1,ct, new haven,Inner Essence Spa & Wellness,Day Spas,41.2880836,-72.9732762,$$,5.0,32.0
+2,ct, new haven,The Serene Spot,Massage,41.3194776685899,-72.9187451016477,0,5.0,12.0
+3,ct, new haven,Rain Wellness Spa,Day Spas,41.2782974243164,-72.8545379638672,$$,4.5,26.0
+4,ct, new haven,Whitney Massage Therapy,Massage Therapy,41.3111496,-72.9221573,0,4.0,8.0
+5,ct, new haven,Massage Savvy,Massage,41.308326,-72.724429,$$,4.5,20.0
+6,ct, new haven,The Well For Women,Yoga,41.3284056,-72.9596393,0,5.0,7.0
+7,ct, new haven,Soma Therapies,Massage Therapy,41.31139,-72.91865,0,4.5,7.0
+8,ct, new haven,Massage Green Spa,Skin Care,41.2599924102721,-73.0097354895001,0,4.0,34.0
+9,ct, new haven,Surrender to the Float,Massage Therapy,41.29179,-72.68635,0,4.5,8.0
+10,ct, new haven,Peony Spa,Massage,41.2523254,-73.0196196,$,5.0,1.0
+11,ct, new haven,Westville Massage-Wellness for Every Body,Massage Therapy,41.3227889,-72.9637475,0,5.0,7.0
+12,ct, new haven,Amadeus Natural Health Services,Hypnosis/Hypnotherapy,41.3139541,-72.9198848,0,5.0,8.0
+13,ct, new haven,Simply Flawless by Sami,Makeup Artists,41.310956,-72.9198052,$$,4.5,30.0
+14,ct, new haven,Soho Hair Group & Day Spa,Day Spas,41.327347,-72.960669,$$$,3.5,71.0
+15,ct, new haven,"Sanjay Aggarwal, MD",Internal Medicine,41.31122,-72.94289,0,5.0,1.0
+16,ct, new haven,New Haven Rolfing,Massage Therapy,41.3074209,-72.922635,0,5.0,1.0
+17,ct, new haven,Hair Club,Cosmetic Surgeons,41.28951,-72.92988,0,5.0,1.0
+18,ct, new haven,Revive Wellness Center,Naturopathic/Holistic,41.3266677856445,-72.9592666625977,0,5.0,7.0
+19,ct, new haven,Esana Plastic Surgery Center & Medspa,Cosmetic Surgeons,41.31052,-72.918098,$$$,4.5,23.0
+0,ct, hartford,A Touch Of Bliss Organic Spa,Massage,41.7573634,-72.7185618,$$,4.5,64.0
+1,ct, hartford,Del Soul Spa,Day Spas,41.69796,-72.72111,$$,5.0,60.0
+2,ct, hartford,Elite Massage,Massage,41.75918,-72.68438,0,5.0,7.0
+3,ct, hartford,Seoul Spa & Sauna,Day Spas,41.7274092610651,-72.7201396599412,$$,4.0,54.0
+4,ct, hartford,VASU,Skin Care,41.759395,-72.703282,$$,5.0,45.0
+5,ct, hartford,Prossage Wellness,Massage,41.7637,-72.66965,$$,4.5,24.0
+6,ct, hartford,Body + Sole Spa Therapies,Waxing,41.758039,-72.723321,$$,4.5,41.0
+7,ct, hartford,BareSkin,Laser Hair Removal,41.758163,-72.723961,$$,5.0,11.0
+8,ct, hartford,Delamar West Hartford,Day Spas,41.7597820707439,-72.7386740525498,$$$,4.5,28.0
+9,ct, hartford,XES Beauty Lounge,Day Spas,41.732301,-72.735144,$$,4.5,51.0
+10,ct, hartford,The Hot Stone Spa,Day Spas,41.727428,-72.6165876,0,5.0,1.0
+11,ct, hartford,Face It Medical Aesthetics and Spa,Medical Spas,41.7625389,-72.7423935,$$$,4.5,35.0
+12,ct, hartford,Oggi Salons and Spa,Hair Salons,41.7666007,-72.676885,0,4.5,8.0
+13,ct, hartford,C'est La Vie Day Spa,Waxing,41.71111,-72.60579,$$,5.0,5.0
+14,ct, hartford,Your Green Spa,Skin Care,41.733146,-72.733192,0,4.5,25.0
+15,ct, hartford,Omni Massage of Connecticut,Massage Therapy,41.6967276,-72.7210816,0,5.0,21.0
+16,ct, hartford,Health&Beauty Spa,Skin Care,41.7205822,-72.6142231,0,3.5,15.0
+17,ct, hartford,Healing Hands Massage,Massage,41.7579799,-72.6840457,$$,4.0,10.0
+18,ct, hartford,Body and Beyond,Massage Therapy,41.716238,-72.617924,0,5.0,3.0
+19,ct, hartford,Royal Spa,Day Spas,41.73418,-72.62567,0,4.0,4.0
+0,ga, macon,Azul Salon and Spa,Hair Salons,32.9073319,-83.6868432,$$$,4.5,15.0
+1,ga, macon,Kay-Lynn Massage & Bodywork Studio,Massage,32.8534203,-83.6564789,$$,5.0,3.0
+2,ga, macon,Tom Hill Nail & Spa,Nail Salons,32.8966133643041,-83.6923901521149,$$,5.0,13.0
+3,ga, macon,Emerald Spa,Day Spas,32.8155255,-83.7010349,0,5.0,1.0
+4,ga, macon,Holistic Touch,Massage Therapy,32.85342,-83.65907,$$,5.0,5.0
+5,ga, macon,Spa Medical,Skin Care,32.83326,-83.62892,$$,4.0,4.0
+6,ga, macon,Utopia Salon & Spa,Hair Salons,32.873062,-83.706657,$$$,5.0,1.0
+7,ga, macon,Heirloom Salon & Spa,Hair Salons,32.8694,-83.70088,0,5.0,2.0
+8,ga, macon,2CU4 Massage Therapy,Reflexology,32.9136792,-83.7046315,0,3.5,3.0
+9,ga, macon,Merle Norman & Day Spa,Day Spas,32.9252158,-83.7336247,$$,5.0,1.0
+10,ga, macon,Aesthetics Anti-Aging Center,Day Spas,32.886507,-83.768749,$$,3.0,16.0
+11,ga, macon,B. Monroe Salon,Hair Salons,32.9264488220215,-83.7376403808594,$$,4.5,30.0
+12,ga, macon,B-Relaxed,Massage Therapy,32.8609154690078,-83.6855301260948,0,5.0,1.0
+13,ga, macon,Renaissance Plastic Surgery,Cosmetic Surgeons,32.9174156188965,-83.7134552001953,0,4.0,4.0
+14,ga, macon,Macon Massage,Massage,32.828006,-83.768524,0,3.0,1.0
+15,ga, macon,Mandy Miller,Massage Therapy,32.839604,-83.631697,0,5.0,1.0
+16,ga, macon,"Anissa Jones, DC",Chiropractors,32.8339378,-83.6285099,0,5.0,1.0
+17,ga, macon,Changes Hair Salon,Hair Salons,32.861484,-83.687561,$,5.0,3.0
+18,ga, macon,Dash Salon & Spa,Hair Salons,32.8714567084449,-83.703883623121,$$,4.5,2.0
+19,ga, macon,The Doux Salon,Blow Dry/Out Services,32.8370094,-83.6292038,$$,5.0,3.0
+0,hi, honolulu,Red Earth Massage & Wellness,Massage,21.28706,-157.835836,$$,5.0,367.0
+1,hi, honolulu,Lava Massage & Day Spa,Massage,21.2915134,-157.8353394,$$,5.0,235.0
+2,hi, honolulu,The LATHER Spa at The Modern Honolulu,Massage,21.284776,-157.839049,$$$,4.5,82.0
+3,hi, honolulu,Zen Foot Massage & Sauna,Saunas,21.27481,-157.8154999,0,4.5,163.0
+4,hi, honolulu,Honolulu Spa & Wellness,Skin Care,21.292818,-157.843009,$$,5.0,284.0
+5,hi, honolulu,Royal Kaila Wedding and Spa,Day Spas,21.2728888550767,-157.822947165082,$$,4.5,55.0
+6,hi, honolulu,Spa Royal Hawaiian,Massage,21.2794751551382,-157.831147517586,$$,4.5,61.0
+7,hi, honolulu,Loess Spa,Reflexology,21.32735,-157.87216,0,4.5,66.0
+8,hi, honolulu,Lomilomi Hana Lima Healing Spa & Boutique,Day Spas,21.3969099,-157.74196,$$,5.0,100.0
+9,hi, honolulu,Nā Ho'ōla Spa,Day Spas,21.276389,-157.825212,$$$,4.0,51.0
+10,hi, honolulu,Yoni Steam Honolulu,Day Spas,21.2787307,-157.8138194,$$,5.0,92.0
+11,hi, honolulu,La'akea Spa Hawaii,Day Spas,21.2780312564467,-157.832512398147,$$,4.0,138.0
+12,hi, honolulu,Moana Lani Spa,Day Spas,21.2765979,-157.8265879,$$$,4.5,194.0
+13,hi, honolulu,Aloha Sauna and Spa,Day Spas,21.29098,-157.83652,$$,4.5,134.0
+14,hi, honolulu,LAKA Skin Care & Spa,Day Spas,21.2966650582638,-157.8560576079,$$,4.5,352.0
+15,hi, honolulu,Sea Spa,Massage,21.291972,-157.858178,$$,5.0,10.0
+16,hi, honolulu,"The Ritz-Carlton Spa, Waikiki Beach",Massage,21.2825458,-157.8302276,$$$,4.5,6.0
+17,hi, honolulu,Pure Joy Day Spa,Day Spas,21.3030471801758,-157.854125976562,$$,4.5,91.0
+18,hi, honolulu,Heaven On Earth Salon & Day Spa,Day Spas,21.308455,-157.8602938,$$$,4.0,228.0
+19,hi, honolulu,Sakura Foot & Body Spa,Massage,21.29132,-157.83557,$$,4.5,543.0
+0,id, boise,Organic Origins Spa,Massage,43.624882,-116.211779,$$$,5.0,16.0
+1,id, boise,Spa Urbana,Massage,43.615528,-116.200378,$$$,4.5,53.0
+2,id, boise,Graeber & Company Salon and Day Spa,Day Spas,43.61815,-116.20239,$$,4.5,75.0
+3,id, boise,Two Rivers Salon & Spa,Massage,43.6885,-116.35584,$$,4.0,68.0
+4,id, boise,Pur Zen Massage Therapy,Massage,33.5736306,-117.7274658,$$,5.0,10.0
+5,id, boise,Crystal Massage,Massage Therapy,43.571425,-116.188352,0,5.0,1.0
+6,id, boise,The Spa,Skin Care,43.6491593,-116.3602616,0,4.5,2.0
+7,id, boise,Eagle Day Spa,Nail Salons,43.694655,-116.3462637,$$,4.0,17.0
+8,id, boise,Heidi Lane Esthetics,Day Spas,43.621465,-116.208896,$$,5.0,32.0
+9,id, boise,Valère Salon & Spa,Hair Salons,43.64208,-116.20873,$$$,4.0,23.0
+10,id, boise,Two Zero Eight Salon and Spa,Hair Salons,43.6177597045898,-116.202537536621,$$,5.0,7.0
+11,id, boise,Inspire Salon & Day Spa,Massage,43.6313122,-116.3519783,$$,4.0,27.0
+12,id, boise,Oasis Massage & Spa,Massage Therapy,43.61431,-116.27389,0,4.0,3.0
+13,id, boise,Glo Boise,Spray Tanning,43.5910933895031,-116.174986271164,$$,4.5,8.0
+14,id, boise,Bobbi Bullock,Medical Spas,43.6176656492827,-116.207213339949,$$$,5.0,16.0
+15,id, boise,Blissful Massage,Massage,43.56152,-116.35106,0,5.0,5.0
+16,id, boise,Pasinee Thai Massage,Massage,43.6208658458214,-116.300338857147,$$,5.0,16.0
+17,id, boise,The Studio An Elite Salon and Spa,Hair Salons,43.616163,-116.201589,$$,4.5,30.0
+18,id, boise,Om Med Spa,Medical Spas,43.6148061604088,-116.202376002621,0,5.0,10.0
+19,id, boise,M Spa,Laser Hair Removal,43.573724,-116.1558134,$$,4.5,13.0
+0,il, peoria,Infuse Skin and Body,Skin Care,40.7485228,-89.6074741,$$,5.0,3.0
+1,il, peoria,The Sanctuary,Reflexology,40.700813,-89.635165,$$,5.0,5.0
+2,il, peoria,Five Senses Spa and Salon,Hair Salons,40.7825402,-89.6726972,$$$,3.5,45.0
+3,il, peoria,Pure Bliss Hair Studio And Day Spa,Hair Extensions,40.788796,-89.632152,$$,4.5,23.0
+4,il, peoria,Senara Health and Healing Center & Spa,Chiropractors,40.7756614685059,-89.6270751953125,$$$,3.0,18.0
+5,il, peoria,Well Kneaded Massage Therapy,Massage Therapy,40.73983,-89.60395,0,4.5,14.0
+6,il, peoria,Ming Spa,Massage,40.741878,-89.629148,0,5.0,2.0
+7,il, peoria,Skin Dimensions Day Spa,Day Spas,40.747611,-89.619064,$$$,3.5,12.0
+8,il, peoria,Alter Ego Spalon,Skin Care,40.74319,-89.62718,$$,4.5,13.0
+9,il, peoria,Asian Massage,Massage,40.7767207,-89.6212705,$$,5.0,1.0
+10,il, peoria,Corpo Bello Salon Day Spa & Boutique,Day Spas,40.7761217518871,-89.6376695856323,$$,3.5,13.0
+11,il, peoria,Massage Envy - Peoria,Skin Care,40.7781676,-89.6791558,$$$,4.0,7.0
+12,il, peoria,C'est Ally Spa,Nail Salons,40.814585,-89.615875,0,4.0,7.0
+13,il, peoria,Yan Massage,Massage Therapy,40.71942433,-89.6035675,0,5.0,1.0
+14,il, peoria,At The Salon,Hair Salons,40.77889,-89.62286,0,5.0,1.0
+15,il, peoria,Peoria Home Thai Massage,Massage Therapy,40.7727651,-89.6170159,0,5.0,1.0
+16,il, peoria,MIRASPA Therapeutic,Reiki,40.6672157,-89.5650539,0,5.0,6.0
+17,il, peoria,V&E Hair Studio,Hair Salons,40.73875,-89.622673,$$,5.0,4.0
+18,il, peoria,Indigo Massage and Skin,Hair Removal,40.7426191973237,-89.6342734247446,0,5.0,1.0
+19,il, peoria,Still Awakenings Massage,Massage,40.74729,-89.60688,0,5.0,1.0
+0,ia, des moines,Salon Spa W,Hair Salons,41.58973,-93.61232,$$,4.5,115.0
+1,ia, des moines,East Village Spa,Massage,41.58979,-93.60932,$$,4.5,43.0
+2,ia, des moines,The Spa at West Glen,Skin Care,41.5614251,-93.7805755,$$$,4.5,12.0
+3,ia, des moines,Coachlight Clinic & Spa,Medical Spas,41.5651251,-93.7995991,$$$$,4.0,11.0
+4,ia, des moines,Healistics Massage and Mindfulness Shop,Massage Therapy,41.622555,-93.6941748,0,5.0,6.0
+5,ia, des moines,Body Revive,Massage Therapy,41.59976,-93.68285,0,5.0,2.0
+6,ia, des moines,Oliver+james Salon,Hair Salons,41.58381,-93.63556,$$,5.0,13.0
+7,ia, des moines,Yoni Wax Boutique,Waxing,41.5905953,-93.6134301,$$,5.0,5.0
+8,ia, des moines,Best Escape Massage,Massage,41.6456211,-93.6968474,$$,4.5,10.0
+9,ia, des moines,Anani Salon & Spa,Day Spas,41.7043963229258,-93.6268481287711,$$$,4.5,7.0
+10,ia, des moines,Serenity Couture Salon & Spa - Valley West Mall,Hair Salons,41.5995333,-93.7489766,$$,4.0,25.0
+11,ia, des moines,Massage Heights Ingersoll,Massage,41.5861492,-93.6670485,$$,3.5,12.0
+12,ia, des moines,Foot Relaxation,Massage,41.608091,-93.737454,$$,5.0,22.0
+13,ia, des moines,Touch of Hope Spa,Day Spas,41.736135,-93.633026,0,5.0,2.0
+14,ia, des moines,Dsm Salon and Spa,Hair Salons,41.5935251,-93.673972,0,4.5,6.0
+15,ia, des moines,Bergman Plastic Surgery,Cosmetic Surgeons,41.5838517,-93.6438296,0,5.0,1.0
+16,ia, des moines,Wellness Spa,Skin Care,41.58593,-93.659737,$$,5.0,2.0
+17,ia, des moines,Revive Clinic and Spa,Day Spas,41.7043745868642,-93.6259254813194,0,5.0,1.0
+18,ia, des moines,Soulshine Massage Bliss,Reiki,41.6107227473124,-93.6868599057198,0,5.0,3.0
+19,ia, des moines,Massage Heights Merle Hay,Massage,41.6313642,-93.7011425,$$,3.5,3.0
+0,ks, wichita,Bohemia Healing Spa,Massage Therapy,37.6836849,-97.347443,$$,4.5,14.0
+1,ks, wichita,Himalayas Spa,Day Spas,37.6912733618553,-97.2656279749931,$,4.5,10.0
+2,ks, wichita,Serenity Spa - Massage and Advanced Aesthetics,Day Spas,37.7179774,-97.2270168,$$,5.0,9.0
+3,ks, wichita,Beau Monde Spa and Boutique,Massage,37.7365414,-97.2462806,$$$,4.5,12.0
+4,ks, wichita,Healing Waters,Day Spas,37.720333,-97.242558,$$$,4.0,44.0
+5,ks, wichita,Beau Monde West Spa,Day Spas,37.729737,-97.463196,$$,4.5,6.0
+6,ks, wichita,Fresh Spa Market,Massage,37.693228,-97.2623349,$$,4.5,19.0
+7,ks, wichita,Remedy Massage & Spa,Massage Therapy,37.68674,-97.29454,0,5.0,2.0
+8,ks, wichita,The Pushy Goat,Day Spas,37.6939554,-97.3004749,$$,5.0,4.0
+9,ks, wichita,TankHouse Float & Massage,Massage Therapy,37.687237125933,-97.2796876849439,0,5.0,9.0
+10,ks, wichita,Relax Massage & Spa,Massage Therapy,37.75363,-97.26185,0,5.0,1.0
+11,ks, wichita,Opti-Life,Gyms,37.724369,-97.22419,0,5.0,7.0
+12,ks, wichita,Light and Sound Spa,Reflexology,37.704269,-97.313057,0,5.0,6.0
+13,ks, wichita,Sveta's Skin & Body Therapy,Day Spas,37.722038,-97.242176,$$$,4.0,11.0
+14,ks, wichita,SpaRenity Nails & Organics,Nail Salons,37.7092785,-97.2263749,$$,4.0,64.0
+15,ks, wichita,China Foot Spa,Reflexology,37.6939449,-97.2593286,0,5.0,9.0
+16,ks, wichita,Ageless MedSpa,Medical Spas,37.6857994554892,-97.2799209239458,0,5.0,1.0
+17,ks, wichita,Health & Healing Bodyworks,Massage,37.67919,-97.44609,$$,5.0,3.0
+18,ks, wichita,Kneaded Relief by Theresa,Massage Therapy,37.688283,-97.338197,0,5.0,1.0
+19,ks, wichita,Progressions Salon & Day Spa,Nail Salons,37.72623,-97.46211,$$$,4.0,9.0
+0,la, lafayette,Rose Petal Spa,Day Spas,30.180836,-92.023005,$,5.0,1.0
+1,la, lafayette,Riverspa,Day Spas,30.1732307,-92.0410944,$$$,4.0,5.0
+2,la, lafayette,PascaleSpa,Massage,30.20468,-92.01787,0,4.5,6.0
+3,la, lafayette,Sun Massage,Massage,30.16998,-92.06374,$$,4.5,12.0
+4,la, lafayette,Spa Mizan,Massage,30.1588230133057,-92.0453262329102,$$$,3.5,15.0
+5,la, lafayette,Thai Herbal Spa & Salon,Day Spas,30.1936,-92.01517,$$,4.5,7.0
+6,la, lafayette,Lux Spa,Day Spas,30.1840992,-92.0170135,$$,3.5,9.0
+7,la, lafayette,O2 Face and Body,Eyelash Service,30.168951,-92.036892,0,4.5,3.0
+8,la, lafayette,Ashero Spa,Massage,30.201968,-92.044065,0,5.0,5.0
+9,la, lafayette,Elite Nails and Spa,Day Spas,30.1859130859375,-92.0661239624023,$$,4.5,23.0
+10,la, lafayette,Crystal Spa,Float Spa,30.1403,-92.10287,0,5.0,1.0
+11,la, lafayette,Refinery Downtown,Hair Salons,30.22668,-92.01799,$$,4.5,11.0
+12,la, lafayette,Louisiana Massage Therapy Clinic,Massage Therapy,30.20294,-92.04926,0,5.0,1.0
+13,la, lafayette,Sun Massage Youngsville,Massage Therapy,30.1072364309213,-92.0178019785584,0,5.0,1.0
+14,la, lafayette,Salon Nv,Hair Salons,30.2275352478027,-92.0160827636719,$$,5.0,7.0
+15,la, lafayette,Dao Massage,Massage Therapy,30.20591,-92.03915,0,4.0,3.0
+16,la, lafayette,"Johnathan N Hebert, LMT -  Muscular Therapy",Massage Therapy,30.205938,-92.017285,0,5.0,1.0
+17,la, lafayette,Studio One 2 One,Hair Removal,30.20159,-92.04458,0,5.0,3.0
+18,la, lafayette,Allure Beauty Bar,Nail Salons,30.1881977189852,-92.0780854491796,0,5.0,1.0
+19,la, lafayette,Bonsai Spa,Massage,30.20511,-92.04256,0,2.0,1.0
+0,md, baltimore,Spa Adagio,Massage Therapy,39.28701,-76.59314,$$,5.0,47.0
+1,md, baltimore,Spa at Four Seasons Hotel,Day Spas,39.2828387,-76.6020375,$$$$,4.0,92.0
+2,md, baltimore,Zen And The City,Massage,39.299036,-76.61547,$$,5.0,31.0
+3,md, baltimore,Inspire Nail Bar & Spa,Nail Salons,39.2814794530807,-76.5983819626684,$$,4.5,57.0
+4,md, baltimore,Ojas Massage & Skin Care,Skin Care,39.37963,-76.65639,$$$,4.5,42.0
+5,md, baltimore,Vita Revive,Day Spas,39.39836,-76.54023,$$,4.0,64.0
+6,md, baltimore,Woodberry Wellness,Acupuncture,39.33343,-76.64752,0,5.0,9.0
+7,md, baltimore,Honey & Co Boutique Spa,Hair Salons,39.30166,-76.616258,0,4.5,6.0
+8,md, baltimore,Paradise Spa,Massage,39.403591890608,-76.5998501189746,$,5.0,12.0
+9,md, baltimore,The Loft Bodywork Collective,Massage Therapy,39.32882,-76.62893,0,4.5,16.0
+10,md, baltimore,Live! Spa,Day Spas,39.1572779,-76.7271662,0,4.0,8.0
+11,md, baltimore,Indu Massage and Wellness,Massage Therapy,39.3432964,-76.5681256,$$,4.5,23.0
+12,md, baltimore,Canton Square Massage,Massage,39.280518,-76.575195,$,4.5,14.0
+13,md, baltimore,Simple Wellness,Massage,39.295826,-76.615334,$$,4.5,41.0
+14,md, baltimore,About Faces Day Spa & Salon,Hair Salons,39.275655,-76.568811,$$$,4.0,106.0
+15,md, baltimore,Studio 921 Salon & Spa,Hair Salons,39.2708114,-76.6009481,$$$,4.5,125.0
+16,md, baltimore,Ash + Oak Salon and Spa,Hair Salons,39.27227,-76.73163,$$,4.5,49.0
+17,md, baltimore,Zensations Apothecary,Massage Therapy,39.328929,-76.629539,0,5.0,9.0
+18,md, baltimore,Well-Being Massage Studio and Spa,Skin Care,39.190347,-76.821166,$$,4.5,173.0
+19,md, baltimore,Art of Balance Wellness Spa,Acupuncture,39.280492,-76.6059791,0,5.0,1.0
+0,ma, worcester,Wonderful Day Spa,Day Spas,42.2749502,-71.7447979,$$,4.5,34.0
+1,ma, worcester,Tu Moda,Massage,42.26452,-71.82213,$$,3.5,51.0
+2,ma, worcester,Revitalize Massage and Yoga,Yoga,42.3135685175657,-71.797319278121,0,5.0,29.0
+3,ma, worcester,Release Well-being Center,Yoga,42.2842237861655,-71.6264196680083,$$$$,4.5,51.0
+4,ma, worcester,Lindsay Taylor SPAtique,Day Spas,42.27564,-71.60905,$$,5.0,43.0
+5,ma, worcester,Kalis Day Spa,Skin Care,42.27912,-71.62878,$$,5.0,16.0
+6,ma, worcester,Essential Aesthetics,Day Spas,42.2724647521973,-71.7945938110352,$$$,5.0,5.0
+7,ma, worcester,Couture Nails & Spa,Waxing,42.262689829662,-71.7903381787702,$$,4.0,96.0
+8,ma, worcester,Detox Shop and Spa,Day Spas,42.20711,-71.83197,0,5.0,2.0
+9,ma, worcester,Asian Therapy & Spa Center,Medical Spas,42.27141,-71.80549,$$,5.0,1.0
+10,ma, worcester,Nicholas Michaels Spa,Day Spas,42.30575,-71.66956,$$$,4.0,52.0
+11,ma, worcester,Asian Reflexology & Acupressure,Massage,42.211197,-71.796165,0,5.0,5.0
+12,ma, worcester,Massage Ultra,Massage,42.2751271,-71.748174,$$,4.0,44.0
+13,ma, worcester,Bellissima Day Spa,Day Spas,42.26461,-71.8324,$$,4.0,5.0
+14,ma, worcester,Chaba Day Spa,Day Spas,42.19384,-71.759361,$$,4.0,14.0
+15,ma, worcester,Truth Organic Spa,Skin Care,42.234603,-71.708931,$$,4.0,17.0
+16,ma, worcester,Invidium Salon & Spa,Hair Salons,42.2602199,-71.7921999,$$$$,4.5,3.0
+17,ma, worcester,Silver Leaf Spa,Day Spas,42.18324,-71.86061,$$,5.0,6.0
+18,ma, worcester,Divine Day Spa,Day Spas,42.2747078,-71.7518158,$$,4.0,5.0
+19,ma, worcester,Julia Cameron's Magical Mystical Massage Tour,Massage Therapy,40.202703550458,-105.119190439582,0,5.0,21.0
+0,mi, clinton,Salon 102,Hair Salons,42.072282,-83.973088,0,5.0,1.0
+1,mi, clinton,Modish Hair & Nail Design,Massage,42.0039101,-83.9455872,$,5.0,1.0
+2,mi, clinton,Seasons Salon & Spa,Hair Salons,42.0041845,-83.945409,0,1.0,3.0
+3,mi, clinton,Queen Nails,Nail Salons,42.005641,-83.967901,0,4.0,3.0
+4,mi, clinton,Bad Hair Day Salon,Hair Salons,42.00667,-83.96347,$$,4.0,4.0
+0,ms, jackson,Soul Spa,Day Spas,32.2962571,-90.1836781,$$,4.5,13.0
+1,ms, jackson,Jax-Zen Healing Arts Center,Float Spa,32.3224551,-90.1862833,0,5.0,4.0
+2,ms, jackson,Aqua The Day Spa,Day Spas,32.435489800186,-90.1473933343933,$$$,3.5,25.0
+3,ms, jackson,Drench Day Spa,Day Spas,32.4287643,-90.131691,$$,4.0,14.0
+4,ms, jackson,Carolyn's Day Spa,Day Spas,32.3754315823317,-90.1236129552126,$$,5.0,1.0
+5,ms, jackson,Willis Day Spa,Day Spas,32.4072936,-90.1231961,$$,4.5,11.0
+6,ms, jackson,Master Massage,Massage,32.40261,-90.129027,0,5.0,1.0
+7,ms, jackson,Soul Synergy Center,Yoga,32.3557988,-90.0127424,$$,5.0,3.0
+8,ms, jackson,Nancy's Nail Spa,Nail Salons,32.36538,-90.145586,$,4.5,26.0
+9,ms, jackson,Sage Salon & Color Bar,Hair Salons,32.3435243,-90.1550746,0,5.0,2.0
+10,ms, jackson,Massage by Tiffany,Massage,32.32232,-90.10807,0,5.0,1.0
+11,ms, jackson,Kosmos Salon & Spa,Hair Salons,32.4302147963807,-90.1271159433471,0,4.5,5.0
+12,ms, jackson,Luxe Day Spa,Nail Salons,32.3331266346285,-90.3224715456442,0,5.0,1.0
+13,ms, jackson,Fondren Nails,Nail Salons,32.3347702026367,-90.1761016845703,$$,5.0,2.0
+14,ms, jackson,Wellness Spa,Day Spas,32.3507313,-90.0326058,0,4.0,4.0
+15,ms, jackson,Lakeland Holistic Massage,Massage,32.33122,-90.13313,0,2.5,3.0
+16,ms, jackson,Spabeca,Physical Therapy,32.4064304324238,-90.1277147790224,$$,3.5,3.0
+17,ms, jackson,Smoak Salon,Hair Salons,32.33634,-90.17493,0,4.5,11.0
+18,ms, jackson,Five Star Spa & Nails,Nail Salons,32.329107,-90.304266,$$,4.0,10.0
+19,ms, jackson,Vamp -The Salon,Hair Salons,32.3555087,-90.1509014,$$,5.0,2.0
+0,mo, st. louis,Aquarius Wellness Center for Healing Arts,Day Spas,38.63748,-90.33759,$$,5.0,65.0
+1,mo, st. louis,Spa at Four Seasons Hotel St. Louis,Waxing,38.6336917487084,-90.1849631515609,$$$,4.0,53.0
+2,mo, st. louis,Vitality Unlimited Spa,Massage,38.5938754,-90.3579637,$$,4.5,42.0
+3,mo, st. louis,"The Ritz-Carlton Spa, St. Louis",Skin Care,38.6483004917949,-90.3309349783937,0,5.0,2.0
+4,mo, st. louis,ara spa,Day Spas,38.767404,-90.484435,$$$,4.5,16.0
+5,mo, st. louis,Philip Johnson Salon and Spa,Hair Salons,38.6404384,-90.2616855,$$,4.0,112.0
+6,mo, st. louis,Pure Harmony Day Spa,Massage,38.6021069,-90.460205,$$$,4.0,15.0
+7,mo, st. louis,Stonewater Spa Salon & Boutique,Massage,38.629942,-90.407369,$$$,3.5,27.0
+8,mo, st. louis,Sound Stone Massage Spa,Massage,38.558005,-90.388258,$$,4.5,38.0
+9,mo, st. louis,Bella Ragazza Salon & Spa,Day Spas,38.6021811515093,-90.4371175915003,$$,4.5,22.0
+10,mo, st. louis,Morgan Ford Massage & Spa,Day Spas,38.6013342403636,-90.2618208928375,$$,4.0,83.0
+11,mo, st. louis,St. Louis Salt Room,Medical Spas,38.611185,-90.320262,$$,5.0,5.0
+12,mo, st. louis,Indigo Massage & Wellness,Massage,38.61417,-90.31343,0,5.0,5.0
+13,mo, st. louis,Big Island Spa and Wellness Center,Massage,38.631892,-90.1986043,0,5.0,3.0
+14,mo, st. louis,Webster Bodywork,Massage Therapy,38.5939,-90.33517,0,5.0,9.0
+15,mo, st. louis,Bee Naturals,Cosmetics & Beauty Supply,38.61487,-90.31216,$,4.0,15.0
+16,mo, st. louis,Indigo Massage & Wellness,Yoga,38.59739,-90.21782,0,4.5,138.0
+17,mo, st. louis,Lotus Massage,Massage,38.6125470313922,-90.3436605946646,0,3.5,3.0
+18,mo, st. louis,SOMA Therapeutic Massage,Massage Therapy,38.60925,-90.23367,0,5.0,23.0
+19,mo, st. louis,U City Foot Massage & Relaxing Center,Reflexology,38.6742769693604,-90.3545263430617,0,5.0,49.0
+0,ne, lincoln,Bella Skin Care and Massage Therapy,Massage,40.774242,-96.654653,$$,4.5,23.0
+1,ne, lincoln,Serenity Salon & Day Spa,Hair Salons,40.75682,-96.64007,$$,5.0,8.0
+2,ne, lincoln,Elle Esthetics,Day Spas,40.81213,-96.69793,$$,4.5,17.0
+3,ne, lincoln,The Great Escape Day Spa,Massage,40.7567545,-96.6532931,$$,5.0,6.0
+4,ne, lincoln,Revitalize Massage & Spa,Massage Therapy,40.78638,-96.62629,0,5.0,7.0
+5,ne, lincoln,Body Nouveaux Spa,Day Spas,40.7574593278154,-96.6983767226864,$$,4.5,7.0
+6,ne, lincoln,Tranquility Salon & Spa,Hair Salons,40.726033,-96.678993,$$,4.0,12.0
+7,ne, lincoln,Asha Salon,Day Spas,40.814438,-96.711067,$$,5.0,1.0
+8,ne, lincoln,Eucalytpus Day Spa,Skin Care,40.7516,-96.64101,0,5.0,2.0
+9,ne, lincoln,Inner Peace Massage,Massage,40.812588,-96.6444578,0,4.5,7.0
+10,ne, lincoln,Juniper Spa & Yoga Studio,Yoga,40.8119828813965,-96.6070463102877,0,5.0,6.0
+11,ne, lincoln,Eve a Salon & Spa,Hair Salons,40.7737436,-96.6541649,$$,5.0,7.0
+12,ne, lincoln,Salon Avalon & Spa,Hair Salons,40.85786,-96.6832699,$$,5.0,3.0
+13,ne, lincoln,5 Elements Massage,Massage Therapy,40.751969,-96.6032147,0,5.0,1.0
+14,ne, lincoln,Salon MohVi,Day Spas,40.814159,-96.645126,$$,4.5,6.0
+15,ne, lincoln,Pure Organic Skin Care & Waxing,Day Spas,40.7726447,-96.6550111,$$,5.0,10.0
+16,ne, lincoln,Le Nails & Spa,Nail Salons,40.838694,-96.707267,$,4.5,25.0
+17,ne, lincoln,A Healthy Choice,Day Spas,40.7939999,-96.64119,0,5.0,1.0
+18,ne, lincoln,Balance Massage & Esthetics,Massage,40.8591613769531,-96.6841201782227,0,5.0,2.0
+19,ne, lincoln,Empowered Healing,Massage Therapy,40.839619,-96.653836,0,5.0,4.0
+0,ny, new york,Nuansa Spa,Skin Care,40.75755,-73.97752,$$$,5.0,201.0
+1,ny, new york,Orient Retreat Women's Spa and Wellness Center,Day Spas,40.7602014035567,-73.8327660498359,$$,4.5,131.0
+2,ny, new york,The Mandarin Spa,Day Spas,40.756048,-73.980412,$$,4.5,128.0
+3,ny, new york,Ohm Spa,Day Spas,40.7345957,-73.9855511,$$$,4.5,234.0
+4,ny, new york,Shibui,Day Spas,40.71989,-74.01002,$$$,4.0,35.0
+5,ny, new york,SoJo Spa Club,Hydrotherapy,40.81893,-73.97956,$$$,3.5,1589.0
+6,ny, new york,The Couple Spa,Day Spas,40.763796,-73.960878,$$,4.5,249.0
+7,ny, new york,SKN Spa,Day Spas,40.76379,-73.99208,$$,4.5,338.0
+8,ny, new york,Caudalie Boutique - Meatpacking,Day Spas,40.73973,-74.00774,$$$,5.0,21.0
+9,ny, new york,Argana Day Spa,Skin Care,40.619037,-74.009164,$$,4.0,32.0
+10,ny, new york,Cynergy Spa,Day Spas,40.687446,-73.976346,$$$,4.5,130.0
+11,ny, new york,Glo Boutique Spa,Massage,40.72038,-73.96051,0,5.0,27.0
+12,ny, new york,cityWell Brooklyn,Day Spas,40.6778526306152,-73.9868698120117,$$,4.5,39.0
+13,ny, new york,Hideaway Spa & Lounge Wall Street,Massage,40.7086054,-74.0136016,$$,4.5,93.0
+14,ny, new york,Joel Beauty,Medical Spas,40.76369,-73.97017,0,5.0,7.0
+15,ny, new york,Rejuvio,IV Hydration,40.71665,-73.98537,0,5.0,1.0
+16,ny, new york,Zuyuan,Massage,40.7153599,-73.99848,$,4.5,565.0
+17,ny, new york,New York Spa Sauna,Day Spas,40.765315,-73.816745,$$,4.0,134.0
+18,ny, new york,Renew Body Spa,Massage,40.74457,-73.99251,$,5.0,83.0
+19,ny, new york,Bamford Haybarn Spa,Day Spas,40.701758,-73.995995,0,4.0,28.0
+0,nc, durham,The Retreat at Brightleaf,Massage,36.00078,-78.90893,$$,4.5,88.0
+1,nc, durham,bR3,Cryotherapy,35.91155,-78.93463,0,5.0,20.0
+2,nc, durham,Hillsborough Spa and Day Retreat,Day Spas,36.054125,-79.093386,$$,5.0,6.0
+3,nc, durham,Spa Retreat Cary,Day Spas,35.78786,-78.84962,$$,5.0,47.0
+4,nc, durham,Wellville Massage & Healing Arts,Massage,35.96708,-78.94415,$$,4.0,74.0
+5,nc, durham,Hand & Stone Massage and Facial Spa,Day Spas,35.9598378239975,-78.9595713263893,$$$,4.0,13.0
+6,nc, durham,Synergy Face & Body,Day Spas,35.815156,-78.660581,$$,4.0,74.0
+7,nc, durham,Collective Wellness,Massage Therapy,35.9724275,-78.9465444,0,4.5,59.0
+8,nc, durham,Bella Trio,Massage,35.920692,-78.929594,$$,4.0,82.0
+9,nc, durham,Lorena Luca,Day Spas,35.7891334,-78.6591351,$$$,4.5,99.0
+10,nc, durham,Sukho Thai Massage,Massage,35.853374,-78.70234,$$,5.0,132.0
+11,nc, durham,La Therapie Spa,Day Spas,35.7997,-78.81445,$$$,4.5,58.0
+12,nc, durham,Petite Studio Durham,Skin Care,35.91064,-78.94181,$$,5.0,4.0
+13,nc, durham,"FLAWLESS spa, wellness, and image",Day Spas,35.929763,-79.029074,$$,4.0,72.0
+14,nc, durham,Natural Spa,Massage Therapy,35.9623245,-79.0548062,$$,4.0,30.0
+15,nc, durham,Bella Trio Studio,Hair Salons,35.9929043,-78.9029749,$$$,4.5,25.0
+16,nc, durham,Bull City Soles,Massage Therapy,36.03469,-78.93002,0,5.0,6.0
+17,nc, durham,Massage Heights Southpoint,Massage,35.9043053588989,-78.9362010140251,$$,3.5,73.0
+18,nc, durham,Nourish Inside & Out,Skin Care,35.9125519105749,-79.0694806128975,$$$,5.0,6.0
+19,nc, durham,Restoring Balance,Acupuncture,35.930363,-79.054397,$$,4.5,18.0
+0,ok, tulsa,Spa Southern Hills,Day Spas,36.0599682,-95.9616898,$$,4.5,17.0
+1,ok, tulsa,Poppi’s Urban Spa,Waxing,36.155016,-95.985489,0,4.5,8.0
+2,ok, tulsa,Spa Lux,Day Spas,36.033811,-95.887862,$$,3.5,40.0
+3,ok, tulsa,Beyond Skin Deep,Skin Care,36.14032,-95.94122,$,4.5,11.0
+4,ok, tulsa,Emerge Medical & Well Spa,Day Spas,36.031038,-95.905506,$$$,4.5,14.0
+5,ok, tulsa,Stone Creek Spa & Salon,Day Spas,36.052804,-95.7905181,$$,4.0,10.0
+6,ok, tulsa,Omni Oasis,Day Spas,36.0829979,-95.9579344,$$,5.0,4.0
+7,ok, tulsa,Spa at Hard Rock,Day Spas,36.1650671357197,-95.7653583054501,$$$,4.0,7.0
+8,ok, tulsa,LaFusion Massage & Spa,Day Spas,36.01306,-95.88464,$$,4.0,9.0
+9,ok, tulsa,Sweet Mia Natural Nail Spa,Nail Salons,36.14088,-95.96933,0,4.0,19.0
+10,ok, tulsa,Cheery Spa & massage,Massage Therapy,36.1301377121521,-95.9046356730872,0,5.0,2.0
+11,ok, tulsa,Pur Lux Nails,Nail Salons,36.0188484,-95.9220123,$$,4.5,49.0
+12,ok, tulsa,Tranquility Nails & Spa,Nail Salons,36.1051037,-95.9225349,$$,4.0,19.0
+13,ok, tulsa,Nitaya Thai Spa,Massage,36.1507711094541,-95.9894626215819,0,5.0,5.0
+14,ok, tulsa,Aquarian Age Massage,Massage Therapy,36.1408514971564,-95.9731973335147,0,4.0,26.0
+15,ok, tulsa,Ban Thai of Massage,Massage,36.0158096,-95.9057684,0,5.0,5.0
+16,ok, tulsa,Zen Spa Massage Therapy,Massage,36.059666,-95.813668,$,4.5,6.0
+17,ok, tulsa,Recover,Physical Therapy,36.1311798170152,-95.9647575844377,0,4.5,5.0
+18,ok, tulsa,Flower Day Spa,Massage Therapy,36.09044333,-95.92129667,0,5.0,1.0
+19,ok, tulsa,SpaOlogy,Day Spas,36.0436743,-95.8153218,$$,3.5,8.0
+0,pa, philadelphia,Terme Di Aroma,Massage,39.9510774520336,-75.1455378461693,$$,4.5,191.0
+1,pa, philadelphia,Body Restoration Spa,Massage,39.950047,-75.167995,$$,4.5,172.0
+2,pa, philadelphia,Rescue Spa,Day Spas,39.9500123,-75.1676889,$$$,4.0,420.0
+3,pa, philadelphia,The Spa at The Logan,Day Spas,39.956853,-75.169558,0,4.0,24.0
+4,pa, philadelphia,Eviama Life Spa,Day Spas,39.9500715247543,-75.1617475965119,$$$,4.5,88.0
+5,pa, philadelphia,Mylynn Day Spa,Day Spas,39.9513626098633,-75.1752166748047,$$,5.0,18.0
+6,pa, philadelphia,Sanctuary on 2nd,Massage,39.93887,-75.14648,$$,5.0,113.0
+7,pa, philadelphia,Chung Dam Spa & Fitness,Day Spas,40.051118,-75.116865,$$,3.5,95.0
+8,pa, philadelphia,Essent Spa at The Radnor Hotel,Medical Spas,40.040669,-75.366167,$$,4.5,29.0
+9,pa, philadelphia,Elements Spa,Day Spas,39.9306380508748,-75.3876620846557,$$,4.5,42.0
+10,pa, philadelphia,Joseph Anthony Retreat Spa and Dry Bar,Day Spas,39.925639,-75.352959,$$,4.5,64.0
+11,pa, philadelphia,Phila Massages Rittenhouse,Massage,39.950504,-75.169215,$$,5.0,83.0
+12,pa, philadelphia,Living Water Massage,Massage,39.931361,-75.169711,$$,5.0,39.0
+13,pa, philadelphia,Pain Away of Philly,Massage Therapy,39.95374,-75.15613,0,4.5,34.0
+14,pa, philadelphia,The Rittenhouse Spa & Club - Hair By Paul Labrecque,Day Spas,39.949901,-75.173049,$$$,4.0,61.0
+15,pa, philadelphia,Joseph Anthony Retreat Spa and Salon,Hair Salons,39.902469369641,-75.4746623882657,$$$,4.0,154.0
+16,pa, philadelphia,Massage Rittenhouse,Massage,39.9502602,-75.1746521,$$,4.0,37.0
+17,pa, philadelphia,Zen Skin Spa,Skin Care,39.9554814,-75.1561395,$$,4.5,36.0
+18,pa, philadelphia,Bungalow Organic Spa,Day Spas,40.1545882216638,-75.2244847273329,0,5.0,11.0
+19,pa, philadelphia,Tibet Healing Spa,Massage,39.9534857,-75.1568601,$$,4.0,55.0
+0,ri, providence,Harmony on Hope Massage,Massage,41.8350293,-71.4011648,$$,5.0,84.0
+1,ri, providence,Citron Spa,Medical Spas,41.830675,-71.3874,$$,4.5,84.0
+2,ri, providence,Eliza Williams Spa,Massage,41.8207512,-71.4180222,$$,4.5,21.0
+3,ri, providence,Revival Massage & Bodyworks,Massage,41.81932,-71.39783,$$,4.5,58.0
+4,ri, providence,Evolve Apothecary and Spa,Cosmetics & Beauty Supply,41.84767,-71.39531,$$,4.5,26.0
+5,ri, providence,Thai Tranquility,Massage,41.8271434,-71.3816912,$$,5.0,35.0
+6,ri, providence,Aurora Nail Lounge,Waxing,41.8282146598198,-71.3883151920654,$$,4.5,152.0
+7,ri, providence,Luminous Salon & Spa,Hair Salons,41.826656,-71.387501,$$,4.5,81.0
+8,ri, providence,Body Kneads - Providence,Massage,41.8281803,-71.3868294,$$,4.5,50.0
+9,ri, providence,Alayne White Spa - Providence,Waxing,41.8349259,-71.3908817,$$$,4.5,58.0
+10,ri, providence,Still Point Massage,Massage,41.8280984469472,-71.3919667138641,$$,5.0,13.0
+11,ri, providence,Tir Na Nog Spa,Day Spas,41.8123305,-71.3491027,0,5.0,6.0
+12,ri, providence,Spa-To-You,Day Spas,41.8120485771111,-71.4648021278168,$$,5.0,3.0
+13,ri, providence,Om Hydrotherapy,Massage,41.8214797973633,-71.4177780151367,$$,5.0,1.0
+14,ri, providence,Spa Shanti,Day Spas,41.8391532897949,-71.4832305908203,$$,5.0,9.0
+15,ri, providence,Providence Massage,Massage,41.8276629401156,-71.3957947392583,0,5.0,3.0
+16,ri, providence,Simply Injectables,Medical Spas,41.81716,-71.41155,$$,5.0,19.0
+17,ri, providence,Coiffurium,Hair Salons,41.8489070133257,-71.3951425877099,$$,4.5,105.0
+18,ri, providence,Le Foot Reflexology,Reflexology,41.8149763,-71.4216613,0,4.5,58.0
+19,ri, providence,Blackstone Massage Therapy Center,Massage Therapy,41.8274321,-71.3956233,0,4.5,14.0
+0,sc, charleston,earthling day spa and pilates studio,Day Spas,32.7821418,-79.9278149,$$,4.5,114.0
+1,sc, charleston,The Woodhouse Day Spa - Charleston,Day Spas,32.808647,-79.875083,$$,4.5,43.0
+2,sc, charleston,Sweet 185,Day Spas,32.78777,-79.95088,$$,4.0,60.0
+3,sc, charleston,Beach House Spa,Massage,32.7864,-79.79039,$$,5.0,23.0
+4,sc, charleston,The Salt Spa & Yoga,Massage,32.797474,-79.945601,$$,4.5,23.0
+5,sc, charleston,The Spa at Belmond Charleston Place,Day Spas,32.7810558,-79.9317478,$$$$,3.5,31.0
+6,sc, charleston,Body Revelations Wellness,Massage Therapy,32.784038,-79.941732,0,5.0,1.0
+7,sc, charleston,SoCa Day Spa,Day Spas,32.867999,-80.01736,$$$,4.5,40.0
+8,sc, charleston,Heart of Charleston Luxury Spa,Skin Care,32.7802286,-79.9272881,$$,5.0,2.0
+9,sc, charleston,Spa Adagio,Day Spas,32.785811,-79.936563,$$$,4.0,25.0
+10,sc, charleston,Urban Nirvana,Day Spas,32.7769318,-79.9739761,$$$,4.5,42.0
+11,sc, charleston,Elyon Boutique Spa,Day Spas,32.7766748,-79.9273919,0,5.0,10.0
+12,sc, charleston,Verdant EcoSpa,Day Spas,32.783428,-79.992169,0,4.5,15.0
+13,sc, charleston,glowspa,Day Spas,32.7979820099128,-79.8887275509262,$$,4.5,18.0
+14,sc, charleston,Angel Spa,Massage,32.7908536961171,-80.0289413042298,$,4.5,24.0
+15,sc, charleston,Simply Your Spa,Day Spas,32.80582,-80.02231,$$,4.5,69.0
+16,sc, charleston,Restore Hyper Wellness + Cryotherapy- Charleston,IV Hydration,32.782518,-79.9894196,0,5.0,3.0
+17,sc, charleston,The Healing Gallery,Acupuncture,32.7784924677691,-79.9301877476379,0,5.0,4.0
+18,sc, charleston,The Amethyst Spa & Nail Bar,Day Spas,32.7821578979492,-79.9342727661133,$$$,4.0,5.0
+19,sc, charleston,STOX -Boulevard,Hair Salons,32.792126,-79.867673,$$$,5.0,13.0
+0,tx, houston,milk + honey,Day Spas,29.7409388,-95.4191282,$$,4.5,381.0
+1,tx, houston,Sanctuary Spa,Day Spas,29.750493,-95.410078,$$,4.5,146.0
+2,tx, houston,Hammam Spa,Day Spas,29.73802,-95.49907,$$,4.5,119.0
+3,tx, houston,The Woodhouse Day Spa - Houston - Vintage,Day Spas,29.998331,-95.5670200106172,$$$,4.5,71.0
+4,tx, houston,Prosperous Paradise Spa,Day Spas,29.7064,-95.5562,$$,4.5,19.0
+5,tx, houston,River Oaks Advanced Bodyworks,Massage,29.735007,-95.426732,$$,5.0,195.0
+6,tx, houston,Spa by Alessandra,Day Spas,29.75497,-95.36569,$$$,5.0,9.0
+7,tx, houston,My Spa Joy,Massage,29.751861,-95.4019518,$$,5.0,149.0
+8,tx, houston,Zalla Massage,Massage,29.75183,-95.39833,$$,4.5,284.0
+9,tx, houston,Gangnam Spa,Day Spas,29.832596,-95.646533,0,3.5,74.0
+10,tx, houston,Mokara Spa,Day Spas,29.76175,-95.45946,$$$,4.5,37.0
+11,tx, houston,Sousan Med Spa,Medical Spas,29.735818,-95.43387,$$,5.0,22.0
+12,tx, houston,Honey Dip Yoni Spa,Day Spas,29.6785093,-95.418414,0,5.0,7.0
+13,tx, houston,Fiori Spa,Day Spas,29.73851,-95.4882,$$$,3.5,99.0
+14,tx, houston,Urban Day Spa,Day Spas,29.8800306,-95.644336627578,$,4.5,101.0
+15,tx, houston,Soul Retreat Spa,Massage,29.787799,-95.467492,$$,5.0,69.0
+16,tx, houston,The Pampered Escape Spa,Skin Care,29.73722,-95.5921,$$,4.5,15.0
+17,tx, houston,The Greenhouse Day Spa,Day Spas,29.7442,-95.40484,0,5.0,10.0
+18,tx, houston,Beauty & Beyond Skin Care & Spa,Skin Care,29.76254,-95.36091,0,5.0,4.0
+19,tx, houston,Bliss Day Spa,Nail Salons,29.7684751990292,-95.4099941253662,$$,4.0,212.0
+0,tx, dallas,Riviera Spa,Day Spas,32.8225801908619,-96.7904050859348,$$,4.5,150.0
+1,tx, dallas,King Spa & Sauna,Day Spas,32.8937678763569,-96.9059927675811,$$,3.5,871.0
+2,tx, dallas,The Ritz-Carlton Spa,Skin Care,32.792422,-96.803915,$$$,4.0,31.0
+3,tx, dallas,The Spa at The Joule,Day Spas,32.780578,-96.7984,$$$$,4.5,31.0
+4,tx, dallas,Exhale Dallas,Day Spas,32.836127,-96.778032,$$$,4.0,112.0
+5,tx, dallas,Spa Adolphus,Day Spas,32.7798929,-96.7998399,$$$,4.5,27.0
+6,tx, dallas,Mara's Med Spa-Uptown,Laser Hair Removal,32.79296,-96.802075,$$,4.5,188.0
+7,tx, dallas,Spa Castle Texas,Massage,32.9871711,-96.907355,$$,3.0,859.0
+8,tx, dallas,Vis à Vis Day Spa & Med Spa,Day Spas,32.800605,-96.8012009,$$,4.0,147.0
+9,tx, dallas,V Spa,Day Spas,32.798778,-96.831811,$$$,4.0,34.0
+10,tx, dallas,Hawaii Thai Massage & Spa,Massage Therapy,32.8628534,-96.8070537,$$,4.5,90.0
+11,tx, dallas,ZaSpa,Day Spas,32.7943136108977,-96.801412447113,$$$,4.0,30.0
+12,tx, dallas,Lily Health Spa,Massage,32.85129,-96.59929,0,5.0,1.0
+13,tx, dallas,Spa Habitat - West Village,Day Spas,32.8082983,-96.7973428,$$$,4.0,83.0
+14,tx, dallas,Sage Massage Studio,Massage,32.807208,-96.806913,0,5.0,36.0
+15,tx, dallas,Virtu Spa & Wellness,Massage Therapy,32.7826453,-96.7954613,0,5.0,4.0
+16,tx, dallas,Vivian's Boutique Spa,Day Spas,32.8104791109703,-96.770792037447,0,4.5,38.0
+17,tx, dallas,The Float Spot,Massage,33.1132418724557,-96.8390482664108,$$,4.5,76.0
+18,tx, dallas,Avy's Day Spa,Day Spas,32.800057,-96.80466,$$,5.0,72.0
+19,tx, dallas,Hiatus Spa + Retreat,Day Spas,32.8500992264329,-96.8185018972301,$$,4.0,271.0
+0,tx, austin,Zen Blend Mind + Body Spa,Massage,30.173438,-97.81636,$$,5.0,228.0
+1,tx, austin,Spa Sway,Day Spas,30.39685,-97.72611,$$,4.5,356.0
+2,tx, austin,milk + honey,Day Spas,30.2643587,-97.7480135,$$$,4.0,523.0
+3,tx, austin,The Spa,Day Spas,30.2631446399525,-97.7426147460938,$$$,4.5,27.0
+4,tx, austin,Spa Luxe,Massage,30.649776,-97.687704,$$$,5.0,34.0
+5,tx, austin,Spa Reveil,Day Spas,30.4006921249668,-97.7263995011976,$$$,4.0,165.0
+6,tx, austin,Glow Spa & Wax House,Skin Care,30.3559489356951,-97.7361582595245,$$,5.0,133.0
+7,tx, austin,Organic Spa Massage & SkinCare,Day Spas,30.4338353021682,-97.7723154378573,$$,4.5,200.0
+8,tx, austin,The Massage Studio,Massage,30.226062,-97.761915,$$,5.0,306.0
+9,tx, austin,Spa at the Lake,Day Spas,30.35649,-97.96036,$$$,4.5,47.0
+10,tx, austin,Zero Gravity Institute,Massage,30.242297,-97.781847,$$,5.0,81.0
+11,tx, austin,True REST Float Spa,Float Spa,30.398553,-97.744361,0,5.0,65.0
+12,tx, austin,Spavia Day Spa - On Burnet,Day Spas,30.34258,-97.73832,$$,4.5,56.0
+13,tx, austin,Mantis Massage,Massage,30.28854,-97.70661,$$,5.0,310.0
+14,tx, austin,AWAY Spa by W Hotels,Day Spas,30.26535,-97.74671,$$$,4.0,101.0
+15,tx, austin,Kalologie Medspa Austin,Skin Care,30.2558811,-97.7628877,$$,4.5,75.0
+16,tx, austin,It's a Secret Med Spa,Aestheticians,30.40265,-97.7198181,0,5.0,5.0
+17,tx, austin,Dream Spa,Nail Salons,30.31427,-97.71463,0,4.5,108.0
+18,tx, austin,milk + honey,Day Spas,30.3096402,-97.9420371,$$$,4.0,139.0
+19,tx, austin,The Woodhouse Day Spa- Austin,Day Spas,30.3344626664963,-97.8084079242063,$$$,3.5,108.0
+0,tx, el paso,The Woodhouse Day Spa,Day Spas,31.770787,-106.371092,$$$$,4.5,30.0
+1,tx, el paso,Blush Boutique & Spa,Massage,31.7595175,-106.4867408,$$,4.5,80.0
+2,tx, el paso,Head 2 Toe Relaxing Spa,Massage,31.76571,-106.36426,$,5.0,19.0
+3,tx, el paso,Unknot Thai Spa,Skin Care,31.8622050891784,-106.547998300525,$$,4.5,28.0
+4,tx, el paso,Royal Sauna & Spa,Massage,31.8884,-106.41647,0,4.5,7.0
+5,tx, el paso,Relax Garden,Massage,31.7752732,-106.2532831,0,5.0,10.0
+6,tx, el paso,9 Spa Massage,Day Spas,31.7832444594056,-106.393614282333,$$$,4.0,6.0
+7,tx, el paso,Shanghai Tea Spa,Massage,31.8344612121582,-106.541091918945,$$,4.0,20.0
+8,tx, el paso,Barragan's Hair Salon & Day Spa,Day Spas,31.72566,-106.271156,$$$,3.0,28.0
+9,tx, el paso,The Beauty Bar,Hair Salons,31.7892666848312,-106.507438319603,$$,4.5,12.0
+10,tx, el paso,Body Sugaring Of El Paso,Massage,31.9165229797363,-106.420883178711,$$,5.0,3.0
+11,tx, el paso,Mei Mei,Massage Therapy,31.7835966,-106.4037712,0,5.0,1.0
+12,tx, el paso,Zen Therapeutic Retreat,Massage Therapy,31.832599,-106.532047,0,4.5,8.0
+13,tx, el paso,Happy Feet,Massage,31.8370399,-106.5625992,$$,4.0,44.0
+14,tx, el paso,Sundown Massage,Massage,31.7443,-106.29481,0,5.0,3.0
+15,tx, el paso,European Touch by Sophie,Skin Care,31.8186283111572,-106.517547607422,$$,4.5,12.0
+16,tx, el paso,Desert Rose Spa,Spray Tanning,31.78135,-106.44974,0,5.0,5.0
+17,tx, el paso,Selah Salon & Spa,Hair Salons,31.7812496,-106.4192896,$$,4.5,38.0
+18,tx, el paso,Body Kneads,Massage,31.834130342878,-106.530502665675,0,5.0,3.0
+19,tx, el paso,Float & Calm Spa,Massage,31.76581,-106.28547,0,4.5,3.0
+0,tx, lubbock,The Woodhouse Day Spa - Lubbock,Day Spas,33.5188262,-101.90302,$$$,4.0,36.0
+1,tx, lubbock,Luminous You,Massage,33.550063,-101.878834,$$,5.0,14.0
+2,tx, lubbock,The Spa,Skin Care,33.5208,-101.92355,0,5.0,4.0
+3,tx, lubbock,Renaissance European Spa,Day Spas,33.5482469,-101.9078426,$$,3.5,12.0
+4,tx, lubbock,Xperience Salon & Day Spa,Day Spas,33.5279936,-101.8885757,$$,4.0,13.0
+5,tx, lubbock,Soothing Foot Spa & Tea Bar,Massage,33.5192113309689,-101.924219521584,$$,4.5,14.0
+6,tx, lubbock,Oceans Massage Spa & School,Massage,33.480640411377,-101.906295776367,$$$,4.5,5.0
+7,tx, lubbock,Foot Heaven Spa,Day Spas,33.591591,-101.92131,$$,4.0,6.0
+8,tx, lubbock,healthy house,Massage,33.562226,-101.9226449,0,5.0,3.0
+9,tx, lubbock,Broderick's Therapeutic World,Massage,33.53366,-101.92496,$$,4.0,5.0
+10,tx, lubbock,Therapy Today,Massage Therapy,33.52069,-101.8867,0,5.0,14.0
+11,tx, lubbock,HWY 108: Holistic Wellness & Yoga,Yoga,33.549175,-101.906273,0,5.0,11.0
+12,tx, lubbock,Q Foot Spa,Massage,33.5497809325061,-101.911768355249,$$,4.5,16.0
+13,tx, lubbock,Venice Nails and Spa,Nail Salons,33.5213362,-101.8893643,$$,4.0,58.0
+14,tx, lubbock,Melissa's Spa and Wellness,Massage Therapy,33.5193104,-101.921881,0,3.0,4.0
+15,tx, lubbock,Soothing Foot SPA,Reflexology,33.533703,-101.957803,0,5.0,1.0
+16,tx, lubbock,Lindsey's Salon & Day Spa,Nail Salons,33.5182456970215,-101.885795593262,$$,4.0,5.0
+17,tx, lubbock,Bloomington Salon,Blow Dry/Out Services,33.51928,-101.90541,0,4.5,8.0
+18,tx, lubbock,Vogue Nails & Spa,Day Spas,33.51912,-101.94111,$$,4.0,25.0
+19,tx, lubbock,Lubbock Reflexology,Massage,33.5394643708014,-101.925991035141,0,5.0,2.0
+0,tx, midland,The Woodhouse Day Spa - Midland,Massage,32.0287052340804,-102.143316054003,$$,3.5,17.0
+1,tx, midland,Escape Day Spa,Day Spas,31.994417,-102.097756,0,5.0,2.0
+2,tx, midland,Jian Kang Massage,Reflexology,31.97606,-102.07305,0,4.5,2.0
+3,tx, midland,Massage Oasis,Massage Therapy,32.0339023,-102.1243949,0,4.0,18.0
+4,tx, midland,The Comfort Zone Spa,Massage Therapy,32.0672556,-102.0865249,0,5.0,1.0
+5,tx, midland,True You Spa,Day Spas,32.03184,-102.12603,0,5.0,1.0
+6,tx, midland,Briarwood Medical Spa,Medical Spas,32.02795,-102.15601,0,5.0,3.0
+7,tx, midland,Body Focus Medical Spa,Medical Spas,31.9700705586094,-102.125412052683,0,5.0,1.0
+8,tx, midland,Flamingo Massage,Massage,32.00252,-102.113553,0,5.0,1.0
+9,tx, midland,Relaxing House - Chinese Acupressure,Reflexology,32.0203298329237,-102.125589363277,$,4.5,20.0
+10,tx, midland,Midland Nails & Spa,Nail Salons,32.0321040093547,-102.12462382425,$$,4.0,46.0
+11,tx, midland,Joe James Salon & Day Spa,Hair Salons,32.0237983,-102.106215,$$$,3.5,16.0
+12,tx, midland,New-U Med Spa,Skin Care,32.03537,-102.13202,0,5.0,1.0
+13,tx, midland,Venetian Nails Day Spa,Nail Salons,31.993742,-102.153756,$$,3.5,61.0
+14,tx, midland,Midland Nail Lounge,Nail Salons,32.0344761334725,-102.123481581813,0,4.0,8.0
+15,tx, midland,Sunny Chinese Massage,Massage Therapy,32.019072,-102.08065433,0,4.0,1.0
+16,tx, midland,Live Pure Chiropractic,Chiropractors,32.0024729698078,-102.113663822881,0,3.5,2.0
+17,tx, midland,Massage Charm,Massage Therapy,32.00249,-102.13594,0,4.0,5.0
+18,tx, midland,Pattaya Massage,Massage Therapy,31.8769829522313,-102.330209994594,0,4.5,10.0
+19,tx, midland,Barry Morris Salon,Nail Salons,32.024371,-102.108146,0,5.0,2.0
+0,tx, denton,King Spa,Massage,33.2305221557617,-97.1343688964844,$$,4.5,31.0
+1,tx, denton,Essentials Day Spa,Day Spas,33.2189674377441,-97.1347198486328,$$$,4.5,8.0
+2,tx, denton,Bodhi Tree Bodyworks,Massage Therapy,33.2287496,-97.1337714,0,5.0,6.0
+3,tx, denton,Massage On The Square,Massage,33.2156449,-97.1319658,$$,5.0,2.0
+4,tx, denton,Bella Salon & Spa,Nail Salons,33.1843282494081,-97.1078065772424,$$,4.0,85.0
+5,tx, denton,CQ Foot Spa,Massage,33.19225,-97.09528,0,4.5,11.0
+6,tx, denton,Captiva Hair Salon & Spa,Day Spas,33.2156949,-97.13395,$$,5.0,21.0
+7,tx, denton,Grand Nail Spa,Nail Salons,33.230123,-97.158785,$$,4.0,79.0
+8,tx, denton,The New You,Sugaring,33.2104225158691,-97.1368789672852,$$,4.5,8.0
+9,tx, denton,Shambhala Wellness,Hypnosis/Hypnotherapy,33.23116,-97.1304399,0,5.0,3.0
+10,tx, denton,Kim Spa,Massage,33.2296042325646,-97.138216608564,$$,3.5,6.0
+11,tx, denton,Heal Spa,Massage,33.1738124,-97.0891477,0,2.5,3.0
+12,tx, denton,Davanti Salon and Spa,Hair Salons,33.193988,-97.0990659,$$,3.5,42.0
+13,tx, denton,Denton Specialty Massage,Massage,33.21042,-97.13687,0,5.0,1.0
+14,tx, denton,Nature's Remedy,Reflexology,33.2289863,-97.1536,0,4.5,4.0
+15,tx, denton,LV Asian Massage,Massage Therapy,33.2295473,-97.1403694,0,3.5,3.0
+16,tx, denton,Soho Salon,Nail Salons,33.2221755981445,-97.1326370239258,$$,4.0,45.0
+17,tx, denton,Luxe Nail Salon,Nail Salons,33.2283908916634,-97.1684382711427,$$,3.5,56.0
+18,tx, denton,Massage By Laurel,Massage Therapy,33.205448873361,-97.135851747172,0,3.5,3.0
+19,tx, denton,Soma Massage Therapy,Massage,33.2198371810483,-97.1501344443766,0,4.5,5.0
+0,tx, tyler,The Rose Spa At The Cascades,Hair Salons,32.317385,-95.356822,$$,4.0,12.0
+1,tx, tyler,La Vie Med Spa,Massage Therapy,32.265522,-95.341684,0,5.0,5.0
+2,tx, tyler,Body & Soul Massage Studio,Massage Therapy,32.288523,-95.305739,0,5.0,4.0
+3,tx, tyler,Thip's Massage & Spa,Massage Therapy,32.286599,-95.306871,0,5.0,3.0
+4,tx, tyler,Belladonna Day Spa & Boutique,Day Spas,32.29409,-95.30472,$$$,2.5,9.0
+5,tx, tyler,Pure Nail Spa and Bar,Massage,32.3110969961352,-95.3013142310472,$$,4.0,25.0
+6,tx, tyler,Pure Radiance Medical Spa,Laser Hair Removal,32.2775385,-95.3055063,$$$,3.5,3.0
+7,tx, tyler,Pure massage,Massage Therapy,32.28021,-95.33136,0,4.5,13.0
+8,tx, tyler,A Time 4 U,Massage,32.28813,-95.30578,0,5.0,1.0
+9,tx, tyler,Jessica's Massage Spa,Skin Care,32.3075686,-95.3008149,$$$,3.0,14.0
+10,tx, tyler,Luxe Med Spa,Medical Spas,32.2730146,-95.3419115,0,5.0,1.0
+11,tx, tyler,Yen Massage and Yoga,Massage Therapy,32.31213,-95.30937,0,5.0,4.0
+12,tx, tyler,Headquarters,Hair Salons,32.2944951792342,-95.305016588989,$$,5.0,4.0
+13,tx, tyler,The Rage Salon,Hair Salons,32.27426,-95.33921,$$$,3.5,13.0
+14,tx, tyler,Reflections Wig Salon & Boutique,Wigs,32.340719,-95.3030284,0,5.0,1.0
+15,tx, tyler,The Massage Spot & Spa,Massage,32.295185,-95.290928,0,1.0,1.0
+16,tx, tyler,Nail & Spa Unlimited,Day Spas,32.30775,-95.27145,$,4.0,5.0
+17,tx, tyler,Prism Beauty Bar,Hair Stylists,32.284025,-95.304123,$$,4.5,31.0
+18,tx, tyler,Spectrum Laser Aesthetics,Laser Hair Removal,32.28237,-95.30774,0,5.0,1.0
+19,tx, tyler,With Class Spa,Nail Salons,32.2673285,-95.3569883,0,4.5,2.0
+0,va, richmond,Vitality Float Spa,Massage Therapy,37.549672,-77.474661,$$,4.5,62.0
+1,va, richmond,Perception Organic Spa,Day Spas,37.5522184,-77.4777944,$$,4.5,170.0
+2,va, richmond,Sacred Waters Holistic Spa & Boutique,Reiki,37.5540037144391,-77.483596354723,$$,4.5,42.0
+3,va, richmond,Glow Med Spa,Medical Spas,37.6593018,-77.6266403,$$,4.5,68.0
+4,va, richmond,Glow Med Spa,Skin Care,37.6004673,-77.4667517,$$,4.5,53.0
+5,va, richmond,Renewal Day Spa & Nails,Day Spas,37.5037376,-77.575928,$$$,4.5,19.0
+6,va, richmond,Awaken,Massage,37.546469,-77.460254,0,5.0,27.0
+7,va, richmond,Pressed,Massage Therapy,37.5513199,-77.47385,$$,4.5,17.0
+8,va, richmond,Main Street Spa & Wellness Center,Skin Care,37.55288,-77.48022,$$,5.0,13.0
+9,va, richmond,New Asian Massage Spa,Massage Therapy,37.6817173,-77.5873243779099,0,4.5,12.0
+10,va, richmond,Bon Air Med Spa,Medical Spas,37.5362091,-77.5615082,$$,4.5,12.0
+11,va, richmond,Hand & Stone Massage and Facial Spa,Massage,37.55713,-77.48625,$$,3.5,46.0
+12,va, richmond,Scents of Serenity Organic Spa,Day Spas,37.6560424,-77.524436,$$,5.0,79.0
+13,va, richmond,allé Massage Delivery,Massage,37.5762100219727,-77.5154800415039,$$,4.5,19.0
+14,va, richmond,Rustique Salon & Spa,Hair Salons,37.5817422160488,-77.5555855035782,$$,5.0,12.0
+15,va, richmond,Mirus Massage,Massage,37.55366,-77.48091,$$,5.0,15.0
+16,va, richmond,Elements Massage - Short Pump,Massage,37.6523017,-77.6203079,$$,4.5,19.0
+17,va, richmond,Muise Spa,Day Spas,37.61157,-77.34553,$$,4.5,11.0
+18,va, richmond,Taiwan Spa,Massage,37.651538,-77.615076,$,4.5,43.0
+19,va, richmond,Indigo Therapeutic Massage & Healing Arts,Medical Spas,37.590203,-77.529099,$$,5.0,3.0
+0,wa, spokane,Pure Salon & Spa,Waxing,47.656584,-117.418714,$$,5.0,37.0
+1,wa, spokane,Davenport Spa and Salon,Day Spas,47.6564599,-117.4233311,$$$,4.5,31.0
+2,wa, spokane,The BrickHouse Massage & Coffee Bar,Day Spas,47.65677,-117.21297,$$,4.5,40.0
+3,wa, spokane,Spa Paradiso,Massage,47.6617604521511,-117.430935842575,$$$,3.5,39.0
+4,wa, spokane,Luxe Salon & Spa,Waxing,47.7152675,-117.4169334,0,4.5,15.0
+5,wa, spokane,La Rive Spa,Massage,47.658098,-117.561804,$$$,3.5,32.0
+6,wa, spokane,SpaBlue,Skin Care,47.65963,-117.41558,$$,5.0,6.0
+7,wa, spokane,Elements Massage - Spokane South,Massage,47.6027632604287,-117.363777929129,$$,4.0,21.0
+8,wa, spokane,Jasmine Massage,Massage,47.70032,-117.41262,0,5.0,5.0
+9,wa, spokane,Mia's Massage,Massage,47.69364,-117.43273,0,5.0,4.0
+10,wa, spokane,Asian Touch Massage Spa,Reflexology,47.71476,-117.38855,0,5.0,1.0
+11,wa, spokane,Studio North Salon & Spa,Eyelash Service,47.75747,-117.39597,$$,5.0,10.0
+12,wa, spokane,Vida Salon & Spa,Hair Salons,47.6673583984375,-117.425643920898,$$,4.0,6.0
+13,wa, spokane,Di Amand Salon & Day Spa,Day Spas,47.60184,-117.36987,0,5.0,1.0
+14,wa, spokane,Whispering Falls Massage Therapy,Massage,47.656335,-117.418974,$$,5.0,5.0
+15,wa, spokane,Elements Massage - Wandermere,Massage,47.7696991412759,-117.40799415483,$$,4.5,16.0
+16,wa, spokane,Azure Aesthetics,Day Spas,47.6781756624692,-117.238884526459,$$,4.5,10.0
+17,wa, spokane,Zuri Skin Spa,Waxing,47.6574495757618,-117.413515190047,$$,4.5,15.0
+18,wa, spokane,Fancy Oil Spa,Massage,47.7190364,-117.3946605,$,4.5,27.0
+19,wa, spokane,Lin's Relax Station,Massage,47.702169,-117.409516,0,5.0,7.0
+0,wi, milwaukee,Knick Salon & Spa,Hair Salons,43.04605,-87.898782,$$,4.0,55.0
+1,wi, milwaukee,Deep Roots Massage,Day Spas,43.0036087,-87.905159,$$,4.5,8.0
+2,wi, milwaukee,Well Spa + Salon,Day Spas,43.0389758,-87.9056949913502,$$$,4.0,85.0
+3,wi, milwaukee,Spargo Salon & Day Spa,Day Spas,43.0841576880795,-88.2459963193466,$$,4.5,19.0
+4,wi, milwaukee,Neroli Salon & Spa,Day Spas,43.0349921,-87.9064855,$$$,3.5,98.0
+5,wi, milwaukee,Chloe Organic Massage & Bodywork Studio,Massage,43.052743,-87.899929,$$,5.0,11.0
+6,wi, milwaukee,Urbaine Oasis Spa Boutique,Day Spas,43.0334824,-87.9080043,0,5.0,6.0
+7,wi, milwaukee,Bare Beauty Med Spa & Skincare,Medical Spas,43.039462,-87.906242,$$,4.5,14.0
+8,wi, milwaukee,Healium Wellness,Massage Therapy,42.9812583,-87.9083558,0,4.5,19.0
+9,wi, milwaukee,Elements Massage - Elm Grove,Massage,43.0367172086516,-88.0735594367991,$$,5.0,22.0
+10,wi, milwaukee,Vidatherapy Massage Center,Massage Therapy,43.03695,-87.978357,0,5.0,2.0
+11,wi, milwaukee,Invivo Wellness,Massage,43.057616,-87.897584,$$,4.5,46.0
+12,wi, milwaukee,Taglio Salon & Spa,Skin Care,42.9744144,-88.0484888,$$,4.5,7.0
+13,wi, milwaukee,Sparkle Spa,Day Spas,43.041904,-88.0790848,$$,5.0,9.0
+14,wi, milwaukee,Massage By Ashley,Reflexology,43.0301500252645,-87.9124415860658,0,5.0,2.0
+15,wi, milwaukee,Origins of Wellness,Skin Care,42.9416499,-87.9963897,$$,4.5,11.0
+16,wi, milwaukee,Lula Mae Aesthetic Boutique,Day Spas,43.01687,-87.99136,$$,4.0,19.0
+17,wi, milwaukee,Infinity Massage and Bodywork,Reiki,42.9712057,-87.9092509,0,4.5,7.0
+18,wi, milwaukee,honeybee sage,Massage Therapy,43.0764,-87.95811,0,5.0,1.0
+19,wi, milwaukee,Anna's Soothing Service Plus,Massage,43.0345458984375,-87.9150924682617,$$,5.0,3.0
+0,wi, kenosha,Bodywise Wellness & Spa,Yoga,42.59833,-87.879,$$,4.5,24.0
+1,wi, kenosha,Moda Bella Salon and Spa,Nail Salons,42.5811179,-87.822197,$$,4.5,49.0
+2,wi, kenosha,Equinox the Body & Soul Boutique,Day Spas,42.5822296,-87.818161,$$,4.5,9.0
+3,wi, kenosha,Springbrook Wellness,Massage Therapy,42.55875,-87.85323,$$,5.0,5.0
+4,wi, kenosha,Blue Dove Salon & Day Spa,Day Spas,42.705217,-87.826609,$$,4.5,8.0
+5,wi, kenosha,Skin R.N.,Medical Spas,42.6026838,-87.8670062,0,5.0,1.0
+6,wi, kenosha,Touch of Peace & Harmony,Massage Therapy,42.5679299,-87.94401,0,5.0,2.0
+7,wi, kenosha,Black Cat Bodyworks,Massage Therapy,42.5906759,-87.8207135,0,5.0,1.0
+8,wi, kenosha,Bettina's Therapeutic Massage,Naturopathic/Holistic,42.57125,-87.85551,0,5.0,1.0
+9,wi, kenosha,Bliss2Massage,Massage Therapy,42.6883850097656,-87.8373413085938,0,5.0,3.0
+10,wi, kenosha,#1 Massage Spa,Massage,42.56792,-87.87994,0,5.0,3.0
+11,wi, kenosha,Gemini Salon & Spa,Nail Salons,42.568297,-87.946705,$$$,4.0,23.0
+12,wi, kenosha,Laurel Massage Studio,Massage Therapy,42.723338,-87.781635,0,5.0,1.0
+13,wi, kenosha,Citrine Professional Skincare and Massage,Medical Spas,42.718386,-87.847582,0,5.0,1.0
+14,wi, kenosha,Wisconsin Institute of East-West Wellness,Massage Schools,42.5760367041808,-87.8379356861115,0,3.0,4.0
+15,wi, kenosha,Ai Spa,Massage,42.72149,-87.88807,$$,5.0,1.0
+16,wi, kenosha,Salon Bari,Hair Salons,42.572118,-87.886394,$$,5.0,8.0
+17,wi, kenosha,Meraki Therapy,Reflexology,42.561969,-87.889318,$,5.0,3.0
+18,wi, kenosha,Perfect 10 Nails,Skin Care,42.5857086,-87.8184814,$$,5.0,1.0
+19,wi, kenosha,Polished Beauty Bar,Eyelash Service,42.719854,-87.853455,0,3.5,14.0
+0,ca, sacramento,House of Bread Christian Academy,Private Schools,38.6850543,-121.2256249,0,5.0,3.0
+0,md, baltimore,The Private School Admissions Company,Private Tutors,38.937976,-77.073644,0,1.0,6.0
+0,ca, los angeles,Personal Chef Judy Aldler,Personal Chefs,34.02875,-118.4717975,0,5.0,1.0
+1,ca, los angeles,T's Tasty Treats & Catering,Caterers,33.987060546875,-118.387809753418,$$$,5.0,1.0
+2,ca, los angeles,Kang Ho Dong Baekjeong,Korean,33.70806,-117.78383,$$,4.5,2198.0
+0,ca, san diego,Personal Chefs for Seniors,Personal Chefs,32.7475051879883,-117.202522277832,0,5.0,3.0
+1,ca, san diego,Personal Chef Yoann Taboyan,Personal Chefs,32.8421401977539,-117.274711608887,0,5.0,28.0
+0,ca, san francisco,DaniBensimon Catering,Party & Event Planning,37.81258,-122.243362,0,5.0,7.0
+1,ca, san francisco,Catered with Class,Caterers,38.10856,-122.21234,0,4.5,11.0
+2,ca, san francisco,MightyGoodFood,Caterers,38.54939,-121.71666,$$,5.0,4.0
+0,ca, sacramento,MightyGoodFood,Caterers,38.54939,-121.71666,$$,5.0,4.0
+1,ca, sacramento,Catered with Class,Caterers,38.10856,-122.21234,0,4.5,11.0
+0,ca, riverside,Kang Ho Dong Baekjeong,Korean,33.70806,-117.78383,$$,4.5,2198.0
+0,ca, san bernardino,Kang Ho Dong Baekjeong,Korean,33.70806,-117.78383,$$,4.5,2198.0
+0,ca, orange,Personal Chef Peter,Personal Chefs,33.6505761,-117.9159752,0,5.0,40.0
+1,ca, orange,T's Tasty Treats & Catering,Caterers,33.987060546875,-118.387809753418,$$$,5.0,1.0
+2,ca, orange,Kang Ho Dong Baekjeong,Korean,33.70806,-117.78383,$$,4.5,2198.0
+0,ca, santa clara,DaniBensimon Catering,Party & Event Planning,37.81258,-122.243362,0,5.0,7.0
+1,ca, santa clara,Catered with Class,Caterers,38.10856,-122.21234,0,4.5,11.0
+2,ca, santa clara,MightyGoodFood,Caterers,38.54939,-121.71666,$$,5.0,4.0
+0,ca, san mateo,DaniBensimon Catering,Party & Event Planning,37.81258,-122.243362,0,5.0,7.0
+1,ca, san mateo,Catered with Class,Caterers,38.10856,-122.21234,0,4.5,11.0
+2,ca, san mateo,MightyGoodFood,Caterers,38.54939,-121.71666,$$,5.0,4.0

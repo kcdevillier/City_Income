@@ -1,0 +1,315 @@
+,City,State,2018estimate,2010Census,Change,2016 land area,2016 land area.1
+0,New York,New York,8398748,8175133,+2.74%,301.5 sq mi,780.9 km2
+1,Los Angeles,California,3990456,3792621,+5.22%,468.7 sq mi,"1,213.9 km2"
+2,Chicago,Illinois,2705994,2695598,+0.39%,227.3 sq mi,588.7 km2
+3,Houston,Texas,2325502,2100263,+10.72%,637.5 sq mi,"1,651.1 km2"
+4,Phoenix,Arizona,1660272,1445632,+14.85%,517.6 sq mi,"1,340.6 km2"
+5,Philadelphia,Pennsylvania,1584138,1526006,+3.81%,134.2 sq mi,347.6 km2
+6,San Antonio,Texas,1532233,1327407,+15.43%,461.0 sq mi,"1,194.0 km2"
+7,San Diego,California,1425976,1307402,+9.07%,325.2 sq mi,842.3 km2
+8,Dallas,Texas,1345047,1197816,+12.29%,340.9 sq mi,882.9 km2
+9,San Jose,California,1030119,945942,+8.90%,177.5 sq mi,459.7 km2
+10,Austin,Texas,964254,790390,+22.00%,312.7 sq mi,809.9 km2
+11,Jacksonville,Florida,903889,821784,+9.99%,747.4 sq mi,"1,935.8 km2"
+12,Fort Worth,Texas,895008,741206,+20.75%,342.9 sq mi,888.1 km2
+13,Columbus,Ohio,892533,787033,+13.40%,218.5 sq mi,565.9 km2
+14,San Francisco,California,883305,805235,+9.70%,46.9 sq mi,121.5 km2
+15,Charlotte,North Carolina,872498,731424,+19.29%,305.4 sq mi,791.0 km2
+16,Indianapolis,Indiana,867125,820445,+5.69%,361.5 sq mi,936.3 km2
+17,Seattle,Washington,744955,608660,+22.39%,83.8 sq mi,217.0 km2
+18,Denver,Colorado,716492,600158,+19.38%,153.3 sq mi,397.0 km2
+19,Washington,District of Columbia,702455,601723,+16.74%,61.1 sq mi,158.2 km2
+20,Boston,Massachusetts,694583,617594,+12.47%,48.3 sq mi,125.1 km2
+21,El Paso,Texas,682669,649121,+5.17%,256.8 sq mi,665.1 km2
+22,Detroit,Michigan,672662,713777,−5.76%,138.8 sq mi,359.5 km2
+23,Nashville,Tennessee,669053,601222,+11.28%,475.9 sq mi,"1,232.6 km2"
+24,Portland,Oregon,653115,583776,+11.88%,133.5 sq mi,345.8 km2
+25,Memphis,Tennessee,650618,646889,+0.58%,317.4 sq mi,822.1 km2
+26,Oklahoma City,Oklahoma,649021,579999,+11.90%,606.3 sq mi,"1,570.3 km2"
+27,Las Vegas,Nevada,644644,583756,+10.43%,134.4 sq mi,348.1 km2
+28,Louisville,Kentucky,620118,597337,+3.81%,263.5 sq mi,682.5 km2
+29,Baltimore,Maryland,602495,620961,−2.97%,80.9 sq mi,209.5 km2
+30,Milwaukee,Wisconsin,592025,594833,−0.47%,96.2 sq mi,249.2 km2
+31,Albuquerque,New Mexico,560218,545852,+2.63%,188.2 sq mi,487.4 km2
+32,Tucson,Arizona,545975,520116,+4.97%,230.8 sq mi,597.8 km2
+33,Fresno,California,530093,494665,+7.16%,114.4 sq mi,296.3 km2
+34,Mesa,Arizona,508958,439041,+15.92%,137.9 sq mi,357.2 km2
+35,Sacramento,California,508529,466488,+9.01%,97.9 sq mi,253.6 km2
+36,Atlanta,Georgia,498044,420003,+18.58%,133.5 sq mi,345.8 km2
+37,Kansas City,Missouri,491918,459787,+6.99%,315.0 sq mi,815.8 km2
+38,Colorado Springs,Colorado,472688,416427,+13.51%,195.6 sq mi,506.6 km2
+39,Miami,Florida,470914,399457,+17.89%,36.0 sq mi,93.2 km2
+40,Raleigh,North Carolina,469298,403892,+16.19%,145.1 sq mi,375.8 km2
+41,Omaha,Nebraska,468262,408958,+14.50%,133.2 sq mi,345.0 km2
+42,Long Beach,California,467354,462257,+1.10%,50.3 sq mi,130.3 km2
+43,Virginia Beach,Virginia,450189,437994,+2.78%,244.7 sq mi,633.8 km2
+44,Oakland,California,429082,390724,+9.82%,55.9 sq mi,144.8 km2
+45,Minneapolis,Minnesota,425403,382578,+11.19%,54.0 sq mi,139.9 km2
+46,Tulsa,Oklahoma,400669,391906,+2.24%,196.8 sq mi,509.7 km2
+47,Arlington,Texas,398112,365438,+8.94%,95.8 sq mi,248.1 km2
+48,Tampa,Florida,392890,335709,+17.03%,113.4 sq mi,293.7 km2
+49,New Orleans,Louisiana,391006,343829,+13.72%,169.4 sq mi,438.7 km2
+50,Wichita,Kansas,389255,382368,+1.80%,160.4 sq mi,415.4 km2
+51,Cleveland,Ohio,383793,396815,−3.28%,77.7 sq mi,201.2 km2
+52,Bakersfield,California,383579,347483,+10.39%,148.8 sq mi,385.4 km2
+53,Aurora,Colorado,374114,325078,+15.08%,153.5 sq mi,397.6 km2
+54,Anaheim,California,352005,336265,+4.68%,50.0 sq mi,129.5 km2
+55,Honolulu,Hawaii,347397,337256,+3.01%,60.5 sq mi,156.7 km2
+56,Santa Ana,California,332725,324528,+2.53%,27.1 sq mi,70.2 km2
+57,Riverside,California,330063,303871,+8.62%,81.2 sq mi,210.3 km2
+58,Corpus Christi,Texas,326554,305215,+6.99%,174.6 sq mi,452.2 km2
+59,Lexington,Kentucky,323780,295803,+9.46%,283.6 sq mi,734.5 km2
+60,Stockton,California,311178,291707,+6.67%,61.7 sq mi,159.8 km2
+61,Henderson,Nevada,310390,257729,+20.43%,104.7 sq mi,271.2 km2
+62,Saint Paul,Minnesota,307695,285068,+7.94%,52.0 sq mi,134.7 km2
+63,St. Louis,Missouri,302838,319294,−5.15%,62.0 sq mi,160.6 km2
+64,Cincinnati,Ohio,302605,296943,+1.91%,77.4 sq mi,200.5 km2
+65,Pittsburgh,Pennsylvania,301048,305704,−1.52%,55.4 sq mi,143.5 km2
+66,Greensboro,North Carolina,294722,269666,+9.29%,128.3 sq mi,332.3 km2
+67,Anchorage,Alaska,291538,291826,−0.10%,"1,706.6 sq mi","4,420.1 km2"
+68,Plano,Texas,288061,259841,+10.86%,71.7 sq mi,185.7 km2
+69,Lincoln,Nebraska,287401,258379,+11.23%,92.1 sq mi,238.5 km2
+70,Orlando,Florida,285713,238300,+19.90%,105.2 sq mi,272.5 km2
+71,Irvine,California,282572,212375,+33.05%,65.6 sq mi,169.9 km2
+72,Newark,New Jersey,282090,277140,+1.79%,24.1 sq mi,62.4 km2
+73,Toledo,Ohio,274975,287208,−4.26%,80.7 sq mi,209.0 km2
+74,Durham,North Carolina,274291,228330,+20.13%,109.8 sq mi,284.4 km2
+75,Chula Vista,California,271651,243916,+11.37%,49.6 sq mi,128.5 km2
+76,Fort Wayne,Indiana,267633,253691,+5.50%,110.6 sq mi,286.5 km2
+77,Jersey City,New Jersey,265549,247597,+7.25%,14.8 sq mi,38.3 km2
+78,St. Petersburg,Florida,265098,244769,+8.31%,61.8 sq mi,160.1 km2
+79,Laredo,Texas,261639,236091,+10.82%,101.1 sq mi,261.8 km2
+80,Madison,Wisconsin,258054,233209,+10.65%,77.0 sq mi,199.4 km2
+81,Chandler,Arizona,257165,236123,+8.91%,64.9 sq mi,168.1 km2
+82,Buffalo,New York,256304,261310,−1.92%,40.4 sq mi,104.6 km2
+83,Lubbock,Texas,255885,229573,+11.46%,124.6 sq mi,322.7 km2
+84,Scottsdale,Arizona,255310,217385,+17.45%,183.9 sq mi,476.3 km2
+85,Reno,Nevada,250998,225221,+11.45%,107.3 sq mi,277.9 km2
+86,Glendale,Arizona,250702,226721,+10.58%,59.1 sq mi,153.1 km2
+87,Gilbert,Arizona,248279,208453,+19.11%,68.0 sq mi,176.1 km2
+88,Winston–Salem,North Carolina,246328,229617,+7.28%,132.5 sq mi,343.2 km2
+89,North Las Vegas,Nevada,245949,216961,+13.36%,98.0 sq mi,253.8 km2
+90,Norfolk,Virginia,244076,242803,+0.52%,53.3 sq mi,138.0 km2
+91,Chesapeake,Virginia,242634,222209,+9.19%,338.5 sq mi,876.7 km2
+92,Garland,Texas,242507,226876,+6.89%,57.0 sq mi,147.6 km2
+93,Irving,Texas,242242,216290,+12.00%,67.0 sq mi,173.5 km2
+94,Hialeah,Florida,238942,224669,+6.35%,21.5 sq mi,55.7 km2
+95,Fremont,California,237807,214089,+11.08%,77.5 sq mi,200.7 km2
+96,Boise,Idaho,228790,205671,+11.24%,82.1 sq mi,212.6 km2
+97,Richmond,Virginia,228783,204214,+12.03%,59.8 sq mi,154.9 km2
+98,Baton Rouge,Louisiana,221599,229493,−3.44%,85.9 sq mi,222.5 km2
+99,Spokane,Washington,219190,208916,+4.92%,68.7 sq mi,177.9 km2
+100,Des Moines,Iowa,216853,203433,+6.60%,88.9 sq mi,230.2 km2
+101,Tacoma,Washington,216279,198397,+9.01%,49.7 sq mi,128.7 km2
+102,San Bernardino,California,215941,209924,+2.87%,61.5 sq mi,159.3 km2
+103,Modesto,California,215030,201165,+6.89%,43.0 sq mi,111.4 km2
+104,Fontana,California,213739,196069,+9.01%,43.0 sq mi,111.4 km2
+105,Santa Clarita,California,210089,176320,+19.15%,52.8 sq mi,136.8 km2
+106,Birmingham,Alabama,209880,212237,−1.11%,146.1 sq mi,378.4 km2
+107,Oxnard,California,209877,197899,+6.05%,26.9 sq mi,69.7 km2
+108,Fayetteville,North Carolina,209468,200564,+4.44%,147.7 sq mi,382.5 km2
+109,Moreno Valley,California,209050,193365,+8.11%,51.3 sq mi,132.9 km2
+110,Rochester,New York,206284,210565,−2.03%,35.8 sq mi,92.7 km2
+111,Glendale,California,201361,191719,+5.03%,30.4 sq mi,78.7 km2
+112,Huntington Beach,California,200641,189992,+5.60%,26.9 sq mi,69.7 km2
+113,Salt Lake City,Utah,200591,186440,+7.59%,111.2 sq mi,288.0 km2
+114,Grand Rapids,Michigan,200217,188040,+6.48%,44.4 sq mi,115.0 km2
+115,Amarillo,Texas,199924,190695,+4.84%,101.4 sq mi,262.6 km2
+116,Yonkers,New York,199663,195976,+1.88%,18.0 sq mi,46.6 km2
+117,Aurora,Illinois,199602,197899,+0.86%,44.9 sq mi,116.3 km2
+118,Montgomery,Alabama,198218,205764,−3.67%,159.8 sq mi,413.9 km2
+119,Akron,Ohio,198006,199110,−0.55%,62.0 sq mi,160.6 km2
+120,Little Rock,Arkansas,197881,193524,+2.25%,118.7 sq mi,307.4 km2
+121,Huntsville,Alabama,197318,180105,+9.56%,213.4 sq mi,552.7 km2
+122,Augusta,Georgia,196939,195844,+0.56%,302.5 sq mi,783.5 km2
+123,Port St. Lucie,Florida,195248,164603,+18.62%,118.9 sq mi,307.9 km2
+124,Grand Prairie,Texas,194614,175396,+10.96%,72.3 sq mi,187.3 km2
+125,Columbus,Georgia,194160,189885,+2.25%,216.4 sq mi,560.5 km2
+126,Tallahassee,Florida,193551,181376,+6.71%,100.4 sq mi,260.0 km2
+127,Overland Park,Kansas,192536,173372,+11.05%,75.1 sq mi,194.5 km2
+128,Tempe,Arizona,192364,161719,+18.95%,40.0 sq mi,103.6 km2
+129,McKinney,Texas,191645,131117,+46.16%,63.0 sq mi,163.2 km2
+130,Mobile,Alabama,189572,195111,−2.84%,139.4 sq mi,361.0 km2
+131,Cape Coral,Florida,189343,154305,+22.71%,105.6 sq mi,273.5 km2
+132,Shreveport,Louisiana,188987,199311,−5.18%,107.1 sq mi,277.4 km2
+133,Frisco,Texas,188170,116989,+60.84%,67.7 sq mi,175.3 km2
+134,Knoxville,Tennessee,187500,178874,+4.82%,98.5 sq mi,255.1 km2
+135,Worcester,Massachusetts,185877,181045,+2.67%,37.4 sq mi,96.9 km2
+136,Brownsville,Texas,183392,175023,+4.78%,132.5 sq mi,343.2 km2
+137,Vancouver,Washington,183012,161791,+13.12%,46.9 sq mi,121.5 km2
+138,Fort Lauderdale,Florida,182595,165521,+10.32%,34.6 sq mi,89.6 km2
+139,Sioux Falls,South Dakota,181883,153888,+18.19%,75.4 sq mi,195.3 km2
+140,Ontario,California,181107,163924,+10.48%,49.9 sq mi,129.2 km2
+141,Chattanooga,Tennessee,180557,167674,+7.68%,143.1 sq mi,370.6 km2
+142,Providence,Rhode Island,179335,178042,+0.73%,18.4 sq mi,47.7 km2
+143,Newport News,Virginia,178626,180719,−1.16%,69.1 sq mi,179.0 km2
+144,Rancho Cucamonga,California,177751,165269,+7.55%,40.0 sq mi,103.6 km2
+145,Santa Rosa,California,177586,167815,+5.82%,41.3 sq mi,107.0 km2
+146,Oceanside,California,176080,167086,+5.38%,41.3 sq mi,107.0 km2
+147,Salem,Oregon,173442,154637,+12.16%,48.6 sq mi,125.9 km2
+148,Elk Grove,California,172886,153015,+12.99%,42.2 sq mi,109.3 km2
+149,Garden Grove,California,172646,170883,+1.03%,18.0 sq mi,46.6 km2
+150,Pembroke Pines,Florida,172374,154019,+11.92%,33.0 sq mi,85.5 km2
+151,Peoria,Arizona,172259,154065,+11.81%,175.7 sq mi,455.1 km2
+152,Eugene,Oregon,171245,156185,+9.64%,44.1 sq mi,114.2 km2
+153,Corona,California,168819,152374,+10.79%,39.5 sq mi,102.3 km2
+154,Cary,North Carolina,168160,135234,+24.35%,56.5 sq mi,146.3 km2
+155,Springfield,Missouri,168122,159498,+5.41%,82.3 sq mi,213.2 km2
+156,Fort Collins,Colorado,167830,143986,+16.56%,55.8 sq mi,144.5 km2
+157,Jackson,Mississippi,164422,173514,−5.24%,111.0 sq mi,287.5 km2
+158,Alexandria,Virginia,160530,139966,+14.69%,15.0 sq mi,38.8 km2
+159,Hayward,California,159620,144186,+10.70%,45.5 sq mi,117.8 km2
+160,Lancaster,California,159053,156633,+1.55%,94.3 sq mi,244.2 km2
+161,Lakewood,Colorado,156798,142980,+9.66%,42.9 sq mi,111.1 km2
+162,Clarksville,Tennessee,156794,132929,+17.95%,98.3 sq mi,254.6 km2
+163,Palmdale,California,156667,152750,+2.56%,106.0 sq mi,274.5 km2
+164,Salinas,California,156259,150441,+3.87%,23.6 sq mi,61.1 km2
+165,Springfield,Massachusetts,155032,153060,+1.29%,31.9 sq mi,82.6 km2
+166,Hollywood,Florida,154823,140768,+9.98%,27.3 sq mi,70.7 km2
+167,Pasadena,Texas,153219,149043,+2.80%,43.5 sq mi,112.7 km2
+168,Sunnyvale,California,153185,140081,+9.35%,22.0 sq mi,57.0 km2
+169,Macon,Georgia,153095,91351,+67.59%,249.3 sq mi,645.7 km2
+170,Kansas City,Kansas,152958,145786,+4.92%,124.8 sq mi,323.2 km2
+171,Pomona,California,152361,149058,+2.22%,23.0 sq mi,59.6 km2
+172,Escondido,California,152213,143911,+5.77%,37.1 sq mi,96.1 km2
+173,Killeen,Texas,149103,127921,+16.56%,53.5 sq mi,138.6 km2
+174,Naperville,Illinois,148304,141853,+4.55%,38.7 sq mi,100.2 km2
+175,Joliet,Illinois,148099,147433,+0.45%,64.4 sq mi,166.8 km2
+176,Bellevue,Washington,147599,122363,+20.62%,33.5 sq mi,86.8 km2
+177,Rockford,Illinois,146526,152871,−4.15%,63.5 sq mi,164.5 km2
+178,Savannah,Georgia,145862,136286,+7.03%,103.6 sq mi,268.3 km2
+179,Paterson,New Jersey,145627,146199,−0.39%,8.4 sq mi,21.8 km2
+180,Torrance,California,145182,145438,−0.18%,20.5 sq mi,53.1 km2
+181,Bridgeport,Connecticut,144900,144229,+0.47%,16.1 sq mi,41.7 km2
+182,McAllen,Texas,143433,129877,+10.44%,58.4 sq mi,151.3 km2
+183,Mesquite,Texas,142816,139824,+2.14%,47.2 sq mi,122.2 km2
+184,Syracuse,New York,142749,145170,−1.67%,25.0 sq mi,64.7 km2
+185,Midland,Texas,142344,111147,+28.07%,74.4 sq mi,192.7 km2
+186,Pasadena,California,141371,137122,+3.10%,23.0 sq mi,59.6 km2
+187,Murfreesboro,Tennessee,141344,108755,+29.97%,55.9 sq mi,144.8 km2
+188,Miramar,Florida,140823,122041,+15.39%,29.4 sq mi,76.1 km2
+189,Dayton,Ohio,140640,141527,−0.63%,55.7 sq mi,144.3 km2
+190,Fullerton,California,139640,135161,+3.31%,22.4 sq mi,58.0 km2
+191,Olathe,Kansas,139605,125872,+10.91%,60.9 sq mi,157.7 km2
+192,Orange,California,139484,136416,+2.25%,25.4 sq mi,65.8 km2
+193,Thornton,Colorado,139436,118772,+17.40%,35.7 sq mi,92.5 km2
+194,Roseville,California,139117,118788,+17.11%,43.0 sq mi,111.4 km2
+195,Denton,Texas,138541,113383,+22.19%,93.4 sq mi,241.9 km2
+196,Waco,Texas,138183,124805,+10.72%,89.0 sq mi,230.5 km2
+197,Surprise,Arizona,138161,117517,+17.57%,107.9 sq mi,279.5 km2
+198,Carrollton,Texas,136879,119097,+14.93%,36.3 sq mi,94.0 km2
+199,West Valley City,Utah,136401,129480,+5.35%,35.5 sq mi,91.9 km2
+200,Charleston,South Carolina,136208,120083,+13.43%,109.0 sq mi,282.3 km2
+201,Warren,Michigan,134587,134056,+0.40%,34.4 sq mi,89.1 km2
+202,Hampton,Virginia,134313,137436,−2.27%,51.5 sq mi,133.4 km2
+203,Gainesville,Florida,133857,124354,+7.64%,62.3 sq mi,161.4 km2
+204,Visalia,California,133800,124442,+7.52%,37.5 sq mi,97.1 km2
+205,Coral Springs,Florida,133507,121096,+10.25%,23.8 sq mi,61.6 km2
+206,Columbia,South Carolina,133451,129272,+3.23%,133.5 sq mi,345.8 km2
+207,Cedar Rapids,Iowa,133174,126326,+5.42%,70.8 sq mi,183.4 km2
+208,Sterling Heights,Michigan,132964,129699,+2.52%,36.5 sq mi,94.5 km2
+209,New Haven,Connecticut,130418,129779,+0.49%,18.7 sq mi,48.4 km2
+210,Stamford,Connecticut,129775,122643,+5.82%,37.6 sq mi,97.4 km2
+211,Concord,California,129688,122067,+6.24%,30.5 sq mi,79.0 km2
+212,Kent,Washington,129618,92411,+40.26%,33.7 sq mi,87.3 km2
+213,Santa Clara,California,129488,116468,+11.18%,18.4 sq mi,47.7 km2
+214,Elizabeth,New Jersey,128885,124969,+3.13%,12.3 sq mi,31.9 km2
+215,Round Rock,Texas,128739,99887,+28.88%,35.6 sq mi,92.2 km2
+216,Thousand Oaks,California,127690,126683,+0.79%,55.2 sq mi,143.0 km2
+217,Lafayette,Louisiana,126143,120623,+4.58%,53.8 sq mi,139.3 km2
+218,Athens,Georgia,125964,115452,+9.11%,116.4 sq mi,301.5 km2
+219,Topeka,Kansas,125904,127473,−1.23%,61.5 sq mi,159.3 km2
+220,Simi Valley,California,125851,124237,+1.30%,41.5 sq mi,107.5 km2
+221,Fargo,North Dakota,124844,105549,+18.28%,49.3 sq mi,127.7 km2
+222,Norman,Oklahoma,123471,110925,+11.31%,178.8 sq mi,463.1 km2
+223,Columbia,Missouri,123180,108500,+13.53%,65.0 sq mi,168.3 km2
+224,Abilene,Texas,122999,117063,+5.07%,106.7 sq mi,276.4 km2
+225,Wilmington,North Carolina,122607,106476,+15.15%,51.6 sq mi,133.6 km2
+226,Hartford,Connecticut,122587,124775,−1.75%,17.4 sq mi,45.1 km2
+227,Victorville,California,122312,115903,+5.53%,73.3 sq mi,189.8 km2
+228,Pearland,Texas,122149,91252,+33.86%,46.3 sq mi,119.9 km2
+229,Vallejo,California,121913,115942,+5.15%,30.7 sq mi,79.5 km2
+230,Ann Arbor,Michigan,121890,113934,+6.98%,28.1 sq mi,72.8 km2
+231,Berkeley,California,121643,112580,+8.05%,10.5 sq mi,27.2 km2
+232,Allentown,Pennsylvania,121433,118032,+2.88%,17.5 sq mi,45.3 km2
+233,Richardson,Texas,120981,99223,+21.93%,28.6 sq mi,74.1 km2
+234,Odessa,Texas,120568,99940,+20.64%,45.2 sq mi,117.1 km2
+235,Arvada,Colorado,120492,106433,+13.21%,38.6 sq mi,100.0 km2
+236,Cambridge,Massachusetts,118977,105162,+13.14%,6.4 sq mi,16.6 km2
+237,Sugar Land,Texas,118600,78817,+50.48%,34.0 sq mi,88.1 km2
+238,Beaumont,Texas,118428,118296,+0.11%,82.1 sq mi,212.6 km2
+239,Lansing,Michigan,118427,114297,+3.61%,39.1 sq mi,101.3 km2
+240,Evansville,Indiana,117963,117429,+0.45%,47.3 sq mi,122.5 km2
+241,Rochester,Minnesota,116961,106769,+9.55%,54.6 sq mi,141.4 km2
+242,Independence,Missouri,116925,116830,+0.08%,77.8 sq mi,201.5 km2
+243,Fairfield,California,116884,105321,+10.98%,40.9 sq mi,105.9 km2
+244,Provo,Utah,116702,112488,+3.75%,41.7 sq mi,108.0 km2
+245,Clearwater,Florida,116478,107685,+8.17%,25.9 sq mi,67.1 km2
+246,College Station,Texas,116218,93857,+23.82%,51.0 sq mi,132.1 km2
+247,West Jordan,Utah,116046,103712,+11.89%,32.3 sq mi,83.7 km2
+248,Carlsbad,California,115877,105328,+10.02%,37.7 sq mi,97.6 km2
+249,El Monte,California,115586,113475,+1.86%,9.6 sq mi,24.9 km2
+250,Murrieta,California,114985,103466,+11.13%,33.6 sq mi,87.0 km2
+251,Temecula,California,114742,100097,+14.63%,37.3 sq mi,96.6 km2
+252,Springfield,Illinois,114694,116250,−1.34%,60.1 sq mi,155.7 km2
+253,Palm Bay,Florida,114194,103190,+10.66%,65.7 sq mi,170.2 km2
+254,Costa Mesa,California,113615,109960,+3.32%,15.7 sq mi,40.7 km2
+255,Westminster,Colorado,113479,106114,+6.94%,31.7 sq mi,82.1 km2
+256,North Charleston,South Carolina,113237,97471,+16.18%,73.7 sq mi,190.9 km2
+257,Miami Gardens,Florida,113069,107167,+5.51%,18.2 sq mi,47.1 km2
+258,Manchester,New Hampshire,112525,109565,+2.70%,33.1 sq mi,85.7 km2
+259,High Point,North Carolina,112316,104371,+7.61%,55.2 sq mi,143.0 km2
+260,Downey,California,112269,111772,+0.44%,12.4 sq mi,32.1 km2
+261,Clovis,California,112022,95631,+17.14%,24.2 sq mi,62.7 km2
+262,Pompano Beach,Florida,111954,99845,+12.13%,24.0 sq mi,62.2 km2
+263,Pueblo,Colorado,111750,106595,+4.84%,53.6 sq mi,138.8 km2
+264,Elgin,Illinois,111683,108188,+3.23%,37.4 sq mi,96.9 km2
+265,Lowell,Massachusetts,111670,106519,+4.84%,13.6 sq mi,35.2 km2
+266,Antioch,California,111535,102372,+8.95%,29.4 sq mi,76.1 km2
+267,West Palm Beach,Florida,111398,99919,+11.49%,55.1 sq mi,142.7 km2
+268,Peoria,Illinois,111388,115007,−3.15%,48.2 sq mi,124.8 km2
+269,Everett,Washington,111262,103019,+8.00%,33.3 sq mi,86.2 km2
+270,Ventura,California,111128,106433,+4.41%,21.8 sq mi,56.5 km2
+271,Centennial,Colorado,110831,100377,+10.41%,29.5 sq mi,76.4 km2
+272,Lakeland,Florida,110516,97422,+13.44%,65.9 sq mi,170.7 km2
+273,Gresham,Oregon,110158,105594,+4.32%,23.3 sq mi,60.3 km2
+274,Richmond,California,110146,103701,+6.21%,30.1 sq mi,78.0 km2
+275,Billings,Montana,109550,104170,+5.16%,43.7 sq mi,113.2 km2
+276,Inglewood,California,109419,109673,−0.23%,9.1 sq mi,23.6 km2
+277,Broken Arrow,Oklahoma,109171,98850,+10.44%,61.7 sq mi,159.8 km2
+278,Sandy Springs,Georgia,108797,93853,+15.92%,37.7 sq mi,97.6 km2
+279,Jurupa Valley,California,108393,0,[ab],42.9 sq mi,111.1 km2
+280,Hillsboro,Oregon,108389,91611,+18.31%,25.0 sq mi,64.7 km2
+281,Waterbury,Connecticut,108093,110366,−2.06%,28.5 sq mi,73.8 km2
+282,Santa Maria,California,107408,99553,+7.89%,22.8 sq mi,59.1 km2
+283,Boulder,Colorado,107353,97385,+10.24%,24.8 sq mi,64.2 km2
+284,Greeley,Colorado,107348,92889,+15.57%,47.8 sq mi,123.8 km2
+285,Daly City,California,107008,101123,+5.82%,7.6 sq mi,19.7 km2
+286,Meridian,Idaho,106804,75092,+42.23%,29.8 sq mi,77.2 km2
+287,Lewisville,Texas,106586,95290,+11.85%,36.7 sq mi,95.1 km2
+288,Davie,Florida,106558,91992,+15.83%,34.9 sq mi,90.4 km2
+289,West Covina,California,106311,106098,+0.20%,16.0 sq mi,41.4 km2
+290,League City,Texas,106244,83560,+27.15%,51.2 sq mi,132.6 km2
+291,Tyler,Texas,105729,96900,+9.11%,56.6 sq mi,146.6 km2
+292,Norwalk,California,105120,105549,−0.41%,9.7 sq mi,25.1 km2
+293,San Mateo,California,105025,97207,+8.04%,12.1 sq mi,31.3 km2
+294,Green Bay,Wisconsin,104879,104057,+0.79%,45.4 sq mi,117.6 km2
+295,Wichita Falls,Texas,104576,104553,+0.02%,72.2 sq mi,187.0 km2
+296,Sparks,Nevada,104246,90264,+15.49%,35.9 sq mi,93.0 km2
+297,Lakewood,New Jersey,104157,92843,+12.19%,24.7 sq mi,64.0 km2
+298,Burbank,California,103695,103340,+0.34%,17.4 sq mi,45.1 km2
+299,Rialto,California,103440,99171,+4.30%,22.3 sq mi,57.8 km2
+300,Allen,Texas,103383,84246,+22.72%,27.1 sq mi,70.2 km2
+301,El Cajon,California,103241,99478,+3.78%,14.5 sq mi,37.6 km2
+302,Las Cruces,New Mexico,102926,97618,+5.44%,76.9 sq mi,199.2 km2
+303,Renton,Washington,102153,90927,+12.35%,23.4 sq mi,60.6 km2
+304,Davenport,Iowa,102085,99685,+2.41%,62.9 sq mi,162.9 km2
+305,South Bend,Indiana,101860,101168,+0.68%,41.4 sq mi,107.2 km2
+306,Vista,California,101224,93834,+7.88%,18.7 sq mi,48.4 km2
+307,Tuscaloosa,Alabama,101113,90468,+11.77%,71.7 sq mi,185.7 km2
+308,Clinton,Michigan,100800,96796,+4.14%,28.1 sq mi,72.8 km2
+309,Edison,New Jersey,100693,99967,+0.73%,30.1 sq mi,78.0 km2
+310,Woodbridge,New Jersey,100450,99585,+0.87%,23.3 sq mi,60.3 km2
+311,San Angelo,Texas,100215,93200,+7.53%,59.9 sq mi,155.1 km2
+312,Kenosha,Wisconsin,100164,99218,+0.95%,28.0 sq mi,72.5 km2
+313,Vacaville,California,100154,92428,+8.36%,29.0 sq mi,75.1 km2

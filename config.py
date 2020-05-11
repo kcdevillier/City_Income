@@ -1,0 +1,5 @@
+client_Id = 'TMjva4AD39CziAp2DDM_JQ'
+
+API_Key = 'Ld3LmIb4VLzbj0pslixhiC3fa82cH18hvOal5vMqpcLthMqNhiiJfg_bR7alJO08dOlcWwH3Ce8XVSVRZX6KkeJa3H3MM-p9_tl2C_hHJJs3WwId4OGgl-GpUVW0XnYx'
+
+bea_api = '0BEDA572-87F5-46AB-8614-4949AE2FE5B8'
