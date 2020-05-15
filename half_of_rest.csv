@@ -1,0 +1,2241 @@
+,State,City,name,cat,price,rating,review
+0,montgomery, al,Spa Elia,Massage,$$,5.0,16
+1,montgomery, al,Pearl Massage,Massage Therapy,0,4.5,11
+2,montgomery, al,Sophia European Day Spa & Salon,Nail Salons,$$,5.0,5
+3,montgomery, al,Hands On Healing,Massage,$$,5.0,5
+4,montgomery, al,Natural Healing Acupressure & Massage Therapy,Massage,$$,4.5,16
+5,montgomery, al,Total Freedom Wellness Spa,Massage,$$,5.0,8
+6,montgomery, al,Lake George Massage and Day Spa,Massage Therapy,$,5.0,2
+7,montgomery, al,Indulgence Salon & Spa,Hair Salons,$$,4.0,10
+8,montgomery, al,Amplify Salon and Spa,Hair Salons,$$,4.0,28
+9,montgomery, al,Midtown Massage,Massage,0,5.0,1
+10,montgomery, al,Sunny Massage,Massage Therapy,0,5.0,1
+11,montgomery, al,Vital Beauty Bar,Hair Salons,$$,4.5,9
+12,montgomery, al,Smart Skin Med Spa & Salon,Day Spas,$$,4.0,5
+13,montgomery, al,"Nails, Lash, & Threading",Day Spas,0,5.0,1
+14,montgomery, al,Bella,Skin Care,0,5.0,2
+15,montgomery, al,Gwen's A Southern Spa,Massage,0,5.0,1
+16,montgomery, al,Pink and White Nail Lounge,Nail Salons,$$,4.5,23
+17,montgomery, al,Mind & Body Holistic Spa,Massage,$$,5.0,3
+18,montgomery, al,Debbie Russell Aesthetics,Medical Spas,0,5.0,1
+19,montgomery, al,Hart Spine & Rehab,Physical Therapy,0,5.0,3
+20,montgomery, al,Massage Envy - Eastchase,Massage Therapy,$$,3.0,10
+21,montgomery, al,SmartStyle,Hair Salons,0,5.0,1
+22,montgomery, al,L A Nails,Nail Salons,$$,4.0,18
+23,montgomery, al,Lu's Acupressure,Massage,0,5.0,3
+24,montgomery, al,Lisa Nails,Nail Salons,$$,2.0,9
+25,montgomery, al,Beauty Nails and Spa,Hair Removal,$$,4.0,33
+26,montgomery, al,Wow Salon and Spa,Day Spas,$$,4.0,1
+27,montgomery, al,Shayla Nails & Spa,Nail Salons,$$,3.5,7
+28,montgomery, al,Baynes-A European Day Spa,Day Spas,0,1.0,2
+29,montgomery, al,Gloria Nail,Waxing,$$,4.0,15
+30,montgomery, al,WM William Mason,Hair Salons,$$,1.5,8
+31,montgomery, al,Hughes Pools & Spas,Day Spas,0,1.0,2
+32,montgomery, al,Doug's 2 Salon-Spa,Nail Salons,$$,4.0,14
+33,montgomery, al,Nail Studio,Nail Salons,0,2.5,3
+34,montgomery, al,Taylor Touch Therapy,Reflexology,0,1.0,1
+35,montgomery, al,Fancy Nails & Spa,Nail Salons,$$,4.0,8
+36,montgomery, al,Salon H3,Hair Salons,0,3.5,3
+37,montgomery, al,Nails by Elizabeth,Nail Salons,$$,2.5,10
+38,montgomery, al,Number One Nails,Nail Salons,$$,4.0,6
+39,montgomery, al,Galaxy Nails,Waxing,$$,3.5,7
+0,mobile, al,Elements Massage - Mobile,Massage,$$,4.5,15
+1,mobile, al,Mountain Massage & Day Spa,Day Spas,$$,5.0,11
+2,mobile, al,Spa Blue,Day Spas,$$,5.0,8
+3,mobile, al,Bliss Salon & Day Spa,Hair Salons,$$,4.5,10
+4,mobile, al,Delatorre Day Spa,Day Spas,$$,4.5,7
+5,mobile, al,Nouveau On Dauphin,Skin Care,$$,4.0,16
+6,mobile, al,Massage Wellness,Reflexology,0,4.5,7
+7,mobile, al,Harlow Salon,Makeup Artists,$$$,5.0,3
+8,mobile, al,Spa Tea Da,Party & Event Planning,0,5.0,2
+9,mobile, al,pure life massage and foot care,Massage,0,5.0,5
+10,mobile, al,Recovery Room,IV Hydration,0,5.0,1
+11,mobile, al,Massage Envy - West Mobile,Massage,$$,4.0,8
+12,mobile, al,Therapeutic Arts Massage and Bodywork,Massage,$$,5.0,4
+13,mobile, al,Greater Mobile Laser & Aesthetic Center,Medical Spas,0,5.0,1
+14,mobile, al,Island Day Spa,Day Spas,$$,3.5,13
+15,mobile, al,Spring Nails & Spa,Nail Salons,$$,5.0,8
+16,mobile, al,The Park Clinic,Medical Spas,0,5.0,3
+17,mobile, al,Fountain of Youth,Medical Spas,0,4.0,5
+18,mobile, al,Sunrise Dermatology,Dermatologists,0,4.0,5
+19,mobile, al,Alabama Healing Arts,Massage Therapy,0,5.0,2
+20,mobile, al,Ulta Beauty,Cosmetics & Beauty Supply,$$$,4.0,21
+21,mobile, al,Rada Massage Therapy,Massage Therapy,0,5.0,1
+22,mobile, al,Bay Shore Massage,Massage Therapy,0,5.0,3
+23,mobile, al,City Nails,Nail Salons,0,5.0,1
+24,mobile, al,Majestic Nails & Spa of West Mobile,Nail Salons,$$,4.5,9
+25,mobile, al,Vivian's Nails,Hair Removal,$$,4.5,42
+26,mobile, al,Garden's Day Spa,Day Spas,$$$,1.0,3
+27,mobile, al,Therapeudic Bodyworx,Massage,0,5.0,1
+28,mobile, al,Linda's Nails,Nail Salons,$,4.0,17
+29,mobile, al,Scott Whitney Salon,Hair Salons,0,5.0,7
+30,mobile, al,Nail Fever,Nail Salons,$,3.5,9
+31,mobile, al,Therapeutic Skincare and Massage,Skin Care,0,5.0,2
+32,mobile, al,Genesis Hair Salon,Hair Salons,$$,3.0,11
+33,mobile, al,Healing Center,Massage,$,1.0,3
+34,mobile, al,TMAC's Hair Studio,Hair Salons,$$,4.0,25
+35,mobile, al,Peak Alkalinity,Reflexology,0,5.0,1
+36,mobile, al,Clear Medspa,Day Spas,0,5.0,1
+37,mobile, al,Salon Royale,Hair Salons,$$$,4.0,9
+38,mobile, al,Princess Nails,Nail Salons,$,4.0,7
+39,mobile, al,Rose Haven Massage Therapy,Massage Therapy,0,5.0,3
+40,mobile, al,Top Nails 2,Nail Salons,0,3.5,4
+41,mobile, al,The Sanctuary Salon,Hair Salons,$,3.5,3
+42,mobile, al,Supercuts,Hair Salons,$,4.0,4
+43,mobile, al,Knu Spa,Nail Salons,0,3.0,2
+44,mobile, al,T & M Nail Salon,Nail Salons,$$,4.0,4
+45,mobile, al,VIP Nails and Spa,Nail Salons,$$,2.0,4
+46,mobile, al,Supercuts,Hair Salons,$$,2.0,4
+47,mobile, al,Dynamic Therapeutics,Massage Therapy,0,5.0,1
+48,mobile, al,Salon 505,Hair Salons,$$$$,3.0,2
+49,mobile, al,Sweet Escape Nail Lounge,Nail Salons,$$,2.5,5
+50,mobile, al,Massage Envy - Daphne,Massage,$$,3.5,7
+51,mobile, al,Luxe Nails,Nail Salons,0,3.5,7
+52,mobile, al,SmartStyle,Hair Salons,$,1.0,1
+53,mobile, al,ColoréVous Salon,Hair Salons,0,5.0,6
+54,mobile, al,Tangled Hair Studio,Hair Salons,$$,3.5,3
+55,mobile, al,Golden Nail Spa,Nail Salons,$$,3.0,10
+56,mobile, al,Allure Hair & Makeup Studio,Hair Salons,0,3.0,2
+57,mobile, al,Victorian Nails and Spa,Nail Salons,0,4.0,7
+58,mobile, al,TMAC's Holistic Hair Studio,Hair Salons,0,5.0,1
+59,mobile, al,Zen Garden,Massage Therapy,0,3.5,3
+0,tuscaloosa, al,Spa Belle La Vie,Day Spas,$$,3.5,7
+1,tuscaloosa, al,Nancy Taylor Skin Therapy & Day Spa,Day Spas,$$$,3.5,18
+2,tuscaloosa, al,Chancee's Wellness Spa,Massage Therapy,0,3.5,6
+3,tuscaloosa, al,Hydralive Therapy,IV Hydration,0,4.5,6
+4,tuscaloosa, al,Tuscaloosa MedSpa,Medical Spas,0,5.0,2
+5,tuscaloosa, al,Professional Massage Therapy,Massage Therapy,0,5.0,3
+6,tuscaloosa, al,Gilda's Salon & Day Spa,Day Spas,$$,3.5,17
+7,tuscaloosa, al,Massaged Life & Wellness Academy,Massage Therapy,0,5.0,1
+8,tuscaloosa, al,Nova Vita Massage Therapy Clinic,Reiki,0,5.0,3
+9,tuscaloosa, al,Relax Magic,Massage,0,3.5,3
+10,tuscaloosa, al,Dustin Wright,Massage Therapy,0,5.0,1
+11,tuscaloosa, al,The Recovery Room - Cryo RTR and JW OMT,Massage Therapy,0,5.0,1
+12,tuscaloosa, al,Glam Salon & Blow Dry Bar,Hair Salons,0,4.5,4
+13,tuscaloosa, al,A Grayceful Touch Massage,Massage Therapy,$$,5.0,3
+14,tuscaloosa, al,Bellagio Nails Spa,Nail Salons,$$,3.5,39
+15,tuscaloosa, al,B.A.B.Y. Nail Spa,Nail Salons,$$,3.5,36
+16,tuscaloosa, al,Image Makers,Nail Salons,$$,5.0,6
+17,tuscaloosa, al,Happiness Nails & Spa,Nail Salons,$,3.5,8
+18,tuscaloosa, al,New Creations Salon,Nail Salons,$$,4.5,23
+19,tuscaloosa, al,Salon Serenity,Hair Salons,$$$$,2.5,7
+0,fresno, ca,La Peau Spa,Skin Care,$$,5.0,144
+1,fresno, ca,True REST Float Spa,Float Spa,0,5.0,25
+2,fresno, ca,Estancia Day Spa & Salon,Day Spas,$$,4.5,62
+3,fresno, ca,Amenities Aveda Spa & Salon,Day Spas,$$,4.0,89
+4,fresno, ca,Chaimontree & Flores Spa,Skin Care,0,4.5,18
+5,fresno, ca,Organisch Spa,Day Spas,$$,4.5,9
+6,fresno, ca,Thai Day Spa,Massage,$$,4.5,95
+7,fresno, ca,The Spa & Hungry Hair Salon,Skin Care,$$$,3.5,96
+8,fresno, ca,The Spa,Massage,$$,5.0,2
+9,fresno, ca,Royal Thai Massage,Massage Therapy,0,5.0,1
+10,fresno, ca,Mind Body & Massage Spa,Day Spas,$$,4.5,14
+11,fresno, ca,Green Lily Massage,Massage Therapy,0,5.0,1
+12,fresno, ca,Luxe Salon & Spa,Skin Care,$$$,4.5,20
+13,fresno, ca,Muses Day Spa,Day Spas,$$$,4.5,112
+14,fresno, ca,Sheer Bliss,Skin Care,$$,4.5,95
+15,fresno, ca,Therapeutic Mobile Massage By Jenn Guerra,Massage Therapy,0,5.0,73
+16,fresno, ca,Preen,Hair Salons,$$$,4.0,73
+17,fresno, ca,Suriyo Thai Massge,Massage Therapy,0,5.0,29
+18,fresno, ca,Bloom Healing Arts,Massage,$$,5.0,36
+19,fresno, ca,Spectrum Health Medical Spa,Medical Spas,0,5.0,4
+20,fresno, ca,Meraki Salon and Spa,Hair Salons,0,5.0,2
+21,fresno, ca,The Glam Spa,Day Spas,$$,5.0,5
+22,fresno, ca,Advanced Body and Laser Center,Medical Spas,0,4.0,5
+23,fresno, ca,Young Nails & Spa,Day Spas,$$,4.0,197
+24,fresno, ca,"Spectrum Salon, Day Spa, & Barber Shop",Skin Care,$$,3.5,68
+25,fresno, ca,Original Thai Spa,Day Spas,$$,5.0,1
+26,fresno, ca,"Women's Wellness Therapies with Cynthia Azma, LMP",Massage Therapy,0,5.0,24
+27,fresno, ca,Fresno Spine & Sport Total Body Solutions,Chiropractors,0,5.0,5
+28,fresno, ca,Body Aware Thai Yoga Therapy,Massage Therapy,0,5.0,2
+29,fresno, ca,The Health Station,Massage,$,4.5,17
+30,fresno, ca,Relaxed & Revitalized,Massage Therapy,0,5.0,11
+31,fresno, ca,Jade Massage,Massage,$,3.5,20
+32,fresno, ca,Bobo Massage,Massage,0,4.0,44
+33,fresno, ca,Guo Therapeutic Massage,Massage Therapy,0,5.0,6
+34,fresno, ca,Obsidian Body Wellness,Massage Therapy,0,5.0,6
+35,fresno, ca,Mystique Medical Spa,Medical Spas,$$,4.0,52
+36,fresno, ca,Fringe Salon,Hair Stylists,$$$,4.5,71
+37,fresno, ca,Viu Spa,Medical Spas,$$,4.5,6
+38,fresno, ca,"Elle Hannah Jacinto, CMT",Massage Therapy,0,5.0,4
+39,fresno, ca,Nashira Massage Studio,Trainers,$,5.0,6
+40,fresno, ca,Synergy Fitness Center,Trainers,0,5.0,4
+41,fresno, ca,Paige Mckenzie,Hair Stylists,$$,4.0,3
+42,fresno, ca,Jessica Luna,Massage,0,3.0,1
+43,fresno, ca,Thompson Physical Therapy,Physical Therapy,0,5.0,29
+44,fresno, ca,"Bella Lopez, etc",Massage Therapy,0,5.0,1
+45,fresno, ca,Cali Custom Nail Design,Nail Salons,$$,5.0,12
+46,fresno, ca,Pure Form Healing Arts,Massage Therapy,0,5.0,3
+47,fresno, ca,Coccolati Salon,Hair Salons,0,5.0,8
+48,fresno, ca,Venus Beauty Salon,Hair Salons,$$$,4.5,12
+49,fresno, ca,Te Lux,Nail Salons,0,3.5,5
+50,fresno, ca,Intrinsic,Hair Salons,$$$,5.0,11
+51,fresno, ca,Michael James Salon & Spa,Hair Salons,0,4.5,5
+52,fresno, ca,Avecinia Wellness Center,Medical Spas,$$$,4.5,9
+53,fresno, ca,La Vogue Beauty Shoppe,Nail Salons,$$,5.0,8
+54,fresno, ca,Mid Valley Massage Therapy,Massage Therapy,0,5.0,3
+55,fresno, ca,Athenix Body Sculpting Institute,Cosmetic Surgeons,0,4.5,109
+56,fresno, ca,The Mix Salon,Hair Salons,0,5.0,10
+57,fresno, ca,Rejuvenique Medical Spa,Medical Spas,$$,2.0,44
+58,fresno, ca,Skin Care By Coby,Day Spas,$,5.0,4
+59,fresno, ca,Ceragem Fresno,Massage Therapy,0,5.0,3
+60,fresno, ca,So Relaxing Station,Massage,$$,4.0,65
+61,fresno, ca,Naked Hair,Hair Salons,$$,4.0,28
+62,fresno, ca,The MedSpa at EYE-Q,Medical Spas,$$$,2.5,3
+63,fresno, ca,Polish'd Nail Bar,Nail Salons,$$,4.0,295
+64,fresno, ca,Bliss Nails,Nail Salons,$$,4.5,42
+65,fresno, ca,CHIC HAIR & NAILS,Hair Salons,0,4.0,20
+66,fresno, ca,Hair by Adrina - Moxie Hair Studio,Hair Stylists,$$,4.5,22
+67,fresno, ca,Alonzo's Massage & Muscle Manipulation Therapy,Massage Therapy,0,5.0,7
+68,fresno, ca,iBeauty Nails and Spa,Nail Salons,$$,4.5,30
+69,fresno, ca,La Oceana Salon,Hair Salons,$$,5.0,5
+70,fresno, ca,StylistMis,Makeup Artists,$$,4.5,53
+71,fresno, ca,Juturna Salon & Barber,Hair Salons,0,5.0,1
+72,fresno, ca,"Jason B Bowen, DC",Massage,$$$$,4.0,5
+73,fresno, ca,Razor Sharp,Hair Salons,0,4.0,5
+74,fresno, ca,"Kathleen L Behr, MD",Dermatologists,$$$,3.5,66
+75,fresno, ca,Crystal Cosmo,Eyelash Service,0,4.5,6
+76,fresno, ca,Elle Style Bar,Hair Salons,$$,5.0,73
+77,fresno, ca,Happy Foot Massage,Massage,0,3.5,4
+78,fresno, ca,The Nines Salon,Hair Extensions,$$,4.5,33
+79,fresno, ca,Jennifer Anderson Massage Therapy,Massage,0,5.0,1
+80,fresno, ca,Alliance Health,Physical Therapy,0,5.0,4
+81,fresno, ca,INail Care & Spa,Nail Salons,$$,3.5,40
+82,fresno, ca,Central Valley Chiropractic,Chiropractors,0,4.5,3
+83,fresno, ca,Luxor Nails & Spa,Nail Salons,$$,4.0,105
+84,fresno, ca,Rao Dermatology,Dermatologists,$$,2.5,7
+85,fresno, ca,Multi Therapy Fresno,Massage Therapy,0,5.0,14
+86,fresno, ca,Workplace Massages,Massage,0,5.0,1
+87,fresno, ca,Fascia Fit Bodywork,Massage Therapy,0,5.0,1
+88,fresno, ca,Lucky Star Nails & Spa,Nail Salons,$,3.0,45
+89,fresno, ca,Oriental Massage,Massage,$,3.0,16
+90,fresno, ca,Fresno Family Chiropractic,Chiropractors,0,4.0,10
+91,fresno, ca,Ellipsis Body Care,Massage Therapy,0,5.0,1
+92,fresno, ca,Carmen Laines Cosmetics,Skin Care,$$,5.0,12
+93,fresno, ca,Sylvan Weight Loss and Aesthetics,Health Markets,$$$,4.5,6
+94,fresno, ca,Pretty Nails,Nail Salons,$,3.0,27
+95,fresno, ca,Run With Scissors,Hair Stylists,$,5.0,3
+96,fresno, ca,Hair By Mica Jayde,Hair Stylists,0,4.5,21
+97,fresno, ca,Leslie's Intuitive Bodywork,Massage,0,5.0,1
+98,fresno, ca,Flamingo Hair & Wig Spa,Tanning,$$,4.0,4
+99,fresno, ca,A Daneen Salon,Waxing,0,5.0,1
+100,fresno, ca,Tamy Gibson,Reflexology,0,5.0,1
+101,fresno, ca,Knead Therapeutic Massage Fresno,Massage Therapy,0,5.0,1
+102,fresno, ca,Bollywood Threading Beauty Salon,Threading Services,$$,4.0,18
+103,fresno, ca,Neo Aesthetics,Medical Spas,0,2.5,13
+104,fresno, ca,Drysdale Physical Therapy,Physical Therapy,0,4.5,26
+105,fresno, ca,"Samuel Rush, MD",Internal Medicine,0,4.5,7
+106,fresno, ca,Leslies Nails,Nail Salons,$$,3.0,21
+107,fresno, ca,West Dermatology,Dermatologists,0,2.5,13
+108,fresno, ca,Planet Hair,Hair Salons,$$,4.0,63
+109,fresno, ca,D N Nails & Spa,Nail Salons,$,4.0,142
+110,fresno, ca,Urban Chic Salon,Hair Salons,$$,4.0,18
+111,fresno, ca,Salon Divar,Hair Salons,$$,5.0,3
+112,fresno, ca,QQ Massage,Massage,$,3.0,6
+113,fresno, ca,Esthetic Spa By Cass,Day Spas,$$,5.0,1
+114,fresno, ca,Ulta Beauty,Cosmetics & Beauty Supply,$$,2.0,38
+115,fresno, ca,Hair Club,Cosmetic Surgeons,0,4.0,1
+116,fresno, ca,Seva Beauty,Day Spas,0,2.5,3
+117,fresno, ca,Massage By Jessica,Massage,$$,2.0,8
+118,fresno, ca,Aegean Massage,Massage,0,2.0,4
+119,fresno, ca,Total Skin Care by Dawn,Skin Care,0,5.0,1
+120,fresno, ca,Evolution Hair Salon,Hair Salons,$$,4.0,7
+121,fresno, ca,Lisa V Hair & Makeup Studio,Hair Stylists,0,5.0,1
+122,fresno, ca,The Dandelion,Hair Salons,$$,4.0,88
+123,fresno, ca,Tower Massage,Massage,0,1.0,3
+124,fresno, ca,Tres Jolie Salon,Hair Salons,$$,4.5,15
+125,fresno, ca,Glow Day Spa,Day Spas,0,1.5,2
+126,fresno, ca,California Hair & Nail,Waxing,$,2.5,10
+127,fresno, ca,Shi Nails & Spa,Nail Salons,$$,3.0,129
+128,fresno, ca,The Glamour Gallery,Hair Salons,$$,5.0,3
+129,fresno, ca,Coppermane,Hair Stylists,0,5.0,1
+130,fresno, ca,Azam's Advanced Clinical Skin Care,Skin Care,0,5.0,1
+131,fresno, ca,Dream House Massage,Massage Therapy,0,4.0,1
+132,fresno, ca,Ellements Salon,Skin Care,$$,5.0,6
+133,fresno, ca,Changes Full Service Salon,Hair Salons,0,4.0,13
+134,fresno, ca,Mystic Therapy,Massage,0,3.0,3
+135,fresno, ca,Edwards Massage Therapy,Massage,$$,5.0,4
+136,fresno, ca,Pacific Relaxing Station,Massage,0,2.0,5
+137,fresno, ca,555 Relaxing Station,Massage Therapy,0,3.5,26
+138,fresno, ca,A New Look Nail Salon,Nail Salons,$$$,3.5,17
+139,fresno, ca,V-Tech Nails and Spa,Nail Salons,$$,2.0,118
+140,fresno, ca,Ai Nails,Nail Salons,$$,3.0,41
+141,fresno, ca,Salon Posh,Hair Salons,$$,4.0,15
+142,fresno, ca,Venus Nails & Spa,Nail Salons,$$,3.5,74
+143,fresno, ca,Hair Village Salon,Hair Salons,$$,4.5,7
+144,fresno, ca,Galaxy Nails & Spa,Nail Salons,$$,3.5,28
+145,fresno, ca,E Nails,Nail Salons,$$,3.5,39
+146,fresno, ca,City Nails & Spa,Nail Salons,$$,3.5,69
+147,fresno, ca,La Venus Nail & Spa,Waxing,$$,3.0,65
+148,fresno, ca,Palm Studio's Hair Design,Hair Salons,0,3.5,3
+149,fresno, ca,Knot Away Therapy,Massage Therapy,0,5.0,12
+150,fresno, ca,A Timeless Age,Massage,0,1.0,1
+151,fresno, ca,Norma's Beauty Salon,Hair Salons,0,1.0,1
+152,fresno, ca,iCandy,Nail Salons,$$,4.0,48
+153,fresno, ca,Shear Magic Madera,Hair Salons,$$,3.5,12
+154,fresno, ca,Revolver Hair Studio,Hair Salons,$$,3.0,25
+155,fresno, ca,Hair Central,Hair Salons,$$,4.0,16
+156,fresno, ca,Top Nails,Nail Salons,$$,4.0,39
+157,fresno, ca,Hi lite City Salon,Hair Salons,$,3.0,2
+158,fresno, ca,Le Nails & Spa,Nail Salons,$$,2.5,31
+159,fresno, ca,Dollhouse salon,Hair Stylists,$$,3.5,28
+160,fresno, ca,Studio M Lounge,Hair Salons,$$,4.5,8
+161,fresno, ca,Poly Foot Reflexology,Massage,$,4.0,17
+162,fresno, ca,Christina's Hair Salon,Hair Salons,$$,3.0,21
+163,fresno, ca,Healing Hands,Massage,0,1.0,1
+164,fresno, ca,Lisa's Nail & Spa,Nail Salons,$,2.5,51
+165,fresno, ca,Great Clips,Hair Salons,$,2.5,19
+166,fresno, ca,Princess Nails,Nail Salons,$$$,2.5,14
+167,fresno, ca,Bella Nails & Spa,Nail Salons,$$,2.5,114
+168,fresno, ca,Queen Bee Nails & Spa,Nail Salons,$$,2.0,158
+169,fresno, ca,Teaze Hair Studio,Hair Salons,0,5.0,2
+170,fresno, ca,Manic Panic,Hair Stylists,$$,5.0,4
+171,fresno, ca,555 Relaxing Station,Massage Therapy,0,2.5,84
+172,fresno, ca,First Lady Nails,Nail Salons,$$,4.0,80
+173,fresno, ca,Nail Studio,Nail Salons,$,3.5,38
+174,fresno, ca,Haircuts Plus,Hair Salons,$,3.5,31
+175,fresno, ca,Impression Nails and Spa,Nail Salons,$$,3.0,62
+176,fresno, ca,Clover Thai Spa,Massage,0,1.0,1
+177,fresno, ca,Couture Hair & Co. By Diana,Hair Stylists,0,4.0,14
+178,fresno, ca,Star Nails,Nail Salons,$,2.0,73
+179,fresno, ca,Jade Nails & Spa,Nail Salons,$$,2.5,40
+180,fresno, ca,Amoré Nails,Nail Salons,0,4.5,12
+181,fresno, ca,NATIONAL NAILS,Nail Salons,$$,2.0,34
+182,fresno, ca,Lovely Nails,Nail Salons,$$,3.0,55
+183,fresno, ca,Nails By Mary Jo,Nail Technicians,0,5.0,2
+184,fresno, ca,Massage Envy - Clovis,Massage,$$,3.0,50
+185,fresno, ca,Spa Bleu Fonce,Tanning,$,1.0,5
+186,fresno, ca,Aqua Nails Bar,Nail Salons,$$,3.5,122
+187,fresno, ca,La Nails,Nail Salons,$$,3.0,32
+188,fresno, ca,The Great American Barbershop,Barbers,$$,3.5,121
+189,fresno, ca,Styles and Files Salon,Hair Salons,$$,5.0,5
+190,fresno, ca,Jessi B's Salon & Boutique,Skin Care,$$$,1.0,3
+191,fresno, ca,CA Nails,Nail Salons,$$,3.5,26
+192,fresno, ca,Body Health Massage Clinic,Massage,0,1.0,1
+193,fresno, ca,Clovis Nails & Spa,Nail Salons,$$,2.5,48
+194,fresno, ca,Nails World Selma,Nail Salons,$$,3.0,49
+195,fresno, ca,Supercuts,Hair Salons,$$,1.5,11
+196,fresno, ca,Rose Nail,Nail Salons,$$,2.5,42
+197,fresno, ca,Soho Nails & Spa,Nail Salons,$$,3.0,49
+198,fresno, ca,Coco Nail Spa,Nail Salons,$$,3.0,72
+199,fresno, ca,Supercuts,Hair Salons,$$,4.0,17
+0,san bernardino, ca,Spa of the Pines,Massage Therapy,0,4.5,6
+1,san bernardino, ca,Sunny Day Spa,Day Spas,$,4.0,85
+2,san bernardino, ca,International Day Spa,Day Spas,$$,4.5,108
+3,san bernardino, ca,Kelly's Spa,Day Spas,$$$,4.0,227
+4,san bernardino, ca,Blue Ocean Massage,Massage,0,5.0,1
+5,san bernardino, ca,Del Rosa Massage,Massage,$$,4.0,48
+6,san bernardino, ca,Mountain Massage Therapy,Massage Therapy,0,5.0,13
+7,san bernardino, ca,Bellissima Aveda Spa,Massage,$$,4.5,45
+8,san bernardino, ca,Cloud 9 Medi Spa,Medical Spas,$$,4.5,71
+9,san bernardino, ca,Redlands Cryo Spa,Day Spas,$$,4.5,36
+10,san bernardino, ca,Nonaca Healing,Reiki,0,5.0,13
+11,san bernardino, ca,Metropolitan Oasis Medical Aesthetic Center and Spa,Medical Spas,$$,3.5,18
+12,san bernardino, ca,Blue Jay Day Spa,Day Spas,$$,4.5,16
+13,san bernardino, ca,Laura's Wellness Spa Facial & Body Care,Skin Care,$$,4.5,14
+14,san bernardino, ca,Hospitality Skin Spa & Aesthetics,Day Spas,$$,4.5,39
+15,san bernardino, ca,Trendsetter Salon & Day Spa,Nail Salons,$$,4.5,189
+16,san bernardino, ca,Arbor Vitae Life Spa,Skin Care,$,5.0,36
+17,san bernardino, ca,Elizabeth's Natural Wellness & Beauty,Massage Therapy,0,4.5,10
+18,san bernardino, ca,Ancient Thai Massage,Massage,$$,4.5,144
+19,san bernardino, ca,Massage Green Spa,Massage Therapy,$$,4.0,146
+20,san bernardino, ca,Dorita's Nails,Nail Salons,0,4.5,5
+21,san bernardino, ca,Racha's Authentic Thai Massage,Massage Therapy,0,5.0,4
+22,san bernardino, ca,Body-Pros,Massage Therapy,0,4.5,20
+23,san bernardino, ca,Fire Horse Healing Arts,Massage Therapy,0,5.0,2
+24,san bernardino, ca,Z&C Relax Massage,Massage,0,3.5,6
+25,san bernardino, ca,ULTIMATE SKIN,Skin Care,0,5.0,3
+26,san bernardino, ca,China Foot Massage & Wellness Center,Massage,$,4.0,71
+27,san bernardino, ca,Shangrila Acupuncture & Reflex,Day Spas,$$,4.0,27
+28,san bernardino, ca,Intuitive Rhythms Midwifery & Massage,Massage Therapy,0,5.0,7
+29,san bernardino, ca,Perform Athletic Recovery Center,Physical Therapy,0,5.0,6
+30,san bernardino, ca,Nice Look's & Styles Beauty Salon,Hair Salons,$$,4.0,8
+31,san bernardino, ca,Medical Healing Massage,Massage Therapy,0,5.0,2
+32,san bernardino, ca,Waterman Massage,Massage,$$,2.5,2
+33,san bernardino, ca,Tai Beauty Salon,Hair Salons,$,4.5,21
+34,san bernardino, ca,Dr B’s Beauty,Skin Care,0,5.0,2
+35,san bernardino, ca,Advanced Dermatology & Skin Cancer Specialists - San Bernardino,Dermatologists,0,3.0,2
+36,san bernardino, ca,Sheer Beauty Medical - Redlands,Medical Spas,$$,4.5,91
+37,san bernardino, ca,Rainbow Chiropractic & Reflexology,Chiropractors,0,4.5,82
+38,san bernardino, ca,Sante Beauty Bar,Hair Salons,0,5.0,6
+39,san bernardino, ca,Bella Vie Nails & Spa,Nail Salons,$$,4.0,283
+40,san bernardino, ca,Cornejo Chiropractic,Chiropractors,0,5.0,5
+41,san bernardino, ca,SkincareLove,Skin Care,$$,4.5,34
+42,san bernardino, ca,Soothe,Massage,$$$$,5.0,4
+43,san bernardino, ca,Level 10 Salon and Spa,Hair Salons,$$,4.5,49
+44,san bernardino, ca,Purity Luxe Aesthetics,Skin Care,0,5.0,1
+45,san bernardino, ca,House of Beauty Eyebrow Threading,Hair Salons,$,4.0,115
+46,san bernardino, ca,Definitions Too Massage Therapy,Massage,$$,5.0,16
+47,san bernardino, ca,Cosmoclarehair,Hair Stylists,0,4.5,7
+48,san bernardino, ca,Malibu Healer,Massage,$,5.0,9
+49,san bernardino, ca,Haus of Beauty,Hair Salons,0,4.5,13
+50,san bernardino, ca,Rebel Cuts For Kids,Kids Hair Salons,0,5.0,32
+51,san bernardino, ca,911 Biocare - Redlands,Medical Spas,$$,4.5,12
+52,san bernardino, ca,Edge Wise Barbershop & Braiding Salon,Barbers,$,4.5,40
+53,san bernardino, ca,Ohana Salon & Style Bar,Hair Salons,$$,4.5,90
+54,san bernardino, ca,Bumble Bee Waxing and Spa,Day Spas,$,4.5,10
+55,san bernardino, ca,Reva Bloom Craniosacral Therapy,Massage Therapy,0,5.0,4
+56,san bernardino, ca,Troux Studio,Hair Stylists,0,5.0,12
+57,san bernardino, ca,Pacific Massage,Massage,0,3.5,8
+58,san bernardino, ca,Bark's Acupuncture Clinic,Acupuncture,0,4.5,21
+59,san bernardino, ca,Tropical Touchez,Massage Therapy,0,4.0,4
+60,san bernardino, ca,Encore Massage Spa,Massage,0,4.0,10
+61,san bernardino, ca,Studio MV5,Hair Stylists,$,4.5,7
+62,san bernardino, ca,Salon Sinér,Hair Salons,$$,5.0,4
+63,san bernardino, ca,DSA Nail & Spa,Day Spas,$,4.5,14
+64,san bernardino, ca,Active Life Chiropractic,Chiropractors,$$,4.5,27
+65,san bernardino, ca,From Head To Toe Salon,Massage,$$,4.5,17
+66,san bernardino, ca,A Fresh Start Beauty Salon,Hair Salons,0,4.5,7
+67,san bernardino, ca,Just Your Style,Hair Salons,$,4.0,15
+68,san bernardino, ca,The Tangled Mane,Nail Salons,$$,5.0,4
+69,san bernardino, ca,Onpoint Integrative Muscle Therapy,Massage Therapy,0,5.0,5
+70,san bernardino, ca,Spa Party Divas On The Go,Party & Event Planning,0,5.0,9
+71,san bernardino, ca,Cmc hair studio,Hair Salons,0,4.5,14
+72,san bernardino, ca,Cré Hair Studio,Hair Salons,$$,4.5,36
+73,san bernardino, ca,Mane Retreat,Hair Salons,$$,4.5,23
+74,san bernardino, ca,State Street Salon,Hair Salons,$$,4.5,17
+75,san bernardino, ca,Luo's Therapy Center,Massage,0,5.0,2
+76,san bernardino, ca,HL Harmony Wellness Center,Skin Care,$$,4.5,49
+77,san bernardino, ca,"Ellen Whalen, LMMT",Massage Therapy,0,5.0,1
+78,san bernardino, ca,Elite Nails & Spa,Nail Salons,$$,2.5,53
+79,san bernardino, ca,Jade Beauty Lounge,Hair Salons,$$,5.0,33
+80,san bernardino, ca,BioKorium Skin Care,Day Spas,$$$,3.5,10
+81,san bernardino, ca,Advanced Aesthetics Salon,Makeup Artists,$$,4.5,11
+82,san bernardino, ca,OptimaLife Practices,Life Coach,0,5.0,5
+83,san bernardino, ca,Hair Biz Salon,Hair Salons,$,4.0,4
+84,san bernardino, ca,Salon 413 Hair Studio,Hair Salons,0,4.5,9
+85,san bernardino, ca,White Chiropractic and Wellness,Chiropractors,0,5.0,20
+86,san bernardino, ca,Shear Perfection Salon,Hair Salons,$$,4.0,42
+87,san bernardino, ca,Brite Aesthetics,Skin Care,$$,5.0,31
+88,san bernardino, ca,Frankoss West African Braiding,Cosmetics & Beauty Supply,0,4.5,8
+89,san bernardino, ca,Magic Nails,Nail Salons,$$,4.0,86
+90,san bernardino, ca,Happiness Nail,Nail Salons,$,3.5,33
+91,san bernardino, ca,BND Nails Spa,Nail Salons,$$,4.5,103
+92,san bernardino, ca,Body Tan Salon & Spa,Tanning,$$,4.5,32
+93,san bernardino, ca,Tension Masters,Acupuncture,0,5.0,1
+94,san bernardino, ca,Stylin Nook Hair Studio,Hair Salons,$$,5.0,11
+95,san bernardino, ca,The Massage Negotiator,Massage Therapy,0,5.0,1
+96,san bernardino, ca,Palazzo,Hair Salons,$$,5.0,16
+97,san bernardino, ca,Foxy Hair By Angie,Hair Stylists,$$,5.0,29
+98,san bernardino, ca,Totally Blessed Hair Salon,Hair Salons,0,3.0,4
+99,san bernardino, ca,Curiel Hair Salon,Hair Salons,0,5.0,8
+100,san bernardino, ca,Suite S Salon,Hair Salons,$$,5.0,16
+101,san bernardino, ca,Hair Lounge,Makeup Artists,$$,4.5,43
+102,san bernardino, ca,Massage House Health Spa,Massage,$$,1.0,1
+103,san bernardino, ca,Helen Rodriguez - Surreal Salon and Spa,Blow Dry/Out Services,$$,5.0,2
+104,san bernardino, ca,Lee Oriental Massage Spa,Massage,0,2.0,1
+105,san bernardino, ca,Twisted Sisters Salon,Hair Salons,$$,5.0,11
+106,san bernardino, ca,Glow Beauty Bar,Skin Care,$$,3.5,24
+107,san bernardino, ca,The Braid Gallery,Hair Salons,$$,2.5,15
+108,san bernardino, ca,Hair Couture,Hair Salons,$$,4.5,12
+109,san bernardino, ca,Massage Envy - Redlands,Massage,$$,4.0,132
+110,san bernardino, ca,Hair by Maria Mariscal,Hair Stylists,$$,4.5,8
+111,san bernardino, ca,T&C HealthCare Massage Spa,Massage Therapy,0,3.5,2
+112,san bernardino, ca,Couture Salon,Hair Extensions,$$,3.5,28
+113,san bernardino, ca,L'envie Nails & Spa,Skin Care,$$,4.0,179
+114,san bernardino, ca,Bella Mia Full Service Salon,Hair Salons,$$,4.5,22
+115,san bernardino, ca,Redlands Therapy Center,Massage,0,4.0,1
+116,san bernardino, ca,Forevermore Hair Salon,Hair Salons,$$,4.5,26
+117,san bernardino, ca,Instyle Nail Spa,Nail Salons,$$,4.0,130
+118,san bernardino, ca,Haus of Nails,Nail Salons,0,4.5,44
+119,san bernardino, ca,Lovely Hair & Make-up Studio,Permanent Makeup,0,4.0,5
+120,san bernardino, ca,Ulta Beauty,Cosmetics & Beauty Supply,$$,2.5,161
+121,san bernardino, ca,New Style Beauty Salon,Hair Salons,$,4.0,1
+122,san bernardino, ca,Mane Street Hair Company,Hair Extensions,$$,4.5,45
+123,san bernardino, ca,Mission Inn Hotel & Spa,Hotels,$$$,3.5,1495
+124,san bernardino, ca,Pain Free Chiropractic Clinic,Chiropractors,0,4.0,4
+125,san bernardino, ca,Unique Hair & Nails,Nail Salons,$$,3.5,26
+126,san bernardino, ca,Kims Studio Nails,Nail Salons,$$,4.0,32
+127,san bernardino, ca,Thee Anointed Touch Hair Salon,Hair Salons,$,4.5,7
+128,san bernardino, ca,Genesis Hair Salon,Waxing,$$,4.0,25
+129,san bernardino, ca,Justina Aubrey's,Hair Stylists,$$,5.0,25
+130,san bernardino, ca,Flawless Nails,Nail Salons,$$,3.5,104
+131,san bernardino, ca,Renaissance Nails & Spa,Nail Salons,$$,2.5,89
+132,san bernardino, ca,Jon Michael Salon & Goods,Hair Salons,$$,4.5,76
+133,san bernardino, ca,Metamorphis Color Salon,Hair Salons,0,4.5,9
+134,san bernardino, ca,Sakura Massage,Massage,$$,4.0,4
+135,san bernardino, ca,Paradise Nails & Skin Care,Nail Salons,$$,3.0,40
+136,san bernardino, ca,Relief n Relax Massage,Reflexology,0,3.5,46
+137,san bernardino, ca,VIP Massage,Massage,0,1.0,2
+138,san bernardino, ca,Bliss Salon of Redlands,Hair Salons,$$,4.5,7
+139,san bernardino, ca,One Stop Beauty Spot By Anna,Nail Technicians,$$,4.5,25
+140,san bernardino, ca,Cathy's Nails,Nail Salons,$,3.0,9
+141,san bernardino, ca,Face Body Aesthetics,Skin Care,$$,4.5,31
+142,san bernardino, ca,Le's Nails,Nail Salons,$$,3.5,16
+143,san bernardino, ca,Adore Hair Salon,Hair Salons,$$,3.5,9
+144,san bernardino, ca,Best Nails & Hair,Hair Salons,$,4.0,42
+145,san bernardino, ca,J Randall Salon,Hair Salons,$$,5.0,32
+146,san bernardino, ca,Strandz Salon,Hair Salons,$$,4.5,14
+147,san bernardino, ca,Massage by Apollo,Massage,0,5.0,4
+148,san bernardino, ca,Utopia Nails,Nail Salons,$$,3.5,173
+149,san bernardino, ca,My Organic Nail Spa,Nail Salons,$$,3.5,108
+150,san bernardino, ca,Premier Salon and Barber,Hair Salons,$$,4.5,28
+151,san bernardino, ca,Terracina Surgical Arts,Medical Spas,0,4.0,9
+152,san bernardino, ca,The Wild Hair,Hair Salons,$$,4.0,28
+153,san bernardino, ca,Shenanigans Hair Lounge,Hair Extensions,$$,4.5,500
+154,san bernardino, ca,Lovely Nails,Nail Salons,$,3.5,91
+155,san bernardino, ca,Leah Palhegyi,Hair Salons,$$,4.5,24
+156,san bernardino, ca,The Cut Above,Hair Stylists,$$,4.5,15
+157,san bernardino, ca,Elsewhere Salon,Hair Salons,$$,4.5,42
+158,san bernardino, ca,Bella Visage Salon,Hair Salons,$$,4.0,13
+159,san bernardino, ca,Cheeona's,Hair Salons,$,3.0,13
+160,san bernardino, ca,Rejuvenate Image Restoration,Hair Removal,$$,3.0,15
+161,san bernardino, ca,Kratos Therapy,Massage Therapy,0,5.0,8
+162,san bernardino, ca,Serendipity Skin & Nail Care,Skin Care,$$,4.0,23
+163,san bernardino, ca,Hands On Incorporated,Massage Therapy,0,5.0,1
+164,san bernardino, ca,4H Nails and Spa,Nail Salons,$,4.0,160
+165,san bernardino, ca,L & K Nail Spa,Nail Salons,$$,4.0,49
+166,san bernardino, ca,SmartStyle,Hair Salons,0,3.5,10
+167,san bernardino, ca,Masaage Time Day Spa,Massage Therapy,0,2.5,3
+168,san bernardino, ca,Profession Nail & Spa,Nail Salons,$$,3.5,164
+169,san bernardino, ca,L & L Nail Spa,Nail Salons,$$,3.5,87
+170,san bernardino, ca,Salon Blujayz,Hair Stylists,$$,5.0,19
+171,san bernardino, ca,Rainbow Nails and Spa,Nail Salons,$$,3.5,24
+172,san bernardino, ca,Great Clips,Hair Salons,$,3.0,47
+173,san bernardino, ca,American Nail & Spa,Nail Salons,$$,3.0,34
+174,san bernardino, ca,Tangles Hair Salon,Hair Salons,$$,4.0,27
+175,san bernardino, ca,Lady Nails,Nail Salons,$$,2.0,32
+176,san bernardino, ca,Bello Salon,Hair Salons,$$,4.5,85
+177,san bernardino, ca,Hair Perfect,Hair Salons,$$,3.5,14
+178,san bernardino, ca,American Nails,Nail Salons,$,3.5,59
+179,san bernardino, ca,Nail & Spa,Nail Salons,$$$,1.5,29
+180,san bernardino, ca,Rosy Nails,Nail Salons,$$,3.0,44
+181,san bernardino, ca,GlittHer Studio,Hair Stylists,$$,4.5,16
+182,san bernardino, ca,Margy's Beauty Salon,Hair Salons,$,1.0,1
+183,san bernardino, ca,Healing Center,Massage Therapy,0,1.0,2
+184,san bernardino, ca,The Glam Box Salon,Hair Salons,$$,4.0,79
+185,san bernardino, ca,Top Hair & Nails,Nail Salons,$,2.5,29
+186,san bernardino, ca,Red Persimmon Nails & Spa,Nail Salons,$$,2.5,125
+187,san bernardino, ca,Angel's Nail and Spa,Nail Salons,$$,3.5,64
+188,san bernardino, ca,Ayur Beauty Salon,Hair Salons,$,4.0,40
+189,san bernardino, ca,NV Nails & Spa,Nail Salons,$$,3.0,162
+190,san bernardino, ca,SG  Beauty Centers,Hair Salons,0,2.5,23
+191,san bernardino, ca,Avail Treatment Massage,Massage,0,5.0,1
+192,san bernardino, ca,# 1 Nail And Spa,Nail Salons,$$,3.0,77
+193,san bernardino, ca,Reha Beauty Salon,Hair Salons,$,3.0,41
+194,san bernardino, ca,FuJuTouch,Massage Therapy,0,5.0,1
+195,san bernardino, ca,Mimi's Hair Designs,Hair Salons,$$,3.5,68
+196,san bernardino, ca,Now & Zen,Massage Therapy,$$,4.5,11
+197,san bernardino, ca,Definition Sports Therapy,Massage Therapy,0,4.5,77
+198,san bernardino, ca,Josephine Nail,Nail Salons,$,3.5,110
+199,san bernardino, ca,Revive Healing Therapies,Reflexology,0,5.0,7
+200,san bernardino, ca,RJ Clinical Institute,Skin Care,0,5.0,4
+201,san bernardino, ca,Allure Nails and Spa,Nail Salons,$$,2.5,169
+202,san bernardino, ca,Mon Amie Salon,Waxing,$$,4.5,129
+203,san bernardino, ca,Skys Massage Unlimited,Massage Therapy,0,5.0,1
+204,san bernardino, ca,Lux Nails and Spa,Nail Salons,$$,3.5,24
+205,san bernardino, ca,LT Nail & Spa,Nail Salons,$$,2.0,53
+206,san bernardino, ca,Sun Nails & Spa,Nail Salons,$,3.0,34
+207,san bernardino, ca,Ct Nails & Spa,Nail Salons,$$,3.0,21
+208,san bernardino, ca,Glam Blowout & Beauty Bar,Makeup Artists,$$,5.0,156
+209,san bernardino, ca,Professio Nails & Spa,Nail Salons,$$,1.5,33
+210,san bernardino, ca,Nail Club,Nail Salons,$$,3.0,43
+211,san bernardino, ca,Pro Nails,Nail Salons,$,2.5,27
+212,san bernardino, ca,I V K Beauty Salon,Hair Salons,$$,5.0,62
+213,san bernardino, ca,Kitty Nails,Nail Salons,$,2.5,65
+214,san bernardino, ca,Massage Envy - North Fontana,Skin Care,$$,3.0,86
+215,san bernardino, ca,Natural Nails and Spa,Nail Salons,$$,2.5,123
+216,san bernardino, ca,Hair Aware,Hair Salons,$$,3.0,17
+217,san bernardino, ca,Moon Nails,Nail Salons,$$,3.5,64
+218,san bernardino, ca,Bebe Nails & Spa,Nail Salons,$$,2.0,77
+219,san bernardino, ca,Cali Cuts,Barbers,$$,3.5,58
+0,ventura, ca,Coastal Skin Care,Day Spas,$$,5.0,83
+1,ventura, ca,Twin Palms Health and Beauty,Skin Care,$$,5.0,50
+2,ventura, ca,Plush Med Spa,Medical Spas,$$,4.5,57
+3,ventura, ca,Orange Health Spa,Massage Therapy,$,4.5,54
+4,ventura, ca,Vie the Spa,Day Spas,$$,4.5,39
+5,ventura, ca,Pure Skin Wellness Spa,Skin Care,$$,5.0,11
+6,ventura, ca,The Sauna Studio,Massage,$$,5.0,23
+7,ventura, ca,Ventura Skin Care,Skin Care,$$,5.0,11
+8,ventura, ca,Ventura Float Center,Massage,$$,4.5,20
+9,ventura, ca,Sweet Surrender Day Spa,Day Spas,$$,4.5,12
+10,ventura, ca,Embody Wellness,Massage,$$,5.0,58
+11,ventura, ca,Beauty Lounge Medspa + Wellness,Day Spas,$$,5.0,47
+12,ventura, ca,Embassy Suites Mandalay Beach Resort Spa,Day Spas,$$$$,4.5,7
+13,ventura, ca,Haven,Massage,0,4.5,14
+14,ventura, ca,A Secret Place Salon & Day Spa,Skin Care,$$,4.5,62
+15,ventura, ca,Relax'N Spa Massage,Massage Therapy,0,4.0,55
+16,ventura, ca,Kathrine Heinzman Skin & Body Care Centre,Day Spas,$$,5.0,6
+17,ventura, ca,The Zen Stop,Massage,$$,4.5,13
+18,ventura, ca,Pure Body Works,Massage Therapy,0,5.0,7
+19,ventura, ca,Beyond Aesthetics,Medical Spas,$$,5.0,66
+20,ventura, ca,KINshoppe Salon & Day Spa,Day Spas,$$,4.5,80
+21,ventura, ca,Crush Salon & Dry Bar,Hair Salons,$$,4.5,45
+22,ventura, ca,"Lindsay Shield, LMT",Massage Therapy,0,5.0,5
+23,ventura, ca,KILAI Relaxing massage,Massage,$,4.5,30
+24,ventura, ca,Tai Chi Massage,Massage,$,4.5,9
+25,ventura, ca,Sunrise Massage,Physical Therapy,0,4.0,51
+26,ventura, ca,Somatic Wellness Massage & Body Therapy,Massage Therapy,0,5.0,1
+27,ventura, ca,Bamboo Creek Spa,Massage,$,4.0,30
+28,ventura, ca,Encore Nails & Spa,Nail Salons,$$,4.5,70
+29,ventura, ca,Alejandro Salon,Hair Salons,$$,4.5,122
+30,ventura, ca,Nails By Kim,Nail Salons,$$,4.5,157
+31,ventura, ca,Cibara Salon,Hair Salons,$$,5.0,129
+32,ventura, ca,Sugar Junkie Beauty Lounge,Sugaring,$$,5.0,37
+33,ventura, ca,The Lotus Thai Massage By Nikki,Massage,$$,5.0,15
+34,ventura, ca,Clear Skin Spa,Medical Spas,0,5.0,5
+35,ventura, ca,Celtic Carma Salon,Skin Care,$$,4.5,12
+36,ventura, ca,Cara Mia,Cosmetics & Beauty Supply,$$,4.5,37
+37,ventura, ca,Xpanded Therapies by Alex Waites,Massage Therapy,0,5.0,17
+38,ventura, ca,Ageless Men's Health,Medical Spas,0,5.0,2
+39,ventura, ca,Butterfly Kisses; a holistic approach,Massage,$$,4.5,7
+40,ventura, ca,Honey & Whiskey Salon,Hair Salons,0,4.5,44
+41,ventura, ca,Miracle Massage,Massage Therapy,0,2.5,31
+42,ventura, ca,ArchiTexture,Hair Salons,$$,4.5,34
+43,ventura, ca,Kelly Her Acupuncture,Acupuncture,0,5.0,10
+44,ventura, ca,Ojai Massage,Massage Therapy,0,5.0,49
+45,ventura, ca,Bloom Med Spa 805,Medical Spas,0,5.0,1
+46,ventura, ca,Vibrant Wellness,Massage,0,5.0,1
+47,ventura, ca,Hey Beautiful Blow Dry Lounge,Blow Dry/Out Services,$$,4.0,65
+48,ventura, ca,USA Nails and Spa,Nail Salons,$$,4.0,26
+49,ventura, ca,Luxe Salon and Day Spa,Hair Salons,$$,4.0,39
+50,ventura, ca,Natural Lasting Beauty,Day Spas,$$$,5.0,6
+51,ventura, ca,Hair Free Forever,Hair Removal,$$,4.0,50
+52,ventura, ca,Healing by Hilary,Massage Therapy,0,5.0,2
+53,ventura, ca,Beautiful You Day Spa,Eyelash Service,$$,4.5,13
+54,ventura, ca,Royal Day Spa,Massage,0,5.0,1
+55,ventura, ca,Massage by Patti,Massage,0,5.0,1
+56,ventura, ca,Blazing Scissors,Hair Stylists,$$,5.0,4
+57,ventura, ca,Ventura Birth and Bodyworks,Massage,$$,4.0,11
+58,ventura, ca,Ojai Med Spa,Medical Spas,0,5.0,2
+59,ventura, ca,"Jenna Fleur, LMT",Massage Therapy,0,5.0,7
+60,ventura, ca,Sky Salon & Spa,Hair Salons,$$,4.5,92
+61,ventura, ca,Jai Jot Spirit,Massage Therapy,0,5.0,1
+62,ventura, ca,Nual Thai Massage,Massage Therapy,0,5.0,12
+63,ventura, ca,Gerckens Chiropractic,Chiropractors,0,5.0,40
+64,ventura, ca,Ten Dash One Hair Studio,Hair Salons,$$,5.0,248
+65,ventura, ca,Current Hair Removal,Hair Removal,$$,4.5,11
+66,ventura, ca,A Fresh Face Aesthetics,Medical Spas,$$,5.0,38
+67,ventura, ca,Laser Beautification Center,Tattoo Removal,$$,4.0,11
+68,ventura, ca,Kali Institute for Massage & Somatic Therapies,Massage Therapy,0,4.0,10
+69,ventura, ca,Nathalie Collins,Massage Therapy,0,5.0,1
+70,ventura, ca,JoPaulo,Hair Salons,$$$,4.0,4
+71,ventura, ca,Jack N'Jill's Cuts For Kids,Kids Hair Salons,$$,4.0,59
+72,ventura, ca,Salon DMar,Hair Salons,0,3.5,8
+73,ventura, ca,Maximillian Hair Artistry,Hair Stylists,$$,5.0,14
+74,ventura, ca,Nail Studio,Nail Salons,$$,3.0,43
+75,ventura, ca,Elegant Nails,Nail Salons,$,4.0,45
+76,ventura, ca,Happy Feet Spa Massage,Massage,$,4.5,119
+77,ventura, ca,Massage By Jagoda Jadwiga,Massage,$,5.0,13
+78,ventura, ca,Anju Threading & Facial,Threading Services,0,4.5,20
+79,ventura, ca,"Connie J Teng, LMT",Massage Therapy,0,5.0,6
+80,ventura, ca,Cruz Vincent  Salon,Hair Salons,$$,4.0,15
+81,ventura, ca,Chiropractic Wellness Center - Dave Lemons,Chiropractors,0,4.5,15
+82,ventura, ca,Victoria Oriental Massage,Massage,$$,2.5,3
+83,ventura, ca,9 Secrets Skincare Integral Beauty Center,Day Spas,$$,4.5,9
+84,ventura, ca,Marble Nails and Spa,Nail Salons,$$,3.5,135
+85,ventura, ca,The Hair Parlor,Hair Salons,$$,5.0,7
+86,ventura, ca,Somatic Sanctuary,Acupuncture,0,5.0,1
+87,ventura, ca,SJ Studio Salon and Spa,Hair Salons,$$,4.5,60
+88,ventura, ca,Lucky Nails,Nail Salons,$$,3.5,16
+89,ventura, ca,SEAlon,Hair Salons,$$,5.0,23
+90,ventura, ca,La Casa Massage,Massage,0,5.0,1
+91,ventura, ca,Fantastic Sams Hair Salons,Hair Salons,$$,3.5,41
+92,ventura, ca,Glennray Salon,Skin Care,0,5.0,4
+93,ventura, ca,Active Health Center Mousseli Chiropractic,Chiropractors,0,5.0,15
+94,ventura, ca,Dr. Morrissette Facial Cosmetic Surgeon,Medical Spas,$$$,4.5,29
+95,ventura, ca,Connected Health Ventura,Chiropractors,0,4.0,29
+96,ventura, ca,To The Point Massage,Massage Therapy,0,5.0,13
+97,ventura, ca,Tokyo Spa,Acupuncture,0,4.0,1
+98,ventura, ca,Self Image Salon,Hair Salons,$$,4.5,22
+99,ventura, ca,Renaissance Hair & Nail Design,Hair Salons,$$,5.0,9
+100,ventura, ca,Studio 226,Hair Salons,$$,5.0,10
+101,ventura, ca,Wild Orchid Hair Design,Hair Salons,$$$,4.5,18
+102,ventura, ca,Salon Privado,Hair Salons,$$,4.5,19
+103,ventura, ca,Camarillo Chiropractic Associates,Chiropractors,0,5.0,8
+104,ventura, ca,Melea Salon,Skin Care,$$,4.5,8
+105,ventura, ca,"Susan Slater, MD MPH",Internal Medicine,0,3.0,9
+106,ventura, ca,Alamo Hills Advanced Aesthetics and Laser Center,Medical Spas,$$,4.5,41
+107,ventura, ca,Le's O Nails,Nail Salons,$$,3.0,132
+108,ventura, ca,Wallys Hair Salon,Hair Salons,0,5.0,4
+109,ventura, ca,Sola Salon Studios,Hair Salons,$$,3.5,17
+110,ventura, ca,Posh Hair & Skin Studio,Skin Care,$$,4.5,59
+111,ventura, ca,Salon Panache,Nail Technicians,$$,4.5,22
+112,ventura, ca,Nails D' Elegance,Nail Salons,$$,4.0,70
+113,ventura, ca,Max Relax,Massage,$,4.0,24
+114,ventura, ca,Classic Kids Hairstyling Salon,Kids Hair Salons,$$,4.5,44
+115,ventura, ca,Colour Me Salon & Spa,Hair Salons,$$,4.5,4
+116,ventura, ca,Becky's Hair Design,Hair Salons,$$,4.5,7
+117,ventura, ca,Professionail,Nail Salons,$$,3.0,182
+118,ventura, ca,Century Nails,Nail Salons,$,4.0,59
+119,ventura, ca,Hi-Fashion Nails,Nail Salons,$$,3.5,52
+120,ventura, ca,VIP Massage Camarillo,Massage Therapy,0,4.0,52
+121,ventura, ca,Bellizima Salon,Hair Salons,0,5.0,7
+122,ventura, ca,Kriza Salon,Hair Salons,$$,4.0,50
+123,ventura, ca,Holistic Touch By Charissa,Reiki,0,5.0,9
+124,ventura, ca,Hair Affair,Hair Salons,$$,5.0,3
+125,ventura, ca,Happy Day Massage,Massage Therapy,0,5.0,1
+126,ventura, ca,"Michael Lin, MD",Medical Spas,0,3.5,2
+127,ventura, ca,Orchid Massage,Massage,0,4.0,2
+128,ventura, ca,"Peter Karlsberg, MD, FAAD",Dermatologists,$$$,3.5,37
+129,ventura, ca,Vip Nails and Spa,Massage,$$,4.0,55
+130,ventura, ca,Victoria's Nails,Nail Salons,$$,4.5,144
+131,ventura, ca,Y2 Nail Bar & Beauty Lounge,Nail Salons,$$,4.5,211
+132,ventura, ca,Rebe Belle Salon De Colour,Hair Salons,$$,4.0,39
+133,ventura, ca,Okada Chiropractic Health Care,Sports Medicine,0,4.5,18
+134,ventura, ca,Camarillo Holistic Health and Weight Loss,Chiropractors,0,4.5,11
+135,ventura, ca,Great Clips,Hair Salons,$,3.0,57
+136,ventura, ca,Lavish Hair Salon,Hair Salons,0,4.0,5
+137,ventura, ca,Salon Mia,Massage,0,5.0,1
+138,ventura, ca,Sport Clips Haircuts of Ventura,Men's Hair Salons,$$,3.0,22
+139,ventura, ca,Anderson Chiropractic,Chiropractors,0,4.5,6
+140,ventura, ca,Romantic Nails,Nail Salons,$$,2.5,36
+141,ventura, ca,Romantic Nail Salon,Nail Salons,$$,3.0,30
+142,ventura, ca,Alive! Institute of Therapeutic Massage,Massage Therapy,0,4.0,1
+143,ventura, ca,Nail Works,Nail Salons,$,4.5,142
+144,ventura, ca,Nails Obsession,Nail Salons,$$,4.0,176
+145,ventura, ca,Cabelos Salon,Hair Salons,$$,4.5,52
+146,ventura, ca,Maines Salon,Hair Salons,$$,5.0,29
+147,ventura, ca,Massage Therapy by Donna,Massage,0,3.0,2
+148,ventura, ca,Just Being Healthy,Massage,$$,5.0,6
+149,ventura, ca,Apex Dermatology,Dermatologists,$$,4.5,56
+150,ventura, ca,Professionail,Nail Salons,$$,2.5,8
+151,ventura, ca,EZ Street Hair Studios,Hair Salons,$$,4.0,12
+152,ventura, ca,Massage by Debbie,Massage Therapy,0,5.0,5
+153,ventura, ca,Polish Nailbar,Nail Salons,$$,3.5,361
+154,ventura, ca,Kim Massage,Massage,$$,5.0,17
+155,ventura, ca,Body Relief Sports Therapy,Massage Therapy,0,5.0,1
+156,ventura, ca,Willem Hair Design,Hair Salons,$$,4.5,61
+157,ventura, ca,Nice Nails,Nail Salons,$,3.5,29
+158,ventura, ca,Fantastic Sams Hair Salons,Hair Salons,$$,3.0,29
+159,ventura, ca,Vitaminfusion,IV Hydration,0,5.0,11
+160,ventura, ca,Visible Changes,Hair Salons,$,3.0,9
+161,ventura, ca,Elegant Cuts,Hair Salons,$$,4.0,25
+162,ventura, ca,TJ Nail,Nail Salons,$$,2.5,14
+163,ventura, ca,Princess Nails,Nail Salons,$$,3.0,25
+164,ventura, ca,Roots Studio,Makeup Artists,0,3.0,2
+165,ventura, ca,Op Nails & Spa,Nail Salons,$$,2.5,98
+166,ventura, ca,Fino Hair Skin & Nails,Skin Care,$,4.0,19
+167,ventura, ca,Giselle's Beauty Salon,Hair Salons,$$,2.5,3
+168,ventura, ca,Modern Nail Spa,Nail Salons,$,4.0,126
+169,ventura, ca,Starlite Nails,Nail Salons,$,4.0,11
+170,ventura, ca,La Bella Salon,Blow Dry/Out Services,$$,4.0,34
+171,ventura, ca,Nail Perfection,Nail Salons,$$,3.5,57
+172,ventura, ca,Laser Creations,Laser Hair Removal,$$,4.0,30
+173,ventura, ca,Oriental Spa,Massage,0,1.0,1
+174,ventura, ca,Masa Hair,Barbers,$$,4.5,29
+175,ventura, ca,Massage Envy - Oxnard,Massage,$$,3.0,88
+176,ventura, ca,Supercuts,Hair Salons,$,3.0,29
+177,ventura, ca,Nail's Expo,Nail Salons,$$,3.5,63
+178,ventura, ca,OV Nail Spa,Nail Salons,$$,3.5,70
+179,ventura, ca,Colorful Nails & Hair,Nail Salons,$$,3.0,41
+0,san mateo, ca,Kanna Spa,Massage,$$,4.5,284
+1,san mateo, ca,Water Lounge Spa,Day Spas,$$,3.5,524
+2,san mateo, ca,Spa Muku,Day Spas,$,4.0,58
+3,san mateo, ca,AvantGard Spa,Skin Care,$$$,4.5,243
+4,san mateo, ca,Les Amis - Salon et Spa,Hair Salons,$$,5.0,279
+5,san mateo, ca,Elements Massage - San Mateo,Massage,$$,4.5,143
+6,san mateo, ca,The Estheticians,Massage,$$,4.5,220
+7,san mateo, ca,Y Salon & Spa,Hair Salons,$$,5.0,192
+8,san mateo, ca,Glow Skin & Body,Skin Care,$$,4.5,219
+9,san mateo, ca,Rebeccana Day Spa,Day Spas,$$,5.0,61
+10,san mateo, ca,Ananya Thai Massage Wellness and Spa,Massage Therapy,0,4.0,141
+11,san mateo, ca,Osetra Wellness Massage Therapy Center,Massage Therapy,0,4.5,138
+12,san mateo, ca,Oceanic Foot Spa,Massage,$,4.0,552
+13,san mateo, ca,La Estetica Wellness Spa,Day Spas,$$,5.0,44
+14,san mateo, ca,Shamrock Day Spa,Massage,$$,4.0,68
+15,san mateo, ca,Sanctuary Spa At Bay Club Redwood Shores,Skin Care,$$$,4.5,30
+16,san mateo, ca,NB Beauty,Hair Removal,$$,5.0,152
+17,san mateo, ca,MODA Eco Spa & Wellness,Skin Care,$$,5.0,110
+18,san mateo, ca,Pannawich Advanced Thai Massage,Massage,$$,5.0,137
+19,san mateo, ca,Aroma Spa,Massage,0,5.0,27
+20,san mateo, ca,Yok Thai Massage,Massage,$$,5.0,18
+21,san mateo, ca,PJCC Spa,Day Spas,0,4.5,3
+22,san mateo, ca,Healthy Nails & Spa,Skin Care,$$$,4.5,166
+23,san mateo, ca,K Spa,Nail Salons,$$,4.0,310
+24,san mateo, ca,Massage Envy - San Mateo Bay Meadows,Massage,$$,3.5,131
+25,san mateo, ca,Harmony Massage,Massage Therapy,0,5.0,32
+26,san mateo, ca,Soleil Luna Nail Spa,Nail Salons,$$,4.5,191
+27,san mateo, ca,The French Door,Skin Care,$$,5.0,47
+28,san mateo, ca,QQ Massage Health Center,Acupuncture,0,5.0,1
+29,san mateo, ca,Selenia's Skin Boutique,Day Spas,$$,4.5,14
+30,san mateo, ca,Baysix Skin & Body,Massage,$$,4.5,169
+31,san mateo, ca,ISSARA THAI MASSAGE,Skin Care,$,5.0,1
+32,san mateo, ca,GG777 foot Massage,Massage,$$,4.5,175
+33,san mateo, ca,Organic Tanning,Spray Tanning,$$,4.5,48
+34,san mateo, ca,i Salon,Hair Salons,$$,4.0,25
+35,san mateo, ca,Entrada Medical Group,Skin Care,$$,5.0,60
+36,san mateo, ca,Sukhothai Wellness Center,Massage,$$,4.5,204
+37,san mateo, ca,Elite Health Care,Massage Therapy,0,4.0,29
+38,san mateo, ca,Agile Physical Therapy,Physical Therapy,0,4.5,41
+39,san mateo, ca,L'Escape Spa,Skin Care,$$,4.5,15
+40,san mateo, ca,"Tram Nguyen, MD - BellaGia MD",Medical Spas,$$,5.0,12
+41,san mateo, ca,The Posture Genius,Chiropractors,0,5.0,42
+42,san mateo, ca,Massage To Wellness,Massage,$$,5.0,70
+43,san mateo, ca,Valentino's Salon,Nail Salons,$$,5.0,25
+44,san mateo, ca,The Wonderful Massage,Massage,$$,2.5,6
+45,san mateo, ca,Jen's Thai Massage,Massage Therapy,0,5.0,52
+46,san mateo, ca,The Face & Body Studio,Day Spas,$$,4.0,40
+47,san mateo, ca,Vitality Center San Mateo,Chiropractors,0,5.0,3
+48,san mateo, ca,The Well-Crafted Mom,Life Coach,0,5.0,2
+49,san mateo, ca,MD Laser & Cosmetics,Medical Spas,$$,4.5,31
+50,san mateo, ca,New Life Acupuncture,Acupuncture,0,4.0,11
+51,san mateo, ca,Hair Designs by Kelly Dinger,Wigs,0,4.5,21
+52,san mateo, ca,AvantGard Spa,Nail Salons,$$$,4.0,27
+53,san mateo, ca,A New Holistic Life,Naturopathic/Holistic,0,4.0,5
+54,san mateo, ca,Natural Wellbeing,Massage Therapy,0,5.0,3
+55,san mateo, ca,Lexy's Massage & Skincare Studio,Skin Care,$$,5.0,26
+56,san mateo, ca,Deep Yin Therapeutic Bodywork,Massage Therapy,0,5.0,10
+57,san mateo, ca,Happy Feet Massage,Massage,$$,4.0,77
+58,san mateo, ca,Hue Hair Studio,Hair Salons,0,5.0,15
+59,san mateo, ca,Peninsula Rolfing,Massage Therapy,0,5.0,3
+60,san mateo, ca,Tribuzi For Hair,Hair Salons,$$,5.0,10
+61,san mateo, ca,Release From Within,Massage,$$,5.0,1
+62,san mateo, ca,Lisa Ruan Hair Sylist,Hair Salons,$$,5.0,7
+63,san mateo, ca,Sasi Salon,Hair Salons,$$,5.0,16
+64,san mateo, ca,Venus Salon,Hair Salons,$$,4.5,75
+65,san mateo, ca,Sun Flower Massage,Reflexology,0,3.0,10
+66,san mateo, ca,Perfection Hair Styling,Hair Salons,$,4.5,18
+67,san mateo, ca,"Fabian Gonzales, LMT - Complete Massage Therapy",Massage Therapy,0,5.0,1
+68,san mateo, ca,Om's Mayan Bodywork Magic,Massage Therapy,0,5.0,27
+69,san mateo, ca,ErinTherapy,Massage,$$$$,4.5,4
+70,san mateo, ca,Beauty Deluxe Salon,Hair Salons,$$,4.5,68
+71,san mateo, ca,Salon Sur La Rue,Hair Salons,$$,5.0,151
+72,san mateo, ca,Hair Logic 发艺轩,Hair Salons,0,4.0,17
+73,san mateo, ca,Water Nails,Nail Salons,$$,3.0,91
+74,san mateo, ca,Lavender Health Center,Massage Therapy,$$,3.5,6
+75,san mateo, ca,Sarah's Nail Salon,Nail Salons,$$,4.5,32
+76,san mateo, ca,Skinlastiq Medical Laser Cosmetic Spa,Skin Care,$$,4.5,38
+77,san mateo, ca,Studio J Salon,Hair Salons,$$,4.5,13
+78,san mateo, ca,Hair By Mila,Hair Stylists,$$,4.5,25
+79,san mateo, ca,MassageOnBroadway,Massage Therapy,$$,5.0,50
+80,san mateo, ca,Nail Resort,Nail Salons,$$,4.0,40
+81,san mateo, ca,Lavendermia Skincare Studio,Skin Care,$$,5.0,41
+82,san mateo, ca,Caroline Tolentino,Hair Salons,$$,4.5,21
+83,san mateo, ca,Aki Shiatsu,Massage Therapy,0,5.0,10
+84,san mateo, ca,Janine DeBate Therapeutic Massage,Physical Therapy,0,5.0,1
+85,san mateo, ca,Stillpoint Massage and Bodywork,Massage Therapy,0,5.0,4
+86,san mateo, ca,Pretty Please - Hair by Whitney Mayfield,Hair Stylists,$$,5.0,9
+87,san mateo, ca,Enliven Nail & Spa,Day Spas,$$,4.5,87
+88,san mateo, ca,Connection Hair & Spa,Hair Salons,$,4.5,47
+89,san mateo, ca,J F Foot Bath,Massage,$,4.0,63
+90,san mateo, ca,Helen & Sage Salon,Hair Salons,$$,5.0,17
+91,san mateo, ca,Baytree Wellness Center,Acupuncture,$$,4.5,27
+92,san mateo, ca,Studio One Sola Salon,Hair Salons,$$,5.0,12
+93,san mateo, ca,Fabulous VIP Nails,Nail Salons,$$,4.5,207
+94,san mateo, ca,Accupressure Massage Therapy - Apex Therapy,Massage,$,4.5,5
+95,san mateo, ca,Mola Raxakoul,Makeup Artists,$$,4.5,144
+96,san mateo, ca,Supercuts,Hair Salons,0,4.5,4
+97,san mateo, ca,Socota Skin Care,Skin Care,$$,5.0,6
+98,san mateo, ca,Hyatt's Hair Studio,Hair Salons,$$,4.5,45
+99,san mateo, ca,Paola's Beauty Studio,Hair Salons,$$,5.0,23
+100,san mateo, ca,Blue Chime Wellness,Massage,$$,5.0,1
+101,san mateo, ca,Art + Gold Salon,Hair Salons,0,5.0,24
+102,san mateo, ca,Pinky Nails,Nail Salons,$,3.0,28
+103,san mateo, ca,Hype Salon,Hair Stylists,0,5.0,48
+104,san mateo, ca,CC Hair Studio,Hair Salons,$$,4.5,38
+105,san mateo, ca,M&Co Salon,Hair Salons,$$,5.0,16
+106,san mateo, ca,"Trava Faust, CMT Massage Therapy and Advanced Body Work",Massage Therapy,0,5.0,6
+107,san mateo, ca,Parlour 151,Hair Salons,$$,4.5,104
+108,san mateo, ca,Richard Haxton's Transformational Skin Solutions,Skin Care,$$$,4.5,12
+109,san mateo, ca,A Cut Above Salon,Hair Salons,0,5.0,3
+110,san mateo, ca,Dahliana Nail Spa,Nail Salons,$$,3.5,147
+111,san mateo, ca,Alia's Reiki & Healing Massage,Massage,0,5.0,3
+112,san mateo, ca,Headlines Salon,Hair Salons,$$,4.5,99
+113,san mateo, ca,Everybody Deserves a Massage,Massage,0,5.0,5
+114,san mateo, ca,Miss Bess Coiffures,Nail Salons,$,3.0,53
+115,san mateo, ca,Jiang's Wellness Center,Massage,0,3.0,2
+116,san mateo, ca,A S K Artistic Destination,Hair Salons,$$,4.5,35
+117,san mateo, ca,Beautique Beauty Bar,Cosmetics & Beauty Supply,$$,4.5,61
+118,san mateo, ca,5 Stars Nail Spa,Nail Salons,$$,5.0,30
+119,san mateo, ca,Beauty Wand Body & Foot Massage,Day Spas,$$,4.5,38
+120,san mateo, ca,Just Vanity Salon,Hair Stylists,$$,4.5,18
+121,san mateo, ca,"Michael C Glafkides, MD",Cosmetic Surgeons,$$,4.5,14
+122,san mateo, ca,Shani's House of Holistics,Massage,$$,4.0,1
+123,san mateo, ca,"Emi Terada, LMT - Waterbrook Wellness Therapy",Massage Therapy,0,5.0,1
+124,san mateo, ca,Emil Besson Hair Stylist-Colorist,Hair Salons,0,5.0,4
+125,san mateo, ca,Perfectly Cut Beauty Salon,Hair Salons,$,4.0,51
+126,san mateo, ca,Renovo Integrative Massage & Renewal,Massage Therapy,0,5.0,15
+127,san mateo, ca,Jenn’s Hair Repair and Tune Up,Hair Stylists,$$,5.0,10
+128,san mateo, ca,Courtney Woodrow,Reiki,$$,5.0,9
+129,san mateo, ca,Pandora Foot Spa,Massage,$,3.5,142
+130,san mateo, ca,Artistry Beauty Nail Salon,Nail Salons,$$,4.5,188
+131,san mateo, ca,Creative Nail Spa,Waxing,$,4.5,271
+132,san mateo, ca,Haven Salon,Hair Salons,0,5.0,12
+133,san mateo, ca,Style By Ruwaida,Hair Stylists,$$,5.0,5
+134,san mateo, ca,Touch Of Beauty,Waxing,$$,4.5,69
+135,san mateo, ca,Tiffani Viviani,Hair Stylists,$$,5.0,7
+136,san mateo, ca,MK Nail Salon,Nail Salons,$$,3.5,50
+137,san mateo, ca,Llumier Wellness,Skin Care,0,5.0,2
+138,san mateo, ca,Bally Massage,Massage,$$,2.0,4
+139,san mateo, ca,Backspace Mobile Massage,Massage,$$,5.0,93
+140,san mateo, ca,Prism Hair Studio,Hair Stylists,$$,5.0,19
+141,san mateo, ca,Livin'Touch Massage,Massage Therapy,0,5.0,1
+142,san mateo, ca,Murphy Style Salon,Day Spas,$$,1.0,1
+143,san mateo, ca,Retreat Salon & Nail Spa,Hair Stylists,$$,4.5,591
+144,san mateo, ca,Bella Rose Hair Salon,Hair Salons,$$,5.0,34
+145,san mateo, ca,Julie Karafa,Hair Stylists,0,5.0,2
+146,san mateo, ca,My Little Nail Shop,Nail Salons,$$,5.0,54
+147,san mateo, ca,EM Beauty Nail Spa,Nail Salons,$$,4.5,171
+148,san mateo, ca,Princess Nails,Nail Salons,$,3.0,76
+149,san mateo, ca,Salon Revel,Hair Salons,$$,5.0,217
+150,san mateo, ca,Beauty Queen Salon & Beauty Supply,Cosmetics & Beauty Supply,$$,4.5,18
+151,san mateo, ca,Six One Acupuncture,Acupuncture,0,5.0,1
+152,san mateo, ca,Salon Le Rouge,Hair Salons,$$$,4.5,137
+153,san mateo, ca,Upright Health,Physical Therapy,0,5.0,49
+154,san mateo, ca,Tonic Salon,Hair Salons,$$,4.5,41
+155,san mateo, ca,Salon Realta,Hair Salons,$$,4.5,14
+156,san mateo, ca,Sheila's Flair For Hair,Massage,0,5.0,1
+157,san mateo, ca,Redwood Shores Chiropractic,Chiropractors,0,5.0,23
+158,san mateo, ca,BRIA,Hair Salons,$$,5.0,64
+159,san mateo, ca,"Simon Yu, DC",Chiropractors,0,5.0,66
+160,san mateo, ca,The Silk Nail Salon,Nail Salons,$,4.0,14
+161,san mateo, ca,Maite Nails & Skin Spa,Nail Salons,$$,4.0,459
+162,san mateo, ca,Hair Hunters,Hair Salons,$$,4.0,6
+163,san mateo, ca,Precise Moves Chiropractic,Chiropractors,0,5.0,45
+164,san mateo, ca,Beauty Hair & Nails,Cosmetics & Beauty Supply,$,3.5,41
+165,san mateo, ca,Shear Magic,Hair Salons,$$,4.5,25
+166,san mateo, ca,Spa Day,Hair Salons,$$,4.0,33
+167,san mateo, ca,Reta's Luminous Massage & Healing,Massage Therapy,0,5.0,8
+168,san mateo, ca,Starlight Beauty & Nail,Nail Salons,$$,3.5,208
+169,san mateo, ca,Grove Studio,Hair Salons,$$,5.0,34
+170,san mateo, ca,Luxe,Hair Salons,$$$,4.5,12
+171,san mateo, ca,Synergy Massage and Wellness - Onsite Chair Massage Events,Massage,$$,5.0,84
+172,san mateo, ca,Essentials BodyMind Clinic,Massage,$$,5.0,24
+173,san mateo, ca,Bond Hair Bar,Hair Stylists,$$,4.5,103
+174,san mateo, ca,Cropped Hair Salon,Hair Salons,0,5.0,11
+175,san mateo, ca,Fringe Salon,Hair Salons,$$$,4.5,160
+176,san mateo, ca,The Spot,Eyelash Service,$$,4.5,78
+177,san mateo, ca,Queen Body & Foot Massage,Massage,$,3.5,15
+178,san mateo, ca,Tamika Nails & Spa,Nail Salons,$$,4.0,139
+179,san mateo, ca,Healing Hands Mobile Massage,Massage Therapy,0,5.0,2
+180,san mateo, ca,Altos Mobile Massage,Yoga,$$,5.0,2
+181,san mateo, ca,Christina Cheung,Hair Stylists,$$,5.0,56
+182,san mateo, ca,Renda Za'arour Salon,Hair Salons,$$$,5.0,64
+183,san mateo, ca,Ceci Hair Salon,Hair Salons,$,4.0,12
+184,san mateo, ca,Chic Beauty Salon,Hair Salons,0,5.0,15
+185,san mateo, ca,Avenue Styles Salon,Hair Salons,$$,4.5,11
+186,san mateo, ca,"Liz Graham, MA CMT",Massage Therapy,0,5.0,2
+187,san mateo, ca,Elite Nails,Nail Salons,$$,3.0,55
+188,san mateo, ca,Life Acupuncture,Acupuncture,0,4.5,33
+189,san mateo, ca,Barbara Ellen Gilkeson,Massage,$$,5.0,2
+190,san mateo, ca,Anthony Massage Therapist,Massage Therapy,0,5.0,1
+191,san mateo, ca,Tranquil Massage,Massage Therapy,0,2.0,3
+192,san mateo, ca,"Body Kneads by Danica Naluz, CMT",Massage Therapy,0,5.0,2
+193,san mateo, ca,Blackrose Grandeur Salon,Hair Salons,$$,4.0,31
+194,san mateo, ca,Cozy Nails Spa,Nail Salons,$,4.0,26
+195,san mateo, ca,Alpha Nails,Nail Salons,$$,4.5,171
+196,san mateo, ca,Ancient Wisdom Healing Services,Reiki,0,5.0,1
+197,san mateo, ca,Tutto Capelli Salon,Hair Stylists,$$$,5.0,31
+198,san mateo, ca,John's Creation,Nail Salons,$$,4.0,133
+199,san mateo, ca,Wedding Hair Couture by Alissa,Makeup Artists,$$,5.0,27
+200,san mateo, ca,Nails By Khoi & Nancy,Nail Salons,$$,5.0,7
+201,san mateo, ca,Mia Bella Boutique Salon,Cosmetics & Beauty Supply,$$,4.5,47
+202,san mateo, ca,Mondi Hair Salon,Hair Salons,$$,4.5,164
+203,san mateo, ca,Ziba Salon,Hair Salons,$$,5.0,49
+204,san mateo, ca,Great Clips,Hair Salons,$,3.5,127
+205,san mateo, ca,Acupressure Health Center,Massage,$$,3.5,10
+206,san mateo, ca,Kathy Nails,Nail Salons,$$,4.5,11
+207,san mateo, ca,Green Leaf Massage,Massage,0,1.0,2
+208,san mateo, ca,Four Seasons Nails Salon,Nail Salons,$$,4.0,297
+209,san mateo, ca,Spruce Salon,Hair Salons,$$,4.5,160
+210,san mateo, ca,XpresSpa,Day Spas,$$$,2.5,48
+211,san mateo, ca,Nails By Tammy,Nail Salons,$$,4.0,15
+212,san mateo, ca,Oriental Foot Massage Bar,Reflexology,0,3.5,78
+213,san mateo, ca,"Vincent Zhou, LAC",Acupuncture,0,4.0,4
+214,san mateo, ca,Happy Salon,Hair Salons,$,4.5,94
+215,san mateo, ca,Amor Salon,Makeup Artists,$$,5.0,7
+216,san mateo, ca,Salon 1322,Hair Stylists,$$,4.5,235
+217,san mateo, ca,Creative Image Hair Salon,Hair Salons,$$,4.5,58
+218,san mateo, ca,Hair Illusions,Hair Stylists,$$,5.0,74
+219,san mateo, ca,UK Hair,Hair Salons,$$,4.0,202
+220,san mateo, ca,L2 Beauty Salon,Hair Salons,$$,3.5,35
+221,san mateo, ca,Van Lu,Hair Stylists,$$,5.0,8
+222,san mateo, ca,Level 10 Studio,Hair Salons,$$,4.5,38
+223,san mateo, ca,Beauty Century,Nail Salons,$$,4.5,10
+224,san mateo, ca,Lightner Chiropractic,Physical Therapy,0,5.0,7
+225,san mateo, ca,Universal Nails,Nail Salons,$$,2.5,13
+226,san mateo, ca,Hong Kong Hollywood,Massage,$$,3.5,52
+227,san mateo, ca,Eastern Health Center,Massage Therapy,0,5.0,4
+228,san mateo, ca,Salon Vivo,Hair Salons,$$,4.5,88
+229,san mateo, ca,Today's Haircuts,Hair Salons,$,3.0,55
+230,san mateo, ca,Hair Friends Salon,Hair Salons,$$,5.0,27
+231,san mateo, ca,Lux Hair Salon,Hair Salons,$$,4.0,80
+232,san mateo, ca,Chiquis Hair Design,Hair Salons,$$,5.0,53
+233,san mateo, ca,"Efigenia Dominguez, DC",Chiropractors,0,1.0,1
+234,san mateo, ca,Nice Nails,Nail Salons,$$,4.0,139
+235,san mateo, ca,Blooming Beauty by Daysi,Makeup Artists,$$,4.5,12
+236,san mateo, ca,Broadway Beauty Salon,Nail Salons,$$,3.0,37
+237,san mateo, ca,Le Reve Salon,Hair Salons,$$,4.5,186
+238,san mateo, ca,Carma Hair,Hair Salons,$$,5.0,29
+239,san mateo, ca,Special F/X Salon,Hair Salons,$$,4.5,74
+240,san mateo, ca,Burlingame Nail Care,Nail Salons,$,4.0,141
+241,san mateo, ca,Diva Nail Salon,Nail Salons,$$,3.5,106
+242,san mateo, ca,Diana Wilcenski,Hair Stylists,$$$,5.0,12
+243,san mateo, ca,Cosmo Nail and Beauty Spa,Massage,$$,3.5,31
+244,san mateo, ca,Elegant Beauty Hair Salon,Hair Salons,0,5.0,15
+245,san mateo, ca,Avenus Nails,Nail Salons,$,3.0,53
+246,san mateo, ca,Eclipz Hair Designs,Hair Salons,$$,5.0,6
+247,san mateo, ca,My Sassy Nails,Nail Salons,$$,4.0,22
+248,san mateo, ca,Shiny Nails,Nail Salons,$$,4.0,201
+249,san mateo, ca,Great Clips,Hair Salons,$,2.0,67
+250,san mateo, ca,Alin Massage Therapy,Massage,0,4.0,1
+251,san mateo, ca,Fabulous Hair & Nail,Nail Salons,$,4.0,37
+252,san mateo, ca,Christina Hair Artistry,Hair Stylists,$$,5.0,33
+253,san mateo, ca,Terrificuts,Hair Salons,$,4.5,43
+254,san mateo, ca,Red Velvet Hairtique,Hair Salons,$$,4.5,12
+255,san mateo, ca,Beauty By Mona,Hair Stylists,$$,4.5,45
+256,san mateo, ca,Galin Truong Hair and Lash Studio,Hair Stylists,$$,4.5,32
+257,san mateo, ca,Foster Nail And Hair,Hair Salons,$$,2.5,90
+258,san mateo, ca,Abigail Kastner,Reiki,0,5.0,4
+259,san mateo, ca,Hair Definition,Hair Salons,$$,5.0,20
+0,pueblo, co,Orange Skye,Day Spas,$$,4.0,4
+1,pueblo, co,Intuitive Science Holistic Massage Center,Massage Therapy,0,5.0,3
+2,pueblo, co,Alter Image Salon,Hair Salons,$$,5.0,11
+3,pueblo, co,Full Body Wellness,Acupuncture,0,5.0,1
+4,pueblo, co,Tracy's Place,Hair Salons,$,5.0,3
+5,pueblo, co,Root Republic Salon & Microspa,Hair Salons,0,4.5,12
+6,pueblo, co,Renew Medical Spa,Medical Spas,0,5.0,1
+7,pueblo, co,The Salon Company,Hair Salons,0,4.5,4
+8,pueblo, co,Headlines West,Hair Salons,0,5.0,4
+9,pueblo, co,Studio127 Salon & DaySpa,Nail Salons,0,3.5,3
+10,pueblo, co,Euphoria Salon,Cosmetics & Beauty Supply,0,3.5,3
+11,pueblo, co,Green Spa,Massage,$$$$,1.0,1
+12,pueblo, co,Bliss Nails,Nail Salons,0,5.0,4
+13,pueblo, co,Pure Harmony,Skin Care,0,5.0,1
+14,pueblo, co,Chinese Massage,Massage Therapy,0,1.5,3
+15,pueblo, co,On The Edge Barber & Styling,Hair Salons,0,5.0,1
+16,pueblo, co,Headlines,Permanent Makeup,$$,4.0,12
+17,pueblo, co,Colorado Massage,Massage Therapy,0,2.5,3
+18,pueblo, co,Stylz On The Riverwalk,Hair Salons,$$,3.5,8
+19,pueblo, co,Supercuts,Hair Salons,0,2.0,2
+0,new haven, ct,Elm City Wellness,Skin Care,$$,5.0,111
+1,new haven, ct,Inner Essence Spa & Wellness,Day Spas,$$,5.0,32
+2,new haven, ct,The Serene Spot,Massage,0,5.0,12
+3,new haven, ct,Rain Wellness Spa,Day Spas,$$,4.5,26
+4,new haven, ct,Whitney Massage Therapy,Massage Therapy,0,4.0,8
+5,new haven, ct,The Well For Women,Yoga,0,5.0,7
+6,new haven, ct,Soma Therapies,Massage Therapy,0,4.5,7
+7,new haven, ct,Surrender to the Float,Massage Therapy,0,4.5,8
+8,new haven, ct,Massage Savvy,Massage,$$,4.5,20
+9,new haven, ct,Westville Massage-Wellness for Every Body,Massage Therapy,0,5.0,7
+10,new haven, ct,Massage Green Spa,Skin Care,0,4.0,34
+11,new haven, ct,Peony Spa,Massage,$,5.0,1
+12,new haven, ct,Amadeus Natural Health Services,Hypnosis/Hypnotherapy,0,5.0,8
+13,new haven, ct,Esana Plastic Surgery Center & Medspa,Cosmetic Surgeons,$$$,4.5,23
+14,new haven, ct,"Sanjay Aggarwal, MD",Internal Medicine,0,5.0,1
+15,new haven, ct,New Haven Rolfing,Massage Therapy,0,5.0,1
+16,new haven, ct,Soho Hair Group & Day Spa,Day Spas,$$$,3.5,71
+17,new haven, ct,Simply Flawless by Sami,Makeup Artists,$$,4.5,30
+18,new haven, ct,Le Petite Salon & Spa,Hair Salons,$$,4.5,8
+19,new haven, ct,Revive Wellness Center,Naturopathic/Holistic,0,5.0,7
+20,new haven, ct,"Bonnie Price, LMT",Massage Therapy,0,5.0,1
+21,new haven, ct,Anti-Aging Centers of Connecticut,Skin Care,$$,4.0,30
+22,new haven, ct,Park Jun & Jk Hair Art,Hair Salons,$$,3.0,12
+23,new haven, ct,Ceci's Nails & Spa,Nail Salons,0,5.0,6
+24,new haven, ct,Tida Nails & Spa,Nail Salons,0,5.0,5
+25,new haven, ct,Capture Salon,Hair Salons,$$,4.0,56
+26,new haven, ct,Salon Lulu,Hair Salons,$$,4.0,45
+27,new haven, ct,Western & Eastern Massage Therapy,Massage,$$,4.0,6
+28,new haven, ct,Andrew Stefanou Salon & Spa,Hair Salons,$$,4.5,13
+29,new haven, ct,M Beauty Studio,Nail Salons,0,4.5,33
+30,new haven, ct,Spaworld,Day Spas,$$,2.5,18
+31,new haven, ct,Natura Nails & Spa,Hair Salons,$$,4.0,74
+32,new haven, ct,Balanced Therapy,Massage Therapy,0,5.0,3
+33,new haven, ct,YD Spa,Day Spas,$$,2.5,17
+34,new haven, ct,Details Hair Salon,Hair Salons,$$$,4.0,6
+35,new haven, ct,Great Clips,Hair Salons,$,4.0,6
+36,new haven, ct,Luxurious Massage Spa,Day Spas,0,4.0,1
+37,new haven, ct,Jo Bruno Hair Salon,Hair Salons,$$,4.0,68
+38,new haven, ct,Clover Nails & Spa,Day Spas,$$,3.5,53
+39,new haven, ct,Ty's Nail Candy,Nail Salons,$$,4.5,24
+40,new haven, ct,Orthopedic Massage & Rehabilitation Group,Rehabilitation Center,0,5.0,1
+41,new haven, ct,He Says She Says Hair Studio,Hair Salons,$,5.0,8
+42,new haven, ct,B.PAMpered Therapeutic Massage,Massage Therapy,0,5.0,1
+43,new haven, ct,Hamden Spa Palace,Massage Therapy,$$$,4.0,9
+44,new haven, ct,Hideaway Day Spa,Day Spas,0,3.0,2
+45,new haven, ct,Georgina's Hair Studio,Hair Salons,0,5.0,5
+46,new haven, ct,Renew-Therapeutic Massage & Bodywork llc,Massage Therapy,0,5.0,1
+47,new haven, ct,Fancy Nail Salon,Nail Salons,$$,5.0,8
+48,new haven, ct,Hair's Talent,Hair Salons,$$$,4.0,7
+49,new haven, ct,Salon Glitter,Hair Salons,0,4.0,2
+50,new haven, ct,Ideal Image North Haven,Laser Hair Removal,$$$$,3.0,12
+51,new haven, ct,Studio Elle,Massage,0,3.5,6
+52,new haven, ct,Pretty By Richlin,Hair Stylists,$$,4.0,3
+53,new haven, ct,Phil's Hairstyles on Whitney,Barbers,$$,3.5,33
+54,new haven, ct,Julie's Nail Studio,Nail Salons,$$,4.0,47
+55,new haven, ct,Spa at Home,Massage Therapy,0,5.0,5
+56,new haven, ct,Angel Hair Salon,Hair Salons,0,5.0,6
+57,new haven, ct,Marisa's Hair Salon,Hair Salons,$$,5.0,6
+58,new haven, ct,Spa Suite 4,Reiki,0,5.0,3
+59,new haven, ct,Classic Nails,Nail Salons,$$,3.5,7
+60,new haven, ct,Massage Envy - Hamden,Skin Care,$$,4.0,15
+61,new haven, ct,Alba's Beauty Salon,Hair Salons,0,1.5,2
+62,new haven, ct,Linhs Nails,Nail Salons,$$,3.5,22
+63,new haven, ct,Tiara Spa & Nails,Nail Salons,$,3.0,14
+64,new haven, ct,Hair Cuttery,Hair Salons,$,3.5,12
+65,new haven, ct,Color Nails,Nail Salons,$$,3.5,8
+66,new haven, ct,Pink Nails,Nail Salons,$$,3.0,51
+67,new haven, ct,Eva Nails & Spa,Nail Salons,0,3.5,8
+68,new haven, ct,Salon 1768,Hair Salons,$$,5.0,3
+69,new haven, ct,Marinello Schools of Beauty Salon,Hair Salons,0,4.0,3
+70,new haven, ct,Rapunzel,Hair Salons,0,5.0,4
+71,new haven, ct,"Balance for Life: Mind, Body & Soul Healing",Reiki,$$$,3.5,3
+72,new haven, ct,Haven Hair Braiding,Hair Salons,$$,2.5,3
+73,new haven, ct,Bella Nails and Spa,Nail Salons,$$,3.5,38
+74,new haven, ct,LV Nails,Nail Salons,$$,3.0,12
+75,new haven, ct,Step Up Inn,Counseling & Mental Health,0,1.0,1
+76,new haven, ct,Vi Nail Art Design,Nail Salons,$$,3.5,15
+77,new haven, ct,Pretty Nail And Spa,Nail Salons,$$,2.5,23
+78,new haven, ct,Creative Hair,Tanning,$,3.5,10
+79,new haven, ct,Lady Nails & Spa,Nail Salons,$$,3.5,32
+0,hartford, ct,A Touch Of Bliss Organic Spa,Massage,$$,4.5,64
+1,hartford, ct,Seoul Spa & Sauna,Day Spas,$$,4.0,54
+2,hartford, ct,Elite Massage,Massage,0,5.0,7
+3,hartford, ct,Prossage Wellness,Massage,$$,4.5,24
+4,hartford, ct,VASU,Skin Care,$$,5.0,45
+5,hartford, ct,Body + Sole Spa Therapies,Waxing,$$,4.5,41
+6,hartford, ct,BareSkin,Laser Hair Removal,$$,5.0,11
+7,hartford, ct,Delamar West Hartford,Day Spas,$$$,4.5,28
+8,hartford, ct,XES Beauty Lounge,Day Spas,$$,4.5,51
+9,hartford, ct,The Hot Stone Spa,Day Spas,0,5.0,1
+10,hartford, ct,Face It Medical Aesthetics and Spa,Medical Spas,$$$,4.5,35
+11,hartford, ct,Oggi Salons and Spa,Hair Salons,0,4.5,8
+12,hartford, ct,Del Soul Spa,Day Spas,$$,5.0,60
+13,hartford, ct,C'est La Vie Day Spa,Waxing,$$,5.0,5
+14,hartford, ct,Omni Massage of Connecticut,Massage Therapy,0,5.0,21
+15,hartford, ct,Your Green Spa,Skin Care,0,4.5,25
+16,hartford, ct,Health&Beauty Spa,Skin Care,0,3.5,15
+17,hartford, ct,Healing Hands Massage,Massage,$$,4.0,10
+18,hartford, ct,In Touch Massage,Massage,0,5.0,6
+19,hartford, ct,Royal Spa,Day Spas,0,4.0,4
+20,hartford, ct,Anthony Nicole Salon & Spa,Hair Salons,$$,4.0,17
+21,hartford, ct,Studio 549,Hair Salons,$$,4.0,9
+22,hartford, ct,Balance Massage & Wellness Center,Massage Therapy,0,5.0,5
+23,hartford, ct,Z Luxury Nails,Nail Salons,$$,5.0,57
+24,hartford, ct,Off Center Skin Care,Skin Care,$$,4.5,15
+25,hartford, ct,Spa Pointe,Skin Care,$$,5.0,46
+26,hartford, ct,Baswa Hair Cultivating Studio,Hair Salons,$$,5.0,7
+27,hartford, ct,Alchemy of Touch,Massage Therapy,0,5.0,1
+28,hartford, ct,Shadow & Trees Massage Therapy,Massage Therapy,0,5.0,3
+29,hartford, ct,208 Foot Spa,Massage,0,4.0,4
+30,hartford, ct,Body Being Massage with Roxanna,Massage Therapy,0,5.0,1
+31,hartford, ct,Dominican Hair Salon,Hair Stylists,$$,4.0,5
+32,hartford, ct,Jackie's Beauty Bar,Hair Salons,0,4.0,12
+33,hartford, ct,Live Right Wellness,Acupuncture,0,5.0,5
+34,hartford, ct,Samara MedSpa,Medical Spas,0,5.0,2
+35,hartford, ct,Glitz Cupcake Spa,Hair Salons,0,5.0,1
+36,hartford, ct,Lorie's African Hair Braiding,Blow Dry/Out Services,0,3.0,5
+37,hartford, ct,Serenity Massage & Wellness Center,Massage Therapy,0,4.0,8
+38,hartford, ct,Milano's Salon & Day Spa,Hair Salons,$$,3.5,10
+39,hartford, ct,Gugliotti's Salon,Hair Salons,$$$,5.0,8
+40,hartford, ct,czk hair studio,Hair Salons,0,5.0,2
+41,hartford, ct,Sacred Fox Massage,Massage Therapy,0,3.5,15
+42,hartford, ct,GBS Browz West Hartford,Threading Services,$$,4.0,25
+43,hartford, ct,Essential Health,Chiropractors,0,4.5,2
+44,hartford, ct,Francine's Salon & Day Spa,Day Spas,0,5.0,1
+45,hartford, ct,Amber's Beauty Salon,Hair Salons,$$$,1.5,2
+46,hartford, ct,Yen Therapy,Massage,$$$,5.0,1
+47,hartford, ct,Blessings Hair Boutique,Hair Salons,$$,3.5,3
+48,hartford, ct,"Harold E. Beam, MD",Cosmetic Surgeons,0,3.0,2
+49,hartford, ct,International Institute Of Cosmetology,Cosmetology Schools,$,4.5,11
+50,hartford, ct,O'malley Chiropractic Health Center,Chiropractors,0,5.0,4
+51,hartford, ct,Mojo Solar Studio,Tanning,0,3.5,5
+52,hartford, ct,"Shannon Brownell, LMT",Massage Therapy,0,5.0,1
+53,hartford, ct,"Taylor Therapy Center, PC",Counseling & Mental Health,0,5.0,1
+54,hartford, ct,Hair Design on Park,Hair Salons,$,4.5,7
+55,hartford, ct,Luli Nails,Nail Salons,$,5.0,8
+56,hartford, ct,Heal The Body,Massage,0,3.0,4
+57,hartford, ct,Silk Road Health,Acupuncture,0,5.0,4
+58,hartford, ct,Dermasology® Medical Skin Care,Hair Removal,0,3.5,3
+59,hartford, ct,Theresa's Family Salon,Hair Salons,0,5.0,1
+60,hartford, ct,Off Center Salon & Spa,Skin Care,0,5.0,3
+61,hartford, ct,Glastonbury Cryotherapy,Cryotherapy,0,3.0,2
+62,hartford, ct,Directions Salon,Hair Salons,$$,5.0,4
+63,hartford, ct,Therapeutic Massage Associates,Reflexology,0,5.0,1
+64,hartford, ct,Click.Salon,Hair Salons,$$,5.0,2
+65,hartford, ct,Touch of Light Therapeutic Massage,Massage Therapy,0,4.0,4
+66,hartford, ct,Tre Lynn Salon,Hair Salons,$$$,5.0,3
+67,hartford, ct,Natural Nails and Spa,Nail Salons,$$,2.5,44
+68,hartford, ct,Naomi's Studio & Salon,Hair Salons,$$$,2.0,4
+69,hartford, ct,Cozy Nail & Spa,Nail Salons,$$,3.5,27
+70,hartford, ct,Vivesse Med Spa,Laser Hair Removal,0,2.0,4
+71,hartford, ct,Labella Salon,Hair Salons,$$,4.5,26
+72,hartford, ct,Grecia's Beauty Salon,Hair Salons,$,3.5,6
+73,hartford, ct,Westfarm Nail & Spa,Nail Salons,$$,3.0,49
+74,hartford, ct,Shiny Nail & Spa,Nail Salons,$$,4.0,47
+75,hartford, ct,Salon 776,Hair Salons,$$,4.0,6
+76,hartford, ct,Emily Rose Style Group,Hair Salons,$$,5.0,12
+77,hartford, ct,JLM Salon,Hair Salons,$$$,3.5,3
+78,hartford, ct,April & Co,Hair Salons,$$,4.0,4
+79,hartford, ct,Tip Top Nail,Nail Salons,$,3.5,9
+80,hartford, ct,Salon Dell'aera,Day Spas,$$$,4.5,2
+81,hartford, ct,Grace Nails,Nail Salons,$$,3.5,89
+82,hartford, ct,Atelier Salon,Hair Salons,0,3.5,3
+83,hartford, ct,Pro Nails,Nail Salons,$$,3.5,10
+84,hartford, ct,Top Nails,Nail Salons,$$,4.0,40
+85,hartford, ct,Barilla's Salon,Hair Salons,$$,4.5,8
+86,hartford, ct,HeadWorks Salon and Day Spa,Day Spas,$$$,2.0,3
+87,hartford, ct,Aneeta Li Hair Salon,Hair Salons,$$,4.5,13
+88,hartford, ct,Hair Cuttery,Men's Hair Salons,0,4.0,7
+89,hartford, ct,Massage Clinic of Connecticut,Massage Therapy,0,3.5,3
+90,hartford, ct,Studio Central,Hair Stylists,$$,5.0,15
+91,hartford, ct,"Mch/russell Associates, LLC",Counseling & Mental Health,0,1.0,1
+92,hartford, ct,Nail Pro,Nail Salons,$$,2.5,11
+93,hartford, ct,Ideal Image West Hartford,Laser Hair Removal,$$$,2.5,23
+94,hartford, ct,Nail Gallery,Nail Salons,$$,4.0,49
+95,hartford, ct,Perfect Nails & Hair,Nail Salons,0,1.0,5
+96,hartford, ct,AMANTi Salon,Hair Salons,$$,4.0,8
+97,hartford, ct,Salon Serenity,Hair Salons,$$$,2.0,3
+98,hartford, ct,Super Nails & Spa 2,Waxing,$$,3.5,42
+99,hartford, ct,Amazon Retreat Beauty,Massage,0,1.0,1
+0,macon, ga,Azul Salon and Spa,Hair Salons,$$$,4.5,15
+1,macon, ga,Kay-Lynn Massage & Bodywork Studio,Massage,$$,5.0,3
+2,macon, ga,Holistic Touch,Massage Therapy,$$,5.0,5
+3,macon, ga,Tom Hill Nail & Spa,Nail Salons,$$,5.0,13
+4,macon, ga,Spa Medical,Skin Care,$$,4.0,5
+5,macon, ga,Emerald Spa,Day Spas,0,5.0,1
+6,macon, ga,Utopia Salon & Spa,Hair Salons,$$$,5.0,1
+7,macon, ga,Heirloom Salon & Spa,Hair Salons,0,5.0,2
+8,macon, ga,2CU4 Massage Therapy,Reflexology,0,3.5,3
+9,macon, ga,Merle Norman & Day Spa,Day Spas,$$,5.0,1
+10,macon, ga,B. Monroe Salon,Hair Salons,$$,4.5,30
+11,macon, ga,Aesthetics Anti-Aging Center,Day Spas,$$,3.0,16
+12,macon, ga,B-Relaxed,Massage Therapy,0,5.0,1
+13,macon, ga,Renaissance Plastic Surgery,Cosmetic Surgeons,0,4.0,4
+14,macon, ga,Mandy Miller,Massage Therapy,0,5.0,1
+15,macon, ga,Macon Massage,Massage,0,3.0,1
+16,macon, ga,"Anissa Jones, DC",Chiropractors,0,5.0,1
+17,macon, ga,Changes Hair Salon,Hair Salons,$,5.0,3
+18,macon, ga,The Doux Salon,Blow Dry/Out Services,$$,5.0,3
+19,macon, ga,Discipline Pilates,Pilates,0,5.0,1
+0,honolulu, hi,Red Earth Massage & Wellness,Massage,$$,5.0,367
+1,honolulu, hi,The LATHER Spa at The Modern Honolulu,Massage,$$$,4.5,82
+2,honolulu, hi,Honolulu Spa & Wellness,Skin Care,$$,5.0,284
+3,honolulu, hi,Royal Kaila Wedding and Spa,Day Spas,$$,4.5,55
+4,honolulu, hi,Loess Spa,Reflexology,0,4.5,66
+5,honolulu, hi,Nā Ho'ōla Spa,Day Spas,$$$,4.0,51
+6,honolulu, hi,Spa Royal Hawaiian,Massage,$$,4.5,61
+7,honolulu, hi,La'akea Spa Hawaii,Day Spas,$$,4.0,138
+8,honolulu, hi,Yoni Steam Honolulu,Day Spas,$$,5.0,92
+9,honolulu, hi,Moana Lani Spa,Day Spas,$$$,4.5,194
+10,honolulu, hi,Sea Spa,Massage,$$,5.0,10
+11,honolulu, hi,Lomilomi Hana Lima Healing Spa & Boutique,Day Spas,$$,5.0,100
+12,honolulu, hi,LAKA Skin Care & Spa,Day Spas,$$,4.5,352
+13,honolulu, hi,Aloha Sauna and Spa,Day Spas,$$,4.5,134
+14,honolulu, hi,"The Ritz-Carlton Spa, Waikiki Beach",Massage,$$$,4.5,6
+15,honolulu, hi,Heaven On Earth Salon & Day Spa,Day Spas,$$$,4.0,228
+16,honolulu, hi,Pure Joy Day Spa,Day Spas,$$,4.5,91
+17,honolulu, hi,Ku Day Spa,Acupuncture,$$,5.0,12
+18,honolulu, hi,Spalani,Day Spas,$$,5.0,25
+19,honolulu, hi,Spa U’ilani,Skin Care,0,5.0,1
+20,honolulu, hi,Lani Hawaii Massage & Beauty SPA,Massage Therapy,0,4.5,76
+21,honolulu, hi,Bangkok Thai Massage & Spa,Massage,$$,4.5,121
+22,honolulu, hi,Amar Spa,Massage,$$,4.5,76
+23,honolulu, hi,China Thai Massage,Reflexology,0,5.0,4
+24,honolulu, hi,Ocean Motion Spa,Massage,0,4.5,8
+25,honolulu, hi,Siam Thai Massage & Spa,Massage,$$,4.5,252
+26,honolulu, hi,About Face Hawaii,Medical Spas,$$,5.0,60
+27,honolulu, hi,Jai Dee Thai Therapeutic Massage,Massage,$$,5.0,867
+28,honolulu, hi,Reiki Relief,Reiki,0,5.0,2
+29,honolulu, hi,COCOLOMI,Massage Therapy,$$,5.0,3
+30,honolulu, hi,Lemurian Wellness,Massage Therapy,0,5.0,6
+31,honolulu, hi,Body & Mind Spa,Massage,$$,4.0,159
+32,honolulu, hi,Bellaviva,Day Spas,$$,4.0,104
+33,honolulu, hi,Mobile VIP Massage,Reflexology,$$,5.0,51
+34,honolulu, hi,Vasa Thai Massage,Massage,$$,5.0,60
+35,honolulu, hi,BeautyMed Therapy,Massage,$$,4.0,68
+36,honolulu, hi,Massage By Fernando,Massage,$$,5.0,30
+37,honolulu, hi,Sirene Massage Hawaii,Massage Therapy,0,4.5,104
+38,honolulu, hi,Juju'be Clinic & Salon,Medical Spas,$$,5.0,16
+39,honolulu, hi,Infinity Life Center,Day Spas,$$,4.5,22
+40,honolulu, hi,Therapeutic Touch by Yumie,Massage Therapy,0,5.0,2
+41,honolulu, hi,Blue Sky Thai Massage,Massage,$$,4.5,45
+42,honolulu, hi,Pebu Skin Spa,Skin Care,$$,5.0,17
+43,honolulu, hi,Infinity Fitness & Massage,Massage Therapy,0,4.0,19
+44,honolulu, hi,East 2 West Integrative Medicine,Acupuncture,0,5.0,7
+45,honolulu, hi,Finca Beauty Salon,Hair Salons,$$,4.5,35
+46,honolulu, hi,Premier Medispa,Laser Hair Removal,$$,5.0,13
+47,honolulu, hi,Satori Salon and Spa,Hair Salons,$$,5.0,68
+48,honolulu, hi,Honolulu Massage and Bodyworks,Massage Therapy,$$,4.5,95
+49,honolulu, hi,Hawaii Massage Academy,Massage Schools,0,4.0,73
+50,honolulu, hi,Salon Novel,Nail Salons,0,5.0,8
+51,honolulu, hi,Irie Massage,Massage,0,5.0,1
+52,honolulu, hi,Tessa Thai Healing Massage,Massage Therapy,0,5.0,1
+53,honolulu, hi,Hawaii Massage Therapy 4 You,Massage Therapy,0,5.0,4
+54,honolulu, hi,Good Day Thai Massage,Massage Therapy,0,4.5,3
+55,honolulu, hi,IMassage & Nail,Massage,0,4.5,7
+56,honolulu, hi,Kama'aina Massage and Foot Spa,Reflexology,0,5.0,43
+57,honolulu, hi,Pam's Therapeutic Massage,Massage Therapy,0,5.0,1
+58,honolulu, hi,Isabella Salon & Spa,Day Spas,$$$,5.0,5
+59,honolulu, hi,Spa Khakara,Day Spas,$$$,3.0,31
+60,honolulu, hi,Asian Horizons,Acupuncture,0,5.0,2
+61,honolulu, hi,Acu-Massage Hawaii,Acupuncture,0,5.0,15
+62,honolulu, hi,Amy's Haven,Massage,0,5.0,1
+63,honolulu, hi,Lotus Skincare Studio,Skin Care,$$,5.0,28
+64,honolulu, hi,Massage Professionals - Ala Moana Clinic,Massage Therapy,0,5.0,3
+65,honolulu, hi,Massage by Steph,Massage Therapy,0,5.0,7
+66,honolulu, hi,Aisen Chiryo Doin,Massage Therapy,0,5.0,25
+67,honolulu, hi,Head-To-Toe Nails & Spa,Nail Salons,$,4.5,257
+68,honolulu, hi,Allure Laser Med Spa,Medical Spas,$$$,4.5,28
+69,honolulu, hi,GetLymphed and Body in Alignment,Massage Therapy,0,4.5,8
+70,honolulu, hi,Mind Bodhi Therapy,Massage Therapy,0,5.0,1
+71,honolulu, hi,PT Massage,Massage Therapy,0,4.5,29
+72,honolulu, hi,Malina Massage,Massage,0,5.0,1
+73,honolulu, hi,Sister Esthetics Hawaii,Massage,0,5.0,1
+74,honolulu, hi,Aaa Spa,Massage Therapy,0,4.0,6
+75,honolulu, hi,Kara Zahl,Massage,$$,5.0,24
+76,honolulu, hi,Dynasty Foot Massage,Massage,0,4.5,36
+77,honolulu, hi,Aloha Pono Massage,Massage,$$,5.0,3
+78,honolulu, hi,Amar Massage Spa,Massage,0,5.0,5
+79,honolulu, hi,Healing Touch Massage Institute,Massage Therapy,0,5.0,2
+80,honolulu, hi,Zudao Foot Massage Center,Massage,$$,4.0,166
+81,honolulu, hi,Hi'ilani Spa,Day Spas,0,5.0,1
+82,honolulu, hi,Kama'aina Massage Therapy,Reiki,0,5.0,1
+83,honolulu, hi,Waikiki Resort Hotel Spa,Massage,0,2.5,10
+84,honolulu, hi,Kuub Cosmetics,Massage,$$,5.0,15
+85,honolulu, hi,JKC Wellness,Massage,$$,5.0,6
+86,honolulu, hi,Chillaxin Massage,Massage,0,5.0,1
+87,honolulu, hi,Francois Massage Therapist,Massage Therapy,0,5.0,1
+88,honolulu, hi,Scott's Massage,Massage Therapy,0,5.0,3
+89,honolulu, hi,Waikiki Reflexology & Massage Therapy,Massage Therapy,0,5.0,2
+90,honolulu, hi,Akamai Bodyworks,Massage Therapy,0,5.0,2
+91,honolulu, hi,Kailua Massage Therapy,Massage,$$,5.0,37
+92,honolulu, hi,Fresh Face,Day Spas,$$,5.0,3
+93,honolulu, hi,Herbal Spa Sauna & Salon,Day Spas,$$,3.5,244
+94,honolulu, hi,Waikiki Massage Clinic,Massage Therapy,$$,4.0,53
+95,honolulu, hi,Lomi Lomi To Da Rescue,Massage,$$,4.0,15
+96,honolulu, hi,John Shinsato Certified Rolfer,Physical Therapy,0,5.0,14
+97,honolulu, hi,The Pain Relief Center,Massage Therapy,0,5.0,27
+98,honolulu, hi,A Pink Orchid,Massage Therapy,0,1.0,1
+99,honolulu, hi,First Start Thai Massage,Massage Therapy,0,5.0,12
+100,honolulu, hi,Massage Matters,Massage Therapy,0,4.0,5
+101,honolulu, hi,CPR Massage & Stretching,Massage Therapy,0,5.0,6
+102,honolulu, hi,VITAFLOW Hawaii,Weight Loss Centers,0,4.5,9
+103,honolulu, hi,Aesthetics by Dara,Day Spas,$$,5.0,11
+104,honolulu, hi,Monica Ra Salon & Day Spa,Hair Salons,$$,4.0,30
+105,honolulu, hi,"Shim Ching, MD",Cosmetic Surgeons,$$,4.5,137
+106,honolulu, hi,Hi Lux Lash,Eyelash Service,0,5.0,3
+107,honolulu, hi,AlohaTherapy @ WaikikiBeachWalk,Eyelash Service,0,5.0,3
+108,honolulu, hi,Windward Wellness,Chiropractors,0,5.0,24
+109,honolulu, hi,AUBE Beauty Salon,Hair Salons,$$,4.5,26
+110,honolulu, hi,"John Feng, LMT",Massage Therapy,0,5.0,6
+111,honolulu, hi,Kaimuki Shiatsu,Massage,0,5.0,5
+112,honolulu, hi,Cosmeskin,Medical Spas,0,4.0,1
+113,honolulu, hi,Spa Halekulani,Day Spas,$$$$,4.5,18
+114,honolulu, hi,Mailani Aesthetics,Aestheticians,0,5.0,2
+115,honolulu, hi,Ko'olau Clinic,Medical Spas,$,5.0,6
+116,honolulu, hi,Nurturing Body Works Massage,Massage Therapy,0,5.0,5
+117,honolulu, hi,Klemm Sally,Massage,0,5.0,1
+118,honolulu, hi,Imperial Facial,Medical Spas,$$,5.0,5
+119,honolulu, hi,Yoshi Hair Hawaii,Hair Salons,0,4.5,10
+120,honolulu, hi,Pojjanee Thai Massage 956,Massage,0,5.0,1
+121,honolulu, hi,Nail Zone,Nail Salons,$$,4.5,441
+122,honolulu, hi,Kai Kala Craniosacral Therapy & Massage,Massage Therapy,0,5.0,2
+123,honolulu, hi,PureBeauty Salon & Spa at Macy's,Hair Salons,$$,4.5,135
+124,honolulu, hi,Healing SEITAI,Massage Therapy,0,5.0,1
+125,honolulu, hi,Haiqi Massage Center,Massage Therapy,0,3.5,2
+126,honolulu, hi,Salon Hair Time,Hair Salons,$,5.0,14
+127,honolulu, hi,Salon Akua,Eyelash Service,0,5.0,3
+128,honolulu, hi,Therapeutic Massage of Honolulu,Massage,0,5.0,1
+129,honolulu, hi,Face & Body Laser Hawaii,Medical Spas,$$,4.5,42
+130,honolulu, hi,Cari at The Sustainery,Makeup Artists,0,5.0,26
+131,honolulu, hi,Hickam AFB Salon Bobbi & Guy,Hair Salons,0,4.0,18
+132,honolulu, hi,Raquel's Massage LMT,Massage Therapy,0,5.0,1
+133,honolulu, hi,Perfect Seitai Clinic,Massage,0,5.0,2
+134,honolulu, hi,Aiea Massage Supply,Massage,$$,4.5,24
+135,honolulu, hi,Island Energy Massage,Skin Care,0,5.0,5
+136,honolulu, hi,Char Dexter's Massage,Massage Therapy,0,4.5,3
+137,honolulu, hi,Salon Eclipz,Makeup Artists,$$,5.0,37
+138,honolulu, hi,"Rebecca Doescher, LMT - Waialae Mobile Massage",Massage Therapy,0,5.0,1
+139,honolulu, hi,High Performance Therapy Hawaii,Massage Therapy,0,5.0,13
+140,honolulu, hi,Finca Nail Salon,Nail Salons,0,5.0,1
+141,honolulu, hi,Texture Salon,Hair Salons,0,4.5,3
+142,honolulu, hi,Thai Lao Massage Therapy,Massage Therapy,0,5.0,1
+143,honolulu, hi,U-Turn Massage,Reflexology,0,5.0,53
+144,honolulu, hi,Lara Woltag Spa,Day Spas,$$,2.5,108
+145,honolulu, hi,Sacred Breath Healing Arts,Reiki,0,5.0,17
+146,honolulu, hi,Upper Thai Massage,Massage,0,5.0,10
+147,honolulu, hi,Maluhia Healing Arts,Massage Therapy,0,5.0,2
+148,honolulu, hi,Island RN,Medical Spas,0,5.0,1
+149,honolulu, hi,Salon 96816,Hair Salons,0,5.0,9
+150,honolulu, hi,HELLO BOMBSHELL,Sugaring,$$,4.5,161
+151,honolulu, hi,Ohana Healing Center,Acupuncture,0,5.0,3
+152,honolulu, hi,Hair Candy Salon,Hair Salons,$$,5.0,14
+153,honolulu, hi,OrthoSport Hawaii,Physical Therapy,0,5.0,1
+154,honolulu, hi,Salon Capello,Hair Salons,$$,5.0,83
+155,honolulu, hi,Spa Passion Massage Waikiki Hawaii,Massage Therapy,0,4.5,131
+156,honolulu, hi,Winnie Skin Therapy @ Lux Studio,Day Spas,$$,5.0,29
+157,honolulu, hi,Freedom Rains Massage Health & Wellness For Women,Massage Therapy,0,5.0,4
+158,honolulu, hi,Bhakti Massage & Spa Services,Reflexology,0,5.0,1
+159,honolulu, hi,Christine Fisher Massage Therapist,Massage Therapy,0,5.0,7
+160,honolulu, hi,Perfect Thai Massage,Massage,0,5.0,1
+161,honolulu, hi,Hair by Jessee,Hair Stylists,0,5.0,4
+162,honolulu, hi,Hele Mai Salon,Nail Salons,$$,4.5,41
+163,honolulu, hi,Samy's Services,Massage Therapy,0,5.0,1
+164,honolulu, hi,The Green Comb,Hair Salons,0,5.0,5
+165,honolulu, hi,Massage Therapy Center,Massage Therapy,0,5.0,6
+166,honolulu, hi,Honolulu Massage Studio,Massage Therapy,0,4.5,10
+167,honolulu, hi,Tim's Hairstyling Center,Hair Salons,$$,4.0,4
+168,honolulu, hi,"Eugene Lee, MD - Refresh Rx Hawaii",Body Contouring,0,3.0,2
+169,honolulu, hi,Windward Medispa & Vein Center,Medical Spas,$$,4.5,43
+170,honolulu, hi,Aloha  LomiLomi,Massage Therapy,0,5.0,1
+171,honolulu, hi,Hands Toward Heaven,Massage,0,5.0,1
+172,honolulu, hi,Couture Nails & Spa,Nail Salons,$$,4.5,616
+173,honolulu, hi,Massage Envy - Aina Haina,Massage,$$,4.5,46
+174,honolulu, hi,WB Massage & Spa,Massage Therapy,0,4.0,55
+175,honolulu, hi,"Sean Valentine Strength, Conditioning, Recovery and Performance",Trainers,0,5.0,10
+176,honolulu, hi,Got Quality Massage,Massage Therapy,0,5.0,3
+177,honolulu, hi,Miki'ao Nail Bar,Nail Salons,$$$,5.0,26
+178,honolulu, hi,SHIN SHIN SHIATSU,Massage Therapy,0,5.0,1
+179,honolulu, hi,Creative Nails,Nail Salons,$$,4.0,152
+180,honolulu, hi,Bottega Antoine,Hair Salons,$$$,5.0,9
+181,honolulu, hi,BeautiGoddess Lash Studio,Eyelash Service,$$,5.0,113
+182,honolulu, hi,GEO | Nail Art Studio,Nail Salons,0,5.0,14
+183,honolulu, hi,"Benjamin C Chu, MD",Cosmetic Surgeons,$$,4.5,89
+184,honolulu, hi,T & T Nails Design,Nail Salons,$,4.0,9
+185,honolulu, hi,The Attic Salon,Hair Salons,$$,5.0,21
+186,honolulu, hi,Oahu Massage Service,Massage Therapy,0,2.0,3
+187,honolulu, hi,Kaka'ako Nail Salon,Nail Salons,$$,4.0,97
+188,honolulu, hi,Relax Mobile Massage,Massage Therapy,0,2.5,78
+189,honolulu, hi,TK Massage Clinic,Massage Therapy,0,5.0,4
+190,honolulu, hi,Energetic Works,Traditional Chinese Medicine,$$,4.0,4
+191,honolulu, hi,Injury Care Center,Chiropractors,0,5.0,1
+192,honolulu, hi,Jon Ren Salon,Hair Salons,$$,4.5,22
+193,honolulu, hi,Luxure Nail Spa  & Hair Salon Inc,Nail Salons,$$,3.5,100
+194,honolulu, hi,L'Amour Salon,Hair Salons,$$,3.5,62
+195,honolulu, hi,Helpful Massage and Bodyworks,Massage Therapy,0,5.0,16
+196,honolulu, hi,Premier Salons At Macy's,Hair Salons,$$,3.5,7
+197,honolulu, hi,Mensore Therapy,Massage Therapy,0,5.0,2
+198,honolulu, hi,Style Loft Hair Studio,Hair Salons,0,5.0,41
+199,honolulu, hi,A Puti Pa Hawaii,Hair Salons,$$,5.0,2
+200,honolulu, hi,CJ Salon,Hair Salons,$,5.0,29
+201,honolulu, hi,Incite Massage,Massage Therapy,0,5.0,1
+202,honolulu, hi,Princess Nails,Nail Salons,$$,4.5,129
+203,honolulu, hi,"Stephen Tarek, DC",Chiropractors,0,5.0,1
+204,honolulu, hi,Island Family Chiropractic,Chiropractors,0,5.0,20
+205,honolulu, hi,Fitpro Hawaii,Trainers,0,5.0,3
+206,honolulu, hi,Myers Therapy,Massage Therapy,0,5.0,9
+207,honolulu, hi,Nikko Restoration Massage,Massage,0,5.0,3
+208,honolulu, hi,"Theresa T Bui, DC",Chiropractors,$$,4.5,10
+209,honolulu, hi,Don L. Balao,Massage,$$,5.0,3
+210,honolulu, hi,Massage Envy - Kaneohe,Skin Care,$$,4.5,101
+211,honolulu, hi,Hawaii Kai Nails & Spa,Nail Salons,$$,4.0,141
+212,honolulu, hi,Lux Studio,Hair Salons,$$,4.5,37
+213,honolulu, hi,Pin Thai Massage Aiea,Massage,$$,4.0,125
+214,honolulu, hi,Doreen Kupau Massage Therapist,Massage Therapy,0,5.0,7
+215,honolulu, hi,Island Massage Kailua,Massage,$,5.0,6
+216,honolulu, hi,Thai Massage Therapeutics,Massage Therapy,0,5.0,45
+217,honolulu, hi,Kaimuki Health and Wellness,Massage Therapy,0,5.0,6
+218,honolulu, hi,Pena Parlour,Hair Salons,$$,5.0,19
+219,honolulu, hi,Nails by Carrie,Nail Salons,$$$,5.0,10
+220,honolulu, hi,Nueve Salon & Spa,Hair Stylists,$$,4.5,56
+221,honolulu, hi,May's Salon,Hair Salons,$$,4.5,84
+222,honolulu, hi,HI Lasthetics & Spa,Eyelash Service,0,4.0,21
+223,honolulu, hi,Sabrina Fair,Day Spas,$$$$,3.5,22
+224,honolulu, hi,Anna Salon,Hair Salons,$$,5.0,22
+225,honolulu, hi,Hair Fix Salon,Hair Salons,$$,5.0,8
+226,honolulu, hi,Twinkle Nails & Spa,Nail Salons,$$,4.5,22
+227,honolulu, hi,Hawaii Massage Clinic,Massage,$,2.5,3
+228,honolulu, hi,The Parkside Salon,Hair Salons,$$,5.0,37
+229,honolulu, hi,Kahuna Mana Massage,Skin Care,0,2.5,3
+230,honolulu, hi,Jasmine Reis Nails & Esthetics,Skin Care,0,5.0,3
+231,honolulu, hi,Golden Nails,Nail Salons,$$,4.0,355
+232,honolulu, hi,Sasiya Thai Massage,Massage Therapy,0,5.0,3
+233,honolulu, hi,"Kyra Viveiros, LMT",Massage Therapy,0,5.0,4
+234,honolulu, hi,Maunakea Beauty Salon,Hair Salons,$,3.5,12
+235,honolulu, hi,Fabulous Kneads,Massage,0,5.0,2
+236,honolulu, hi,Men's Hall Haircuts and Grooming Bar,Men's Hair Salons,$$,5.0,38
+237,honolulu, hi,Stay In Touch,Massage Therapy,0,4.5,27
+238,honolulu, hi,Sabre Salon,Hair Salons,$$,4.5,67
+239,honolulu, hi,Organic Island Massage,Massage,0,5.0,1
+240,honolulu, hi,Paul Mitchell The School Honolulu,Hair Salons,$,3.5,203
+241,honolulu, hi,Ryanjacobie,Hair Stylists,$$,4.5,170
+242,honolulu, hi,Pro Nails,Nail Salons,$$,3.0,55
+243,honolulu, hi,The Hair Box,Hair Salons,$$,5.0,28
+244,honolulu, hi,The Massage Healthcare,Massage Therapy,0,5.0,6
+245,honolulu, hi,The Healing Source,Massage Therapy,0,4.5,11
+246,honolulu, hi,All Dolled Up Salon and Day Spa,Hair Salons,0,2.5,5
+247,honolulu, hi,Hair By Nora,Hair Stylists,$$,5.0,7
+248,honolulu, hi,Sanctuary Salon,Hair Salons,$$,4.5,162
+249,honolulu, hi,De Lotus Nails & Hair,Nail Salons,$$,4.0,46
+250,honolulu, hi,Holistic Therapies and Massage,Massage Therapy,0,5.0,19
+251,honolulu, hi,Paul's Barber Hairstyling,Barbers,$,4.5,123
+252,honolulu, hi,Mio's Salon,Hair Salons,$,4.5,86
+253,honolulu, hi,Salon Rêve,Hair Salons,$$,4.5,48
+254,honolulu, hi,Lavender Beauty Shop,Day Spas,$$,2.5,22
+255,honolulu, hi,Fantastic Sams Hair Salons,Hair Salons,$$,2.5,26
+256,honolulu, hi,"Mankwan Wong, MD",Internal Medicine,0,2.5,5
+257,honolulu, hi,Angel Nails Salon & Spa,Nail Salons,$$,4.5,69
+258,honolulu, hi,Hairspray Salon,Hair Salons,$$,5.0,22
+259,honolulu, hi,Navy Exchange Salon & Day Spa,Waxing,$$,3.5,106
+260,honolulu, hi,The Beauty Collective,Waxing,$$,5.0,8
+261,honolulu, hi,Salon Kit,Hair Salons,$$$,4.0,87
+262,honolulu, hi,Diamond Head Beauty Salon,Hair Salons,$$,4.0,5
+263,honolulu, hi,Rickie Alcantara-Cochran LMT,Massage Therapy,$$,5.0,5
+264,honolulu, hi,Beauty By Jasmine,Hair Stylists,0,5.0,9
+265,honolulu, hi,Mam's Barber & Hairstyling,Hair Salons,0,5.0,5
+266,honolulu, hi,Perfect Nails,Nail Salons,$$,3.5,64
+267,honolulu, hi,Tokuhara Acupuncture And Healthcare,Acupuncture,0,5.0,3
+268,honolulu, hi,VegaFit Recovery,Massage Therapy,0,5.0,32
+269,honolulu, hi,T-Nails & Spa,Massage,$$,3.5,21
+270,honolulu, hi,Hawaii Dermatology and Plastic Surgery Centers,Dermatologists,$$,3.0,16
+271,honolulu, hi,Kate's Hair,Hair Stylists,$$,4.5,14
+272,honolulu, hi,V Style by Vicky Nguyen,Makeup Artists,$,4.5,49
+273,honolulu, hi,Kunia Nail Center,Nail Salons,$$,3.5,156
+274,honolulu, hi,Gail & Co Hair Studio,Hair Salons,$$$,4.5,13
+275,honolulu, hi,Salon 808,Hair Salons,$$,4.5,479
+276,honolulu, hi,Ashley Wilson Hair,Hair Salons,0,5.0,5
+277,honolulu, hi,Salon R & Spa,Hair Salons,$$,1.5,24
+278,honolulu, hi,All Dolled Up,Hair Stylists,$$,4.5,4
+279,honolulu, hi,Salon Tiffany,Hair Salons,$$,4.0,105
+280,honolulu, hi,Cedric Fujitani,Acupuncture,0,4.0,1
+281,honolulu, hi,Mia Moriguchi,Makeup Artists,$$,5.0,18
+282,honolulu, hi,My Art My Passion Massage,Massage Therapy,0,2.5,5
+283,honolulu, hi,Adrienne Nails,Nail Technicians,$$,4.5,30
+284,honolulu, hi,T & T Barber Hairstyling,Hair Salons,$,4.5,36
+285,honolulu, hi,Massage Palace,Massage Therapy,0,4.0,81
+286,honolulu, hi,Corin Krainer LMT,Massage Therapy,0,5.0,1
+287,honolulu, hi,Hair & Makeup By Beverly Kaneshige,Makeup Artists,$$,5.0,65
+288,honolulu, hi,Salon Jada Raine,Hair Stylists,$$,4.0,29
+289,honolulu, hi,Makiki Nails,Nail Salons,$$,3.5,99
+290,honolulu, hi,"Morley James, DC",Chiropractors,0,5.0,5
+291,honolulu, hi,Tiffany Duro,Hair Stylists,$$,5.0,7
+292,honolulu, hi,EZhairs,Hair Salons,$$,4.5,24
+293,honolulu, hi,StyleLab by Robin,Hair Salons,0,5.0,5
+294,honolulu, hi,Cloud 9 Salon & Spa,Hair Salons,$$,3.5,67
+295,honolulu, hi,Hair By Tommy,Hair Stylists,$$,4.0,13
+296,honolulu, hi,JPS Dressers,Hair Salons,$$,5.0,18
+297,honolulu, hi,Jdk Salon,Hair Stylists,$$,4.0,22
+298,honolulu, hi,"Aesthetikos Skin Care Clinics, LLC",Medical Spas,0,5.0,2
+299,honolulu, hi,Hair Today,Hair Salons,0,5.0,1
+300,honolulu, hi,Advanced Aesthetics Hawaii,Medical Spas,0,5.0,1
+301,honolulu, hi,Oda Ohana Chiropractic,Chiropractors,0,3.0,4
+302,honolulu, hi,Flava & Da Wig Shop,Hair Salons,$$,4.0,89
+303,honolulu, hi,Paul Mitchell Salon,Hair Salons,$$,3.0,16
+304,honolulu, hi,Azure Salon,Hair Salons,$$,5.0,1
+305,honolulu, hi,Beauty Care Studio,Hair Salons,$$,3.5,54
+306,honolulu, hi,Queen Nails,Nail Salons,$$,2.5,188
+307,honolulu, hi,SymmRoll,Massage Therapy,0,5.0,12
+308,honolulu, hi,PT Hawaii,Physical Therapy,0,4.0,51
+309,honolulu, hi,Healing Arts Center,Massage Therapy,0,5.0,1
+310,honolulu, hi,Shear Edge Salons,Hair Salons,$$,4.5,12
+311,honolulu, hi,Aviance Salon,Hair Salons,$$,4.5,91
+312,honolulu, hi,Hands In Motion Massage Mililani By Brenda Burnett,Massage Therapy,0,4.5,15
+313,honolulu, hi,Angel's Nail Smart,Nail Salons,$$,3.5,35
+314,honolulu, hi,Indulge,Eyelash Service,$$,4.5,18
+315,honolulu, hi,Nail and Beauty,Nail Salons,$$,4.0,103
+316,honolulu, hi,A & A Nail Salon,Nail Salons,$$,3.5,235
+317,honolulu, hi,"Jane Fee, LMT",Massage Therapy,0,5.0,3
+318,honolulu, hi,Ka Hale Ola Massage,Massage,$$,3.5,38
+319,honolulu, hi,Paul Brown Salon,Hair Salons,$$$,4.0,194
+320,honolulu, hi,Nails by Lori Amate,Nail Salons,$$,3.5,3
+321,honolulu, hi,American Massage Therapy Ass of Hawaii,Massage Therapy,0,4.0,1
+322,honolulu, hi,Nani Nails Salon,Nail Salons,$$,4.5,87
+323,honolulu, hi,Faces Studio,Makeup Artists,$$,3.5,13
+324,honolulu, hi,Lydia's Beauty Salon,Hair Salons,$$,4.5,49
+325,honolulu, hi,LN's Hairstyling,Hair Salons,$$,2.5,39
+326,honolulu, hi,Jackie Kwong,Hair Salons,$$,4.5,15
+327,honolulu, hi,Hands With Heart Massage,Massage Therapy,0,5.0,5
+328,honolulu, hi,Pearl Nails & Salon,Nail Salons,$$,4.0,608
+329,honolulu, hi,Habib Hair Styling,Hair Salons,$$$,5.0,11
+330,honolulu, hi,Noelani Bodyworks,Massage,$$,2.5,37
+331,honolulu, hi,NZ Salon,Hair Salons,$$,5.0,21
+332,honolulu, hi,Hawaii Kai J,Hair Stylists,$$,4.0,57
+333,honolulu, hi,Shiatsu Guy,Massage Therapy,0,5.0,7
+334,honolulu, hi,Jason Victorino,Hair Stylists,$$,5.0,7
+335,honolulu, hi,Fresh Image 808 Salon,Hair Salons,$$,5.0,30
+336,honolulu, hi,N&J Nails,Nail Salons,$$,4.5,169
+337,honolulu, hi,D's Massage and Bodywork,Day Spas,0,2.5,2
+338,honolulu, hi,J & A Hair Salon,Hair Salons,$,3.0,25
+339,honolulu, hi,Pikoakea Therapeutic Lomi & Rehabilitation Massage,Massage Therapy,0,5.0,2
+340,honolulu, hi,Shear Image,Hair Salons,$$,2.0,1
+341,honolulu, hi,Nails Max,Nail Salons,$$,4.0,44
+342,honolulu, hi,Friendly Nails,Nail Salons,$$,4.0,174
+343,honolulu, hi,Royal Salon,Hair Salons,$$,4.0,34
+344,honolulu, hi,T&T Perfect Nails,Nail Salons,$$,3.5,204
+345,honolulu, hi,Shear Bliss,Hair Salons,$$,4.5,16
+346,honolulu, hi,Advanced Medi Spa Hawaii,Massage,$$,3.5,25
+347,honolulu, hi,Hair Innovations,Hair Salons,0,4.0,4
+348,honolulu, hi,Aloha Wellness Center,Massage Therapy,0,3.0,2
+349,honolulu, hi,Kimmie Remular,Makeup Artists,0,5.0,3
+350,honolulu, hi,J & J Nail Salon,Nail Salons,$$,3.5,77
+351,honolulu, hi,Paradise Thai Massage,Massage Therapy,0,4.0,32
+352,honolulu, hi,JV Salon,Hair Salons,$$,4.5,107
+353,honolulu, hi,A Place of Perfection,Day Spas,$$,3.0,132
+354,honolulu, hi,Morea Studio,Hair Salons,$$,4.5,47
+355,honolulu, hi,Fantastic Sams Hair Salons,Hair Salons,$$,3.5,60
+356,honolulu, hi,Lomi-Foot N Body,Massage,0,1.0,1
+357,honolulu, hi,Crystal Nail Salon,Nail Salons,$$,3.0,86
+358,honolulu, hi,Instyle Nails,Nail Salons,$$,3.0,62
+359,honolulu, hi,Nails For Today,Nail Salons,$$,3.5,145
+360,honolulu, hi,Modern Nails,Nail Salons,$$,3.5,113
+361,honolulu, hi,Heads Up Salon,Hair Salons,$$,4.5,55
+362,honolulu, hi,Rejuvenate Massage & Bodyworks,Acupuncture,0,4.5,103
+363,honolulu, hi,Le's Nail Studio,Nail Salons,$$,2.0,145
+364,honolulu, hi,Shear Artistry Salon,Hair Salons,$$,4.5,35
+365,honolulu, hi,Nails Secret,Nail Salons,0,3.5,2
+366,honolulu, hi,Los Fantasticos Beauty Salon,Hair Salons,$,4.0,32
+367,honolulu, hi,Jstyle Salon,Hair Salons,$$,5.0,24
+368,honolulu, hi,Kanya Thai Massage - Hawaii,Massage Therapy,0,2.0,4
+369,honolulu, hi,Koolau Nail Center,Nail Salons,$$,3.5,34
+370,honolulu, hi,Elite Nails & Spa,Nail Salons,$$,3.0,28
+371,honolulu, hi,Syisyu Hawaii Nail& Spa,Nail Salons,$$$,2.5,5
+372,honolulu, hi,Japanese Hair Straightening By Lee Fritz,Hair Stylists,$$,4.0,21
+373,honolulu, hi,MasterCuts,Hair Salons,$,3.0,40
+374,honolulu, hi,Perfection Nails,Nail Salons,$$,3.5,232
+375,honolulu, hi,Salon Blanc the Celebrities salon,Hair Salons,$$$,4.5,453
+376,honolulu, hi,Spaya Thai Massage,Massage Therapy,$$,4.5,35
+377,honolulu, hi,Salon Innovations - A Paul Mitchell Focus Salon,Hair Salons,$$$,4.5,11
+378,honolulu, hi,Melissa_hmu,Hair Stylists,$$,4.5,21
+379,honolulu, hi,99 Beauty and Barber,Barbers,$$,4.0,29
+380,honolulu, hi,Drybar - Waikiki at International Market Place,Blow Dry/Out Services,$$,3.5,38
+381,honolulu, hi,Nail Tek,Nail Salons,$$,2.5,116
+382,honolulu, hi,Onyx Salon,Hair Salons,$$,2.5,16
+383,honolulu, hi,Kailua  Nails- The Original Salon,Nail Salons,$$,4.5,293
+384,honolulu, hi,Madoka,Hair Stylists,$$,5.0,17
+385,honolulu, hi,HNLAX By Dre Empire,Hair Salons,$$,4.0,36
+386,honolulu, hi,Infinity Nails,Nail Salons,$$,4.5,246
+387,honolulu, hi,Top Nails By Ana,Nail Salons,$$,4.0,144
+388,honolulu, hi,Fantastic Sams Hair Salons,Hair Salons,$$,2.5,14
+389,honolulu, hi,L & L Fashion Nails,Nail Salons,$$,3.0,22
+390,honolulu, hi,HI-Lites Salon,Hair Salons,$$,5.0,48
+391,honolulu, hi,Golden Cut,Hair Salons,$$,2.0,26
+392,honolulu, hi,Supercuts,Hair Salons,$$,3.5,86
+393,honolulu, hi,Fantastic Sams,Hair Salons,$$,2.5,39
+394,honolulu, hi,Fantastic Sams,Hair Salons,$$,3.0,55
+395,honolulu, hi,JJ Union Nails,Hair Removal,$$,4.5,250
+396,honolulu, hi,Nail Tek,Nail Salons,$$,2.5,99
+397,honolulu, hi,Hair Studio 44,Hair Stylists,$$,5.0,20
+398,honolulu, hi,Dashing Diva,Nail Salons,$$,4.5,88
+399,honolulu, hi,Hair Attitudes,Hair Salons,$$,1.0,1
+0,peoria, il,Infuse Skin and Body,Skin Care,$$,5.0,3
+1,peoria, il,Five Senses Spa and Salon,Hair Salons,$$$,3.5,45
+2,peoria, il,Pure Bliss Hair Studio And Day Spa,Hair Extensions,$$,4.5,23
+3,peoria, il,The Sanctuary,Reflexology,$$,5.0,5
+4,peoria, il,Senara Health and Healing Center & Spa,Chiropractors,$$$,3.0,18
+5,peoria, il,Well Kneaded Massage Therapy,Massage Therapy,0,4.5,14
+6,peoria, il,Ming Spa,Massage,0,5.0,2
+7,peoria, il,Skin Dimensions Day Spa,Day Spas,$$$,3.5,12
+8,peoria, il,Alter Ego Spalon,Skin Care,$$,4.5,13
+9,peoria, il,Corpo Bello Salon Day Spa & Boutique,Day Spas,$$,3.5,13
+10,peoria, il,Massage Envy - Peoria,Skin Care,$$$,4.0,7
+11,peoria, il,Asian Massage,Massage,$$,5.0,1
+12,peoria, il,C'est Ally Spa,Nail Salons,0,4.0,7
+13,peoria, il,At The Salon,Hair Salons,0,5.0,1
+14,peoria, il,Yan Massage,Massage Therapy,0,5.0,1
+15,peoria, il,MIRASPA Therapeutic,Reiki,0,5.0,6
+16,peoria, il,Peoria Home Thai Massage,Massage Therapy,0,5.0,1
+17,peoria, il,V&E Hair Studio,Hair Salons,$$,5.0,4
+18,peoria, il,Lynn's Nails,Nail Salons,$,5.0,5
+19,peoria, il,Midwest Multicare,Chiropractors,0,5.0,3
+20,peoria, il,Washington Chiropractic,Chiropractors,0,5.0,1
+21,peoria, il,Live or Dye Salon,Hair Extensions,0,4.0,3
+22,peoria, il,Em bel lish Hair Design & Day Spa,Hair Salons,0,4.0,5
+23,peoria, il,Marvella Salon,Hair Salons,$,4.0,5
+24,peoria, il,Platinum Nails,Nail Salons,0,4.5,8
+25,peoria, il,Healing Touch Massage,Massage,0,1.0,1
+26,peoria, il,Nail & Spa,Nail Salons,0,2.0,4
+27,peoria, il,Natural Nails,Nail Salons,$$,3.5,13
+28,peoria, il,Soul Restoration,Float Spa,0,5.0,1
+29,peoria, il,Nails Galore,Nail Salons,$$,5.0,1
+30,peoria, il,Princess Nails Peoria,Nail Salons,0,3.5,5
+31,peoria, il,"Nizar Merheb MD, DDS, FACS",Oral Surgeons,$$$,1.0,3
+32,peoria, il,Amazing Nails and Spa,Nail Salons,$$,3.0,6
+33,peoria, il,VIP Nails,Nail Salons,$$,2.5,8
+34,peoria, il,Everlasting Images,Hair Salons,0,3.0,2
+35,peoria, il,Nation Nails,Nail Salons,$$,2.0,6
+36,peoria, il,Ford's The Stylist & The Barber,Hair Stylists,$$,3.5,6
+37,peoria, il,Brooke & Co Salon,Hair Extensions,0,3.0,2
+38,peoria, il,Jenerations Salon and Spa,Day Spas,0,1.0,1
+39,peoria, il,Holistic Health Center,Chiropractors,0,1.0,1
+0,des moines, ia,Salon Spa W,Hair Salons,$$,4.5,115
+1,des moines, ia,East Village Spa,Massage,$$,4.5,43
+2,des moines, ia,The Spa at West Glen,Skin Care,$$$,4.5,12
+3,des moines, ia,Coachlight Clinic & Spa,Medical Spas,$$$$,4.0,11
+4,des moines, ia,Healistics Massage and Mindfulness Shop,Massage Therapy,0,5.0,6
+5,des moines, ia,Body Revive,Massage Therapy,0,5.0,2
+6,des moines, ia,Yoni Wax Boutique,Waxing,$$,5.0,5
+7,des moines, ia,Oliver+james Salon,Hair Salons,$$,5.0,13
+8,des moines, ia,Best Escape Massage,Massage,$$,4.5,10
+9,des moines, ia,Anani Salon & Spa,Day Spas,$$$,4.5,7
+10,des moines, ia,Bergman Plastic Surgery,Cosmetic Surgeons,0,5.0,1
+11,des moines, ia,Revive Clinic and Spa,Day Spas,0,5.0,1
+12,des moines, ia,Massage Heights Ingersoll,Massage,$$,3.5,12
+13,des moines, ia,Serenity Couture Salon & Spa - Valley West Mall,Hair Salons,$$,4.0,25
+14,des moines, ia,Soulshine Massage Bliss,Reiki,0,5.0,3
+15,des moines, ia,Foot Relaxation,Massage,$$,5.0,22
+16,des moines, ia,Wellness Spa,Skin Care,$$,5.0,2
+17,des moines, ia,Dsm Salon and Spa,Hair Salons,0,4.5,6
+18,des moines, ia,Salon Vici,Hair Salons,$$,5.0,25
+19,des moines, ia,Touch of Hope Spa,Day Spas,0,5.0,2
+20,des moines, ia,Kc Core,Chiropractors,0,5.0,2
+21,des moines, ia,ADIO Chiropractic Clinic,Chiropractors,0,5.0,4
+22,des moines, ia,Sebastian’s Hair Salon,Hair Salons,$$,4.5,3
+23,des moines, ia,Trixies Salon,Hair Stylists,$$,5.0,3
+24,des moines, ia,Urban Nails & Spa,Nail Salons,0,4.5,4
+25,des moines, ia,Chicago's Touch,Massage Therapy,0,3.0,2
+26,des moines, ia,LifeSpa Des Moines,Massage,0,3.5,6
+27,des moines, ia,Axis Salon,Massage,$$,4.5,14
+28,des moines, ia,Allegory,Hair Extensions,0,4.0,3
+29,des moines, ia,Fantasy Nails,Nail Salons,$$,4.5,13
+30,des moines, ia,Pure Salon & Spa,Nail Salons,$$,4.0,11
+31,des moines, ia,Fountain Day Spa,Massage Therapy,$$$,4.0,1
+32,des moines, ia,TheBodyMinders Massage Therapy,Massage Therapy,0,4.5,2
+33,des moines, ia,Skin Body Soul MedSpa,Medical Spas,$$,3.5,20
+34,des moines, ia,Vesta Salon & Spa,Hair Salons,$$$,4.5,4
+35,des moines, ia,Soleil Tan Spa,Tanning,$$$,5.0,10
+36,des moines, ia,Signatures Salon & Day Spa,Hair Salons,$$$$,3.0,8
+37,des moines, ia,Ellies Massage,Massage Therapy,0,5.0,5
+38,des moines, ia,Signature Male,Day Spas,$$$,3.0,4
+39,des moines, ia,B&B Care By Lee,Permanent Makeup,0,5.0,2
+40,des moines, ia,Salon Lew,Hair Salons,0,5.0,3
+41,des moines, ia,US Nails,Nail Salons,$$,3.5,2
+42,des moines, ia,Beehive Salon,Hair Salons,0,5.0,1
+43,des moines, ia,Clarity At The District,Massage Therapy,0,5.0,1
+44,des moines, ia,Art of Life Salon,Hair Salons,0,5.0,3
+45,des moines, ia,Nail Trust,Nail Salons,$$,4.0,12
+46,des moines, ia,Happy Nails,Nail Salons,$$,2.5,18
+47,des moines, ia,Todays Nails,Nail Salons,$$,4.5,9
+48,des moines, ia,Cali Nails,Nail Salons,$$,4.5,13
+49,des moines, ia,Ivy Asian Massage,Massage,0,1.0,1
+50,des moines, ia,Champion Family Chiropractic,Chiropractors,0,5.0,1
+51,des moines, ia,Urban Effects MedSpa,Medical Spas,$$$,2.5,3
+52,des moines, ia,Hair House,Hair Salons,$$,5.0,4
+53,des moines, ia,XO Studio - West Glen,Hair Salons,0,5.0,1
+54,des moines, ia,Body Mechanix by Wendi,Massage Therapy,0,5.0,1
+55,des moines, ia,Imagine Peace-Massage for Mothers and Others,Massage Therapy,0,5.0,1
+56,des moines, ia,Eden Nails & Spa,Nail Salons,0,4.5,7
+57,des moines, ia,Queen's Nails & Spa,Nail Salons,0,3.0,5
+58,des moines, ia,Full Circle Wellness Center,Chiropractors,0,4.5,6
+59,des moines, ia,Altoona Family Chiropractic,Chiropractors,0,5.0,1
+60,des moines, ia,Jewel Nails and Spa,Nail Salons,0,4.0,11
+61,des moines, ia,Knockout Nails,Nail Salons,$$,4.0,50
+62,des moines, ia,Karlee Schroder At Dolce Vita Salon,Skin Care,0,5.0,1
+63,des moines, ia,Thia's Nails,Nail Salons,$$,3.0,14
+64,des moines, ia,Tips & Toes Salon,Nail Salons,$$,3.5,11
+65,des moines, ia,Signature Nails & Spa,Nail Salons,$$,3.5,16
+66,des moines, ia,XO Nails,Nail Salons,$$,3.0,11
+67,des moines, ia,Reset,Chiropractors,0,3.0,4
+68,des moines, ia,Truly Nails,Nail Salons,$$,4.0,9
+69,des moines, ia,La' James International College Salon,Massage,$$,3.0,4
+70,des moines, ia,Mercedies Nails,Waxing,$$,3.5,16
+71,des moines, ia,LH Salon,Hair Stylists,0,5.0,1
+72,des moines, ia,Elegant Nails,Nail Salons,$$,3.5,6
+73,des moines, ia,Top Nails & Spa,Nail Salons,$$,2.5,21
+74,des moines, ia,Glamour Nails & Spa,Nail Salons,$$,4.0,17
+75,des moines, ia,Level Seven Salon,Hair Salons,$$,4.0,4
+76,des moines, ia,TK Nails,Nail Salons,$$,5.0,4
+77,des moines, ia,DeLiRe Salon,Hair Salons,$$,4.0,1
+78,des moines, ia,Envision Salon Spa,Hair Salons,$$$,2.5,3
+79,des moines, ia,Serenity Couture Salon - West Glen,Waxing,$$,4.0,9
+0,wichita, ks,Serenity Spa - Massage and Advanced Aesthetics,Day Spas,$$,5.0,9
+1,wichita, ks,Bohemia Healing Spa,Massage Therapy,$$,4.5,14
+2,wichita, ks,Himalayas Spa,Day Spas,$,4.5,10
+3,wichita, ks,Beau Monde Spa and Boutique,Massage,$$$,4.5,12
+4,wichita, ks,Healing Waters,Day Spas,$$$,4.0,44
+5,wichita, ks,Beau Monde West Spa,Day Spas,$$,4.5,6
+6,wichita, ks,Remedy Massage & Spa,Massage Therapy,0,5.0,2
+7,wichita, ks,Fresh Spa Market,Massage,$$,4.5,20
+8,wichita, ks,The Pushy Goat,Day Spas,$$,5.0,4
+9,wichita, ks,TankHouse Float & Massage,Massage Therapy,0,5.0,9
+10,wichita, ks,Relax Massage & Spa,Massage Therapy,0,5.0,1
+11,wichita, ks,Opti-Life,Gyms,0,4.5,8
+12,wichita, ks,Ageless MedSpa,Medical Spas,0,5.0,1
+13,wichita, ks,Sveta's Skin & Body Therapy,Day Spas,$$$,4.0,11
+14,wichita, ks,Light and Sound Spa,Reflexology,0,5.0,6
+15,wichita, ks,China Foot Spa,Reflexology,0,5.0,9
+16,wichita, ks,SpaRenity Nails & Organics,Nail Salons,$$,4.0,65
+17,wichita, ks,Spa MD,Medical Spas,0,5.0,1
+18,wichita, ks,Kneaded Relief by Theresa,Massage Therapy,0,5.0,1
+19,wichita, ks,Progressions Salon & Day Spa,Nail Salons,$$$,4.0,9
+20,wichita, ks,Shine Salon,Hair Salons,$$,5.0,4
+21,wichita, ks,Luminous Nails and Spa,Nail Salons,$$,5.0,9
+22,wichita, ks,Trove Total Body Studio,Skin Care,$$,5.0,1
+23,wichita, ks,Salon Q,Hair Salons,$$,3.0,3
+24,wichita, ks,Hairology Salon & Spa,Hair Salons,$$,5.0,1
+25,wichita, ks,Poggi Plastic Surgery,Cosmetic Surgeons,0,5.0,4
+26,wichita, ks,"Wichita Vision Institute, P.A",Ophthalmologists,$$$,5.0,5
+27,wichita, ks,True Skin Spa,Massage,$$,3.0,2
+28,wichita, ks,Healing Pathway Therapeutic Massage,Massage,0,5.0,2
+29,wichita, ks,Avenue Style Salon,Barbers,$$,4.0,4
+30,wichita, ks,Scharenberg Chiropractic,Chiropractors,0,5.0,1
+31,wichita, ks,Therapeutic Massage Group,Massage Therapy,0,5.0,1
+32,wichita, ks,Bliss Nails,Nail Salons,$$,4.5,16
+33,wichita, ks,Derby Derm,Weight Loss Centers,$$$,3.0,4
+34,wichita, ks,Quiescence Nail Salon & Spa,Day Spas,$$,4.5,12
+35,wichita, ks,Sami Halaseh Salon,Hair Salons,$$,5.0,9
+36,wichita, ks,Deluxe Nails & Organic Spa,Nail Salons,0,4.5,7
+37,wichita, ks,Eric Fisher Salon,Skin Care,$$,4.0,32
+38,wichita, ks,Jenifer Hiebert Hairstylist,Hair Stylists,0,5.0,1
+39,wichita, ks,Holmberg Wellness Group,Chiropractors,0,5.0,4
+40,wichita, ks,Therapeutic Massage,Massage,$$,5.0,1
+41,wichita, ks,ROYAL SPA,Nail Salons,$$,2.0,12
+42,wichita, ks,Annabeth's Day Spa,Day Spas,$$,2.5,3
+43,wichita, ks,Big Apple Spa & Nails,Massage,$$,3.0,19
+44,wichita, ks,Salon Chemistry,Hair Salons,0,3.0,2
+45,wichita, ks,The Perfect Touch,Skin Care,$$,3.0,1
+46,wichita, ks,Innovative Bodywork & Massage,Massage Therapy,0,3.5,5
+47,wichita, ks,Nail Envy,Nail Salons,$$,4.5,6
+48,wichita, ks,Salon Brands,Cosmetics & Beauty Supply,0,5.0,1
+49,wichita, ks,LV Nails & Spa,Nail Salons,$$,3.5,7
+50,wichita, ks,No Coast Salon,Hair Stylists,0,5.0,2
+51,wichita, ks,Luxe Nails & Spa,Nail Salons,$$,4.5,8
+52,wichita, ks,A Massage Palace & Spa,Massage,$$,2.5,3
+53,wichita, ks,ABLS a Paul Mitchell Salon,Hair Salons,$$,3.5,14
+54,wichita, ks,Innovative Vein,Medical Spas,0,1.5,2
+55,wichita, ks,Sage Sisters,Massage Therapy,0,2.5,3
+56,wichita, ks,Vip Nail Salon,Nail Salons,$$,4.0,15
+57,wichita, ks,Hair Xperteez,Hair Salons,0,5.0,1
+58,wichita, ks,La Posh,Nail Salons,$$,5.0,4
+59,wichita, ks,Elegant Nails,Nail Salons,$$,3.5,9
+60,wichita, ks,Glamour Nails,Nail Salons,$$,3.5,15
+61,wichita, ks,Lux Nail Studio,Nail Salons,$$,4.0,7
+62,wichita, ks,Eric Fisher Salon,Hair Salons,$$$,4.0,3
+63,wichita, ks,Accent On You Medical Spa,Day Spas,0,2.0,1
+64,wichita, ks,Nails Today,Nail Salons,$$,2.0,7
+65,wichita, ks,Advanced Nails,Nail Salons,0,2.5,3
+66,wichita, ks,Wilborn Hair Co,Hair Stylists,$$,2.0,3
+67,wichita, ks,Advanced Wellness & Rehab,Chiropractors,0,3.0,4
+68,wichita, ks,Luxury Nails & Spa Pedicure,Nail Salons,$$,2.5,8
+69,wichita, ks,The Nail Lounge & Spa,Nail Salons,$$,3.0,6
+70,wichita, ks,Bellagio Nail Spa,Nail Salons,$,2.5,5
+71,wichita, ks,Supercuts,Hair Salons,0,2.5,3
+72,wichita, ks,Bella Chic Nail Salon & Spa,Nail Salons,$$,2.5,9
+73,wichita, ks,Noell Shaw Salon & Spa,Hair Salons,0,1.0,1
+74,wichita, ks,Solace Nails and Spa,Massage,$,3.5,9
+75,wichita, ks,Tips & Toes,Nail Salons,$$,2.0,29
+76,wichita, ks,Nails By Emily,Nail Salons,$$,2.5,7
+77,wichita, ks,Sunshine Nail Salon,Nail Salons,$$,3.5,16
+78,wichita, ks,Massage Envy - Wichita East,Massage,$$,3.5,6
+79,wichita, ks,Amazing Salon,Nail Salons,$$,2.0,14
+0,lafayette, la,Rose Petal Spa,Day Spas,$,5.0,1
+1,lafayette, la,Riverspa,Day Spas,$$$,4.0,5
+2,lafayette, la,PascaleSpa,Massage,0,4.5,6
+3,lafayette, la,Spa Mizan,Massage,$$$,3.5,15
+4,lafayette, la,Sun Massage,Massage,$$,4.5,12
+5,lafayette, la,Thai Herbal Spa & Salon,Day Spas,$$,4.5,7
+6,lafayette, la,Lux Spa,Day Spas,$$,3.5,9
+7,lafayette, la,O2 Face and Body,Eyelash Service,0,4.5,3
+8,lafayette, la,Ashero Spa,Massage,0,5.0,5
+9,lafayette, la,Crystal Spa,Float Spa,0,5.0,1
+10,lafayette, la,Elite Nails and Spa,Day Spas,$$,4.5,23
+11,lafayette, la,Refinery Downtown,Hair Salons,$$,4.5,11
+12,lafayette, la,Louisiana Massage Therapy Clinic,Massage Therapy,0,5.0,1
+13,lafayette, la,"Johnathan N Hebert, LMT -  Muscular Therapy",Massage Therapy,0,5.0,1
+14,lafayette, la,Salon Nv,Hair Salons,$$,5.0,7
+15,lafayette, la,Sun Massage Youngsville,Massage Therapy,0,5.0,1
+16,lafayette, la,Dao Massage,Massage Therapy,0,4.0,3
+17,lafayette, la,Delatte Plastic Surgery and Skin Care Specialists,Skin Care,0,5.0,1
+18,lafayette, la,Studio One 2 One,Hair Removal,0,5.0,3
+19,lafayette, la,Mon Rêve Salon,Makeup Artists,$$,3.5,8
+0,baltimore, md,Spa Adagio,Massage Therapy,$$,5.0,47
+1,baltimore, md,Spa at Four Seasons Hotel,Day Spas,$$$$,4.0,92
+2,baltimore, md,Zen And The City,Massage,$$,5.0,31
+3,baltimore, md,Ojas Massage & Skin Care,Skin Care,$$$,4.5,42
+4,baltimore, md,Inspire Nail Bar & Spa,Nail Salons,$$,4.5,57
+5,baltimore, md,Vita Revive,Day Spas,$$,4.0,64
+6,baltimore, md,Woodberry Wellness,Acupuncture,0,5.0,9
+7,baltimore, md,Honey & Co Boutique Spa,Hair Salons,0,4.0,5
+8,baltimore, md,Ash + Oak Salon and Spa,Hair Salons,$$,4.5,50
+9,baltimore, md,The Loft Bodywork Collective,Massage Therapy,0,4.5,16
+10,baltimore, md,Indu Massage and Wellness,Massage Therapy,$$,4.5,23
+11,baltimore, md,Simple Wellness,Massage,$$,4.5,41
+12,baltimore, md,Canton Square Massage,Massage,$,4.5,14
+13,baltimore, md,Live! Spa,Day Spas,0,4.0,8
+14,baltimore, md,Paradise Spa,Massage,$,5.0,12
+15,baltimore, md,Studio 921 Salon & Spa,Hair Salons,$$$,4.5,125
+16,baltimore, md,Well-Being Massage Studio and Spa,Skin Care,$$,4.5,173
+17,baltimore, md,About Faces Day Spa & Salon,Hair Salons,$$$,4.0,106
+18,baltimore, md,Zensations Apothecary,Massage Therapy,0,5.0,9
+19,baltimore, md,Art of Balance Wellness Spa,Acupuncture,0,5.0,1
+20,baltimore, md,Sominbo Wellness,Massage Therapy,0,5.0,8
+21,baltimore, md,Aruba Sun and Spa,Tanning,$,4.5,15
+22,baltimore, md,MV Nails and Spa,Nail Salons,$$,4.0,104
+23,baltimore, md,"The Well... Massage, Acupuncture and Community Acupuncture",Massage,$$,4.0,11
+24,baltimore, md,Rachel Sheffel Massage & Wellness,Massage,$,5.0,3
+25,baltimore, md,Healthy Magic,Massage,$$,4.5,8
+26,baltimore, md,Mt Vernon Nails and Spa,Nail Salons,$$,4.5,67
+27,baltimore, md,The Massage Boutique,Massage Therapy,$$,4.5,24
+28,baltimore, md,Mend Acupuncture,Acupuncture,0,4.5,12
+29,baltimore, md,Live Well Be Well,Massage Therapy,0,5.0,15
+30,baltimore, md,Serenity Wellness Studio,Massage,$$,4.5,12
+31,baltimore, md,Indigo Physiotherapy,Physical Therapy,0,5.0,3
+32,baltimore, md,Indu Wellness,Skin Care,0,4.5,2
+33,baltimore, md,Body & Soul Salon &Spa,Day Spas,$$,5.0,3
+34,baltimore, md,Metta Integrative Wellness Center,Massage,$$,4.5,30
+35,baltimore, md,Athena Nails & Spa,Nail Salons,$$,4.0,246
+36,baltimore, md,Tighten Body Bar,Medical Spas,$$,5.0,4
+37,baltimore, md,Serenity Nails Salon,Nail Salons,0,4.5,9
+38,baltimore, md,Monica's Salon & Spa,Hair Salons,$$,4.0,17
+39,baltimore, md,About Faces Day Spa & Salon,Day Spas,$$,4.0,40
+40,baltimore, md,AMB Mobile Massage,Massage,$$,5.0,1
+41,baltimore, md,Chi Wellness Cosmetics,Massage Therapy,0,5.0,1
+42,baltimore, md,"Michelle K Shaw, LMT",Massage,$$,5.0,13
+43,baltimore, md,Zina's Day Spa and Salon,Day Spas,$$,3.5,84
+44,baltimore, md,Salon Kevin,Hair Salons,$,5.0,1
+45,baltimore, md,Sensations Therapy,Reflexology,0,3.0,2
+46,baltimore, md,Apsara Day Spa,Day Spas,$$,4.0,4
+47,baltimore, md,Indulgence,Hair Salons,$$$$,5.0,3
+48,baltimore, md,More Hair Studio and Spa,Hair Salons,$$,4.5,7
+49,baltimore, md,Spa On The Avenue A Salon by Debbie Spa,Hair Salons,$$,3.0,50
+50,baltimore, md,Elements Massage - Timonium,Massage Therapy,$$,4.5,34
+51,baltimore, md,Rejuvenated Spa & Fitness,Day Spas,$$,2.5,3
+52,baltimore, md,Waypoint Integrative Health,Acupuncture,0,5.0,1
+53,baltimore, md,Soirée Salon,Hair Salons,$$,4.5,22
+54,baltimore, md,Diana's European Skin Care,Skin Care,$$$,4.5,8
+55,baltimore, md,Dipa Threading & Day Spa,Threading Services,$,4.5,42
+56,baltimore, md,Oriental Spa,Skin Care,$$,1.0,3
+57,baltimore, md,Bella Foundry Row Nail Salon & Spa,Nail Salons,$$,4.0,141
+58,baltimore, md,Tranquili Chi Center,Massage,$$,5.0,5
+59,baltimore, md,Wellness Today Spa,Massage,0,5.0,2
+60,baltimore, md,Sassy Hair Salon,Hair Salons,$$,5.0,6
+61,baltimore, md,Bikram Yoga Catonsville,Yoga,0,5.0,4
+62,baltimore, md,About Faces Day Spa & Salon,Hair Salons,$$$,3.5,53
+63,baltimore, md,The Velvet Rose,Hair Salons,0,5.0,1
+64,baltimore, md,Polished Nails & Hair,Nail Salons,$$,4.0,85
+65,baltimore, md,Sapa Massage Studio,Massage,$$,5.0,6
+66,baltimore, md,Diaspora Salon,Hair Salons,$$$,4.0,77
+67,baltimore, md,Make Up Cafe & Spa - located inside Chelle’s Creative Image,Day Spas,0,5.0,1
+68,baltimore, md,Adams Rolfing,Massage Therapy,0,5.0,3
+69,baltimore, md,Harbor Nails & Spa,Nail Salons,$$,4.0,54
+70,baltimore, md,"Christina Marshall,  LMT",Massage Therapy,0,5.0,1
+71,baltimore, md,Get Nailed Salon,Nail Salons,$,1.5,5
+72,baltimore, md,The Art of Bodywork,Massage Therapy,0,4.0,4
+73,baltimore, md,Tamar Jacobs Private Bodywork Massage Yoga,Massage,0,5.0,1
+74,baltimore, md,Style Lab,Hair Salons,$$,5.0,5
+75,baltimore, md,Canton Chiropractic and Physical Therapy,Physical Therapy,0,5.0,5
+76,baltimore, md,Sunlight Natural Health,Acupuncture,0,3.5,3
+77,baltimore, md,Usha Salon And Day Spa,Hair Salons,$$,3.5,69
+78,baltimore, md,Bodywork Massage Studios,Massage,$$,5.0,14
+79,baltimore, md,QQ Nails & Spa,Nail Salons,$$,3.5,103
+80,baltimore, md,Wind Gate Natural Wellness,Massage Therapy,0,5.0,1
+81,baltimore, md,Fringe Baltimore,Hair Salons,$$,4.5,29
+82,baltimore, md,The Beauty Bar 402,Hair Salons,$$,4.5,9
+83,baltimore, md,Jeremy Braverman,Acupuncture,0,5.0,1
+84,baltimore, md,Salon D Renee,Hair Salons,$$,4.5,39
+85,baltimore, md,Smoke+Mirrors Handcrafted Hair,Hair Salons,$$,4.5,30
+86,baltimore, md,Naturally Chic Salon,Hair Salons,$$,5.0,9
+87,baltimore, md,Michael's Signature Salon,Hair Salons,0,5.0,1
+88,baltimore, md,Giuseppe's Hair Studio,Hair Salons,$$,4.5,3
+89,baltimore, md,The Mandala Center,Psychologists,0,3.0,4
+90,baltimore, md,Flair Hair Salon and Barbershop,Makeup Artists,0,4.0,1
+91,baltimore, md,ManiLuxe Nail Care and Spa,Day Spas,$$,2.5,61
+92,baltimore, md,Charm City Hair Studio,Hair Salons,$$,5.0,8
+93,baltimore, md,Sustainability Wellness,Massage Therapy,0,5.0,3
+94,baltimore, md,D'Tati Dominican Hair Salon,Hair Salons,$$,4.5,11
+95,baltimore, md,Margo Landon Therapeutic Massage,Massage,$$,5.0,1
+96,baltimore, md,Charming Lounge Nails Spa,Nail Salons,0,4.5,7
+97,baltimore, md,"Steven J Rottman, MD",Plastic Surgeons,$$$,4.0,14
+98,baltimore, md,Lawndale Nail Salon,Nail Salons,$$,4.5,37
+99,baltimore, md,PY Nail Bar and Spa,Nail Salons,$$,3.5,62
+100,baltimore, md,LUSH 35,Hair Salons,$$,4.5,54
+101,baltimore, md,Looks Salon & Spa,Hair Salons,$$,4.0,96
+102,baltimore, md,Flaunt Hair Boutique,Hair Salons,$$,4.5,51
+103,baltimore, md,Social Fit Wellness,Yoga,0,4.5,3
+104,baltimore, md,Electa's Touch Massage,Reflexology,0,5.0,4
+105,baltimore, md,Babylon Nails and Spa,Nail Salons,$$,3.0,31
+106,baltimore, md,Richa's Threading Salon & Spa,Hair Salons,$,4.5,42
+107,baltimore, md,Angel Touch Massage Spa,Reflexology,$$,3.5,10
+108,baltimore, md,Happy Nail & Spa,Nail Salons,0,5.0,2
+109,baltimore, md,Nail Fetish Salon,Nail Salons,$$,3.5,8
+110,baltimore, md,Simple Gifts Massage Studio,Massage,0,5.0,6
+111,baltimore, md,"Adam L Basner, MD, FACS",Cosmetic Surgeons,0,4.5,18
+112,baltimore, md,Pamper Me 1st,Reflexology,0,1.0,2
+113,baltimore, md,Stellar B Salon,Hair Salons,$$,4.5,10
+114,baltimore, md,Deja Vu Salon and Spa,Hair Salons,$$,4.0,4
+115,baltimore, md,Soul Love Salon,Makeup Artists,0,5.0,4
+116,baltimore, md,Bella Tresse Salon,Hair Salons,$$,4.5,5
+117,baltimore, md,Form Salon,Hair Salons,$$,5.0,6
+118,baltimore, md,Key Ellements,Massage,0,5.0,2
+119,baltimore, md,Nail Trix and Spa,Nail Salons,0,3.0,14
+120,baltimore, md,Freedom Foot Spa,Massage,$,3.5,8
+121,baltimore, md,N'deba Professional African Hair Braiding,Hair Salons,0,3.0,1
+122,baltimore, md,Lotus Shiatsu Salon,Reiki,0,4.0,1
+123,baltimore, md,Alleen's Hair Focus,Hair Salons,0,4.0,1
+124,baltimore, md,Luxury Nails & Spa,Nail Salons,$$,3.5,26
+125,baltimore, md,Elements Salon & Wellness Spa,Hair Salons,0,3.5,3
+126,baltimore, md,The Beauty Co salon & Blowdry Boutique,Blow Dry/Out Services,0,3.5,11
+127,baltimore, md,Center for Cosmetic Surgery & Medispa,Medical Spas,0,5.0,3
+128,baltimore, md,Weave Express,Hair Salons,$$,2.5,7
+129,baltimore, md,Fitz Hair Studio,Hair Salons,0,5.0,3
+130,baltimore, md,Salon L,Hair Salons,$$,5.0,4
+131,baltimore, md,D'Angelette Studio & Fashion Design,Hair Salons,$$,5.0,10
+132,baltimore, md,"Erin E Devlin, MAc LAc ,LMT",Acupuncture,0,5.0,3
+133,baltimore, md,Serena Rose Styles,Makeup Artists,$$,5.0,11
+134,baltimore, md,Baci's Hair & Nail Studio,Massage,0,5.0,1
+135,baltimore, md,Nay Nicole,Nail Salons,$$,5.0,3
+136,baltimore, md,Susan Miller Massage Therapy,Massage Therapy,0,5.0,1
+137,baltimore, md,Fells Point Salon,Hair Salons,$$,4.0,24
+138,baltimore, md,Howard County Massage in Motion,Massage Therapy,0,5.0,2
+139,baltimore, md,S & A Massage,Massage Therapy,0,3.0,2
+140,baltimore, md,Monica Reisse Massage,Massage Therapy,0,4.0,4
+141,baltimore, md,Avalon Yoga and Wellness Center,Yoga,0,4.0,2
+142,baltimore, md,Firefly Hollow  Wellness,Massage Therapy,0,4.0,2
+143,baltimore, md,Myriam Nails,Nail Salons,$$,4.5,31
+144,baltimore, md,Anointed Handz,Massage,0,4.0,3
+145,baltimore, md,Fetish 4 Hair,Hair Salons,$$,4.0,3
+146,baltimore, md,Lucy's Salon,Hair Stylists,0,5.0,5
+147,baltimore, md,Lovely Nails & Spa,Nail Salons,$$,4.0,28
+148,baltimore, md,NV Nail Up & Spa,Nail Salons,0,3.0,9
+149,baltimore, md,Sexy Nails,Nail Salons,0,2.5,20
+150,baltimore, md,Longevity Medical Spa,Medical Spas,0,5.0,1
+151,baltimore, md,Toscana Medispa,Medical Spas,0,1.0,1
+152,baltimore, md,Lilly MaRitza Salon & Gallery,Hair Salons,$$$,4.5,3
+153,baltimore, md,Feel Beautiful,Naturopathic/Holistic,$$$,4.0,49
+154,baltimore, md,Umbertos,Hair Salons,0,5.0,2
+155,baltimore, md,Bubbles Salon- Towson,Hair Salons,$$,4.0,91
+156,baltimore, md,Rolfing By Dawn St. Clair,Massage Therapy,0,5.0,1
+157,baltimore, md,Sun Nails & Spa,Day Spas,$$$,4.0,12
+158,baltimore, md,WellQuest Massage,Massage Therapy,0,3.0,2
+159,baltimore, md,DMS Salon,Hair Salons,$$$,4.5,16
+160,baltimore, md,Salon & Spa Kids,Hair Salons,$$,3.5,10
+161,baltimore, md,Relaxing Moments,Massage,0,2.5,3
+162,baltimore, md,Luxe Nail Lounge,Nail Technicians,0,4.5,5
+163,baltimore, md,Future Nails,Nail Salons,$$,4.0,126
+164,baltimore, md,Queen Nail Salon,Nail Salons,$$,3.0,13
+165,baltimore, md,The Salon,Hair Stylists,$$,3.5,3
+166,baltimore, md,Hand & Stone Massage and Facial Spa,Massage,$$,3.0,23
+167,baltimore, md,Polish'd Nail Salon,Nail Salons,$$,4.5,131
+168,baltimore, md,Crafted Hair Studio,Hair Salons,$$,4.5,100
+169,baltimore, md,Lavender Nails & Spa,Nail Salons,$$,4.0,74
+170,baltimore, md,Mia Sorella Nail Studio,Nail Salons,$$,4.5,15
+171,baltimore, md,The Purple Peach Nail Weave & Lash Bar,Nail Salons,$$,3.0,38
+172,baltimore, md,Relache' Salon & Spa,Day Spas,$$,5.0,1
+173,baltimore, md,Spartea,Party & Event Planning,0,2.0,2
+174,baltimore, md,Ideal Image Towson,Laser Hair Removal,$$$$,2.5,22
+175,baltimore, md,Image Is... Salon,Hair Salons,$$,4.5,45
+176,baltimore, md,Marek's Salon,Nail Salons,0,4.5,2
+177,baltimore, md,Lucky One Nail Salon,Nail Salons,$,3.5,10
+178,baltimore, md,"Sharon L. Dulaney, RMP",Massage Therapy,0,3.5,5
+179,baltimore, md,"Intuitive Massage, LLC",Massage Therapy,0,5.0,1
+180,baltimore, md,Head To Head Salon,Hair Salons,$$,4.0,5
+181,baltimore, md,Massage Envy - Rotunda,Massage,$$,3.5,25
+182,baltimore, md,Nails First,Nail Salons,0,4.0,6
+183,baltimore, md,Top Dominican Hair Salon,Hair Salons,$$,3.0,22
+184,baltimore, md,Art of Hair Studio,Hair Salons,0,4.0,5
+185,baltimore, md,The Rare Touch,Massage,$$,1.5,9
+186,baltimore, md,Nail Candy Shop,Nail Salons,$$,4.0,54
+187,baltimore, md,Nina's Nails,Nail Salons,0,1.5,5
+188,baltimore, md,Anne Arundel Dermatology,Dermatologists,0,2.5,6
+189,baltimore, md,DNA Nails,Nail Salons,$,3.5,9
+190,baltimore, md,Hi-Tek Nails,Nail Salons,$$,3.5,19
+191,baltimore, md,Blush Nail Lounge,Nail Salons,$$,3.5,48
+192,baltimore, md,Clip Art Hair Design,Hair Salons,$$,4.5,23
+193,baltimore, md,Elizabeth's Dominican Hair Salon,Hair Salons,$$,1.0,2
+194,baltimore, md,Create the Beautiful Salon,Hair Salons,0,2.5,2
+195,baltimore, md,Christina Josephs Salon Studio,Hair Salons,$$,4.5,76
+196,baltimore, md,Paradise Salon & Day Spa,Hair Salons,$$,2.5,30
+197,baltimore, md,Roxys Classic Salon,Hair Salons,0,5.0,1
+198,baltimore, md,Massage Envy - Federal Hill-Locust Point,Massage,$$,3.5,45
+199,baltimore, md,Lee Nails,Nail Salons,0,2.5,3
+200,baltimore, md,Flow Dominican Salon,Hair Stylists,$$,1.5,8
+201,baltimore, md,Hair Gallery II,Hair Salons,0,3.5,3
+202,baltimore, md,Lotus Nails & Spa,Nail Salons,$$$,3.5,12
+203,baltimore, md,Nail Station,Nail Salons,$$,5.0,7
+204,baltimore, md,Canton Nails,Nail Salons,$$,3.5,30
+205,baltimore, md,Z Image,Hair Salons,0,5.0,1
+206,baltimore, md,All Nails II,Nail Salons,$$,3.5,9
+207,baltimore, md,Good Vibrations,Massage,0,1.0,3
+208,baltimore, md,Impressions Hair Studio,Hair Salons,$$,3.5,6
+209,baltimore, md,Nails Care & Spa,Nail Salons,$,3.5,3
+210,baltimore, md,Nursery Nails,Nail Salons,$$,3.5,26
+211,baltimore, md,La'Sonia Nicole Salon & Spa,Day Spas,$$,2.0,13
+212,baltimore, md,Hair By Elite,Hair Salons,$$,4.5,7
+213,baltimore, md,Salon Plaza - Rosedale,Hair Salons,0,5.0,1
+214,baltimore, md,Teresa's Beauty Salon,Hair Salons,$$,3.0,8
+215,baltimore, md,Isis Magical Makeovers,Hair Salons,$$,3.0,2
+216,baltimore, md,Coco Nail Bar,Nail Salons,$$,3.5,54
+217,baltimore, md,Aqua Bellagio,Nail Salons,$$,2.0,17
+218,baltimore, md,Ccbc Essex Robert Heitzer,Massage,0,1.0,1
+219,baltimore, md,Julia Dominican Hair Salons,Hair Salons,$$,3.0,20
+220,baltimore, md,Pro Nails & Spa,Nail Salons,$$,3.0,79
+221,baltimore, md,The Lavender Lotus Wellness Spa,Massage,$$$,1.5,7
+222,baltimore, md,LV's Hair Studio,Hair Salons,$$,4.0,10
+223,baltimore, md,Semak Massage Therapy,Massage Therapy,0,1.0,2
+224,baltimore, md,A New You Salon,Hair Salons,$$,4.5,3
+225,baltimore, md,Nail Trix & Spa,Nail Salons,$$,2.0,18
+226,baltimore, md,Nail Trix & Spa,Nail Salons,$$,2.0,76
+227,baltimore, md,JJ Dominican Beauty Salon,Hair Salons,$$,3.0,7
+228,baltimore, md,Dakota Salon,Hair Salons,$$,4.5,24
+229,baltimore, md,Tip & Toe Nail,Nail Salons,$$,3.0,13
+230,baltimore, md,Cookie Cutters Haircuts for Kids,Kids Hair Salons,$$,3.5,28
+231,baltimore, md,Nail Trix & Spa,Nail Salons,$$,2.0,68
+232,baltimore, md,Kim's Nails and Spa,Nail Salons,$$,3.0,35
+233,baltimore, md,Nails Quest,Nail Salons,0,2.5,13
+234,baltimore, md,Polishes Nail & spa,Nail Salons,$,3.0,12
+235,baltimore, md,Sonny Nails,Nail Salons,$$,1.5,6
+236,baltimore, md,Phillip Michael Studio,Hair Salons,$$$,4.0,10
+237,baltimore, md,New York Dominican Salon,Hair Salons,$$,3.0,13
+238,baltimore, md,All Nails,Nail Salons,$$,3.0,17
+239,baltimore, md,Metro Nails & Spa,Nail Salons,$$,3.0,52
+240,baltimore, md,Kenwood Nails,Nail Salons,$$,3.0,17
+241,baltimore, md,Spa #1 Nails,Nail Salons,$$,3.5,50
+242,baltimore, md,Journeys Holistic Health & Wellness Center,Naturopathic/Holistic,0,3.0,2
+243,baltimore, md,The Foot Spa At We Treat Feet,Medical Spas,$$,1.5,9
+244,baltimore, md,Fancier Nails & Spa,Nail Salons,$$,3.0,42
+245,baltimore, md,Vivid Salon,Hair Salons,$$,4.0,30
+246,baltimore, md,Lovely Nails,Nail Salons,$,3.0,16
+247,baltimore, md,Ideal Image Arundel Mills,Laser Hair Removal,$$$$,2.0,40
+248,baltimore, md,Lee Nails,Nail Salons,$$,3.0,36
+249,baltimore, md,Majestic Braiding,Hair Extensions,$$$,3.5,25
+250,baltimore, md,Nail Splash & Foot Spa,Nail Salons,$$,3.0,37
+251,baltimore, md,Massage Envy - White Marsh,Massage,$,3.5,14
+252,baltimore, md,Beauty Touch Hair & Nails,Hair Salons,$$,4.0,12
+253,baltimore, md,Gem's Nail and Spa,Nail Salons,$$,4.5,7
+254,baltimore, md,Le Le Nails,Nail Salons,$$,4.0,21
+255,baltimore, md,Medi Spa Pros,Medical Spas,$$$,1.5,12
+256,baltimore, md,Evada Hair Bar,Hair Salons,$$,4.0,35
+257,baltimore, md,Le's Nail & Spa,Nail Salons,$$,3.0,69
+258,baltimore, md,VOX Nails Spa,Nail Salons,$$,3.0,44
+259,baltimore, md,Elite Nails & Spa,Nail Salons,$$,2.0,8
+260,baltimore, md,Nail Beauty Salon,Nail Salons,$$,4.0,27
+261,baltimore, md,Nail Pro,Nail Salons,$$,3.0,14
+262,baltimore, md,Star Nails Salon,Nail Salons,$$,3.5,7
+263,baltimore, md,Helen's Nails & Spa,Waxing,$$,4.0,34
+264,baltimore, md,All Nail & Spa,Nail Salons,$$,3.0,15
+265,baltimore, md,Nail Trix & Spa,Nail Salons,$$,2.0,26
+266,baltimore, md,Elegant Nail Spa,Nail Salons,$$,3.5,62
+267,baltimore, md,Pathways Massage,Massage,$$,5.0,5
+268,baltimore, md,Elite Dominican Hair Studio,Hair Salons,$$,3.5,7
+269,baltimore, md,US Nails,Nail Salons,$,2.0,14
+270,baltimore, md,US Nails,Nail Salons,$$$,1.5,6
+271,baltimore, md,Pro Nail,Nail Salons,$$,3.0,26
+272,baltimore, md,Ecosse Salon,Hair Salons,$$$,3.0,14
+273,baltimore, md,P & W Nail Spa,Nail Salons,$$,3.0,6
+274,baltimore, md,Maxx Hair Studio,Hair Salons,$$$,4.5,19
+275,baltimore, md,A-1 Nails,Nail Salons,$,1.5,17
+276,baltimore, md,Tiffany Nails & Spa,Nail Salons,$$,3.5,35
+277,baltimore, md,Nail Splash II,Nail Salons,$$,2.5,17
+278,baltimore, md,Queen's Nail II Salon,Nail Salons,$$,3.5,22
+279,baltimore, md,Nails For You,Nail Salons,$,2.5,7
+280,baltimore, md,Nail Creations,Nail Salons,$$,3.5,32
+281,baltimore, md,Skin Secrets Medspa,Medical Spas,$$,1.0,17
+282,baltimore, md,Nails By Ken,Nail Salons,$,1.5,11
+283,baltimore, md,Dream Nails,Nail Salons,$,3.0,8
+284,baltimore, md,Nails Today,Nail Salons,$$,2.0,26
+285,baltimore, md,Diva Nails,Nail Salons,$$,1.5,8
+286,baltimore, md,Kim's Nail Care,Nail Salons,$$,3.5,13
+287,baltimore, md,Shear Joy Hair Salon,Hair Salons,$$,1.0,3
+288,baltimore, md,Protips Nails & Spa,Nail Salons,$$,3.0,26
+289,baltimore, md,Ahh Nails,Nail Salons,$$,3.5,26
+290,baltimore, md,Melessa's Ultimate Hair Design,Hair Extensions,$$$$,2.0,8
+291,baltimore, md,La Rouge Nails,Nail Salons,$$,3.5,15
+292,baltimore, md,Unique Nails & Spa,Nail Salons,$$,2.5,7
+293,baltimore, md,Lux Nails Spa,Waxing,$$,3.0,16
+294,baltimore, md,Braiding House At Security Mall,Hair Extensions,$$$$,2.0,41
+295,baltimore, md,AMC NAILS,Nail Salons,$$,2.5,17
+296,baltimore, md,Tasteful Tresses,Hair Salons,$$$$,1.0,6
+297,baltimore, md,Venetian Nails & Spa,Nail Salons,$$,3.0,11
+298,baltimore, md,African Hair Braiding Group Salon,Hair Salons,$$$,2.0,5
+299,baltimore, md,Ruby Nails II,Nail Salons,$$,3.5,13
+0,worcester, ma,Wonderful Day Spa,Day Spas,$$,4.5,34
+1,worcester, ma,Tu Moda,Massage,$$,3.5,51
+2,worcester, ma,Revitalize Massage and Yoga,Yoga,0,5.0,29
+3,worcester, ma,Release Well-being Center,Yoga,$$$$,4.5,51
+4,worcester, ma,Lindsay Taylor SPAtique,Day Spas,$$,5.0,42
+5,worcester, ma,Essential Aesthetics,Day Spas,$$$,5.0,5
+6,worcester, ma,Kalis Day Spa,Skin Care,$$,5.0,16
+7,worcester, ma,Detox Shop and Spa,Day Spas,0,5.0,2
+8,worcester, ma,Couture Nails & Spa,Waxing,$$,4.0,96
+9,worcester, ma,Bellissima Day Spa,Day Spas,$$,4.0,5
+10,worcester, ma,Nicholas Michaels Spa,Day Spas,$$$,4.0,52
+11,worcester, ma,Asian Therapy & Spa Center,Medical Spas,$$,5.0,1
+12,worcester, ma,Asian Reflexology & Acupressure,Massage,0,5.0,5
+13,worcester, ma,Truth Organic Spa,Skin Care,$$,4.0,17
+14,worcester, ma,Massage Ultra,Massage,$$,4.0,44
+15,worcester, ma,Invidium Salon & Spa,Hair Salons,$$$$,4.5,3
+16,worcester, ma,Silver Leaf Spa,Day Spas,$$,5.0,6
+17,worcester, ma,Chaba Day Spa,Day Spas,$$,4.0,14
+18,worcester, ma,Thomas Rothwell Spa,Day Spas,$$$,5.0,7
+19,worcester, ma,Metta Wellness,Massage Therapy,0,5.0,8
+20,worcester, ma,Tia's Hair Studio,Hair Salons,$$,4.0,14
+21,worcester, ma,Orange Salon,Hair Salons,$$$,4.0,40
+22,worcester, ma,The Body Fixx,Massage Therapy,0,5.0,9
+23,worcester, ma,Cloud Mountain massage and bodywork,Massage Therapy,0,4.5,10
+24,worcester, ma,Health & Healing Massage Therapy,Massage Therapy,0,5.0,2
+25,worcester, ma,Vonderful Hair & Nail Salon,Hair Salons,$$,5.0,12
+26,worcester, ma,Sakura Shiatsu Massage,Massage Therapy,0,5.0,1
+27,worcester, ma,Paul Conzo Day Spa & Hair Salon,Day Spas,$$,4.0,49
+28,worcester, ma,Healing Angels Bodywork,Massage,$$,4.5,8
+29,worcester, ma,Metta Wellness,Massage,0,5.0,2
+30,worcester, ma,Massage & Aesthetics I,Massage Therapy,$$,5.0,2
+31,worcester, ma,Anjali Skin Care Studio,Skin Care,$$,5.0,3
+32,worcester, ma,Salon Exquisite,Hair Salons,$$,4.5,25
+33,worcester, ma,Piel Skin Boutique,Skin Care,$$$,4.0,14
+34,worcester, ma,Aponi Aesthetics,Medical Spas,$$,5.0,3
+35,worcester, ma,Pro Dimensions Hair Design,Hair Salons,$$,4.5,20
+36,worcester, ma,Lush Nail Lounge,Waxing,0,4.5,36
+37,worcester, ma,Salon 101,Hair Stylists,$$$$,4.0,5
+38,worcester, ma,Feiz Muscular Therapy and Fitness,Massage Therapy,0,5.0,2
+39,worcester, ma,Skin Dermatology,Dermatologists,0,4.5,8
+40,worcester, ma,Sage & Grace An Organic Salon,Eyebrow Services,$$,5.0,14
+41,worcester, ma,Madhu's Salon & Spa,Hair Salons,0,4.0,7
+42,worcester, ma,Cloud Nine Massage Therapy,Massage Therapy,0,5.0,1
+43,worcester, ma,Deep Relief Massage Therapy,Massage,$$,4.0,9
+44,worcester, ma,Acupuncture Associates of Worcester,Acupuncture,$$,5.0,1
+45,worcester, ma,Health Spa,Massage,0,5.0,1
+46,worcester, ma,StarSeed Day Spa,Day Spas,$$,4.0,9
+47,worcester, ma,Euphoria Day Spa,Skin Care,$$$,4.0,2
+48,worcester, ma,Sorelle,Nail Salons,0,4.0,4
+49,worcester, ma,The Salon and Spa At Glow,Hair Salons,0,4.5,7
+50,worcester, ma,Happy Nails & Spa,Nail Salons,$$,4.0,12
+51,worcester, ma,Belle Beauty By Liz Maguire,Waxing,0,5.0,1
+52,worcester, ma,Christopher C's Massage Therapy,Massage Therapy,0,5.0,1
+53,worcester, ma,Jesamondo Salon & Spa,Hair Salons,$$,4.5,66
+54,worcester, ma,Cherry Nails,Nail Salons,$,3.5,44
+55,worcester, ma,Polished Nails and Spa,Nail Salons,0,3.5,9
+56,worcester, ma,Creative Nails & Spa - Worcester,Nail Salons,$$$,2.5,56
+57,worcester, ma,Enjoy Holistic Healing,Massage,$,2.5,11
+58,worcester, ma,Capelli Avanti,Hair Salons,$$,4.0,41
+59,worcester, ma,Regal Nails Salon and Spa,Nail Salons,$,3.5,11
+60,worcester, ma,Serenity Organic Hair Studio,Hair Salons,0,5.0,1
+61,worcester, ma,Beauty Queens an Organic Salon,Hair Salons,0,4.0,4
+62,worcester, ma,Untamed Salon and Spa,Hair Salons,$$,4.5,16
+63,worcester, ma,Sun Kissed Tan and Spa,Nail Salons,0,4.0,5
+64,worcester, ma,Rob Roy Hair Salons - Shrewsbury,Hair Salons,$$$,4.5,3
+65,worcester, ma,Ulta Beauty,Cosmetics & Beauty Supply,0,2.5,3
+66,worcester, ma,Tip Top Nails & Spa,Nail Salons,$$$,3.0,10
+67,worcester, ma,Usha Beauty Salon,Skin Care,$$,4.0,20
+68,worcester, ma,Supercuts,Hair Salons,$,3.5,12
+69,worcester, ma,J&J Nails & Spa,Nail Salons,$$,4.0,56
+70,worcester, ma,126 Post Salon Spa,Hair Salons,$$,4.0,13
+71,worcester, ma,Hot Set Hair Studio,Hair Salons,$$$,4.5,16
+72,worcester, ma,"Amanda Bourbeau, LMT",Massage,0,3.0,2
+73,worcester, ma,Elegant Nails and Spa,Nail Salons,$$,3.5,23
+74,worcester, ma,Conscious Touch Massage Therapy,Massage Therapy,0,5.0,6
+75,worcester, ma,Watercolor Salon,Hair Salons,0,5.0,1
+76,worcester, ma,California Nail & Spa,Skin Care,$$,4.0,14
+77,worcester, ma,Pro Nails Plus,Nail Salons,$$,3.5,6
+78,worcester, ma,Fingers & Toes,Nail Salons,$$,3.0,8
+79,worcester, ma,Salon 4D,Blow Dry/Out Services,$$$,3.5,4
+80,worcester, ma,Hannah's Nails,Nail Salons,$,4.5,6
+81,worcester, ma,Westborough Acupuncture and Massage Therapy,Acupuncture,0,5.0,1
+82,worcester, ma,Mamas n Divas,Nail Salons,$$,3.5,18
+83,worcester, ma,Lord's & Lady's Salon,Hair Salons,$$$,4.5,10
+84,worcester, ma,Jacques Threading & Waxing,Day Spas,$,2.5,13
+85,worcester, ma,Salon Richard Anthony,Hair Salons,0,5.0,5
+86,worcester, ma,Worcester Salon & Spa,Barbers,$$,3.5,2
+87,worcester, ma,Jeffrey Robert Salon,Hair Salons,0,3.5,9
+88,worcester, ma,Shear Dimension,Hair Salons,$$,4.0,16
+89,worcester, ma,Snip-its Millbury,Kids Hair Salons,$$$,2.5,27
+90,worcester, ma,Creative Nails & Spa - Millbury,Nail Salons,$$$,2.5,22
+91,worcester, ma,Nini's Nails and Spa,Nail Salons,$$,1.5,3
+92,worcester, ma,Mademoiselle Nails & Spa,Nail Salons,$$,3.5,8
+93,worcester, ma,Hair We Are,Hair Salons,0,4.0,5
+94,worcester, ma,Pinky & Toes Nail Studio,Waxing,$$,3.0,56
+95,worcester, ma,Nubia Lonsdale,Skin Care,0,5.0,1
+96,worcester, ma,Massage Loft New England,Reiki,0,5.0,3
+97,worcester, ma,Supercuts,Hair Salons,$,3.0,9
+98,worcester, ma,K Curtis Massage,Massage Therapy,0,3.0,2
+99,worcester, ma,Mandelisa Salon,Hair Salons,$$$,3.5,2
+100,worcester, ma,Rob-Roy Hair Salons,Hair Salons,0,2.5,3
+101,worcester, ma,Xut Health Center,Massage,0,4.0,1
+102,worcester, ma,Extreme Nails & Spa,Nail Salons,$,3.5,15
+103,worcester, ma,D & D Nail Salon,Nail Salons,$$,3.5,8
+104,worcester, ma,T & C Nails,Nail Salons,$,2.0,28
+105,worcester, ma,Lovely Nails,Nail Salons,$,3.5,6
+106,worcester, ma,Polished,Nail Salons,$$,3.0,16
+107,worcester, ma,San Laurent Hair Artistry,Hair Salons,$$,4.0,20
+108,worcester, ma,Expo Nails,Nail Salons,$$,3.5,9
+109,worcester, ma,Tease Hair Studio,Hair Salons,$$,4.5,52
+110,worcester, ma,Q Nails & Spa,Nail Salons,$$,3.0,32
+111,worcester, ma,Golden Nails,Nail Salons,$$,3.5,8
+112,worcester, ma,PYP Beauty Studio,Makeup Artists,0,5.0,2
+113,worcester, ma,Peacock Nails and Hair Salon,Hair Salons,$$,4.0,13
+114,worcester, ma,SmartStyle,Hair Salons,0,3.5,5
+115,worcester, ma,Salon 77,Hair Salons,$$,4.0,27
+116,worcester, ma,Finally Kelly's,Hair Salons,0,2.5,8
+117,worcester, ma,LJ's Hair Hop,Hair Salons,$$$$,2.5,7
+118,worcester, ma,Chromatics Hair & Color,Massage,$$,5.0,1
+119,worcester, ma,Green Trees Asian Bodywork,Massage,0,4.0,12
