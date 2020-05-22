@@ -1,0 +1,28 @@
+Yelp
+Web scraping 
+API
+Selenium
+Pandas
+SKLearn
+Seaborn
+Python
+Data
+Restaurants
+Spa
+Massage
+PCI
+Population
+Census Bureau
+Bureau of Economic Analysis
+Correlation
+Predict
+Algorithm 
+Ratings
+Reviews
+Income
+CSV
+Brainstorm 
+Ideas
+Vastness
+
+
