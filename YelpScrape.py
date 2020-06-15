@@ -1,3 +1,5 @@
+#scrape yelp for business data
+
 import pandas as pd
 from lxml import html
 from bs4 import BeautifulSoup as bs
@@ -46,7 +48,7 @@ except:
 
 time.sleep(11)
 
-# click filter button
+    # click filter button
 def scrape(b):
     print('function called successfully')
     soup = bs(b.html, 'html.parser')
@@ -74,7 +76,7 @@ def scrape(b):
 scrape(b)
 
 time.sleep(11)
-# click next search page link
+    # click next search page link
 try:
     next_link = b.find_by_xpath('//*[@id="wrap"]/div[3]/div[2]/div/div[1]/div[1]/div[2]/div[2]/div[1]/div/div[1]/div/div[11]/span/a').click()
     scrape(b)
